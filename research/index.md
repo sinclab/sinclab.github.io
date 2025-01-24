@@ -5,16 +5,17 @@ nav:
   tooltip: Published works
 ---
 
-# {% include icon.html icon="fa-solid fa-microscope" %}Research
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+# {% include icon.html icon="fa-solid fa-brain" %}Research
 
 {% include section.html %}
 
 ## Highlighted
 
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
+{% include citation.html lookup="Advancing computational psychiatry through a social lens" style="rich" %}
+
+{% include citation.html lookup="Neurocomputational basis of learning when choices simultaneously affect both" style="rich" %}
+
+{% include citation.html lookup="Doing good and feeling good: Relationships between altruism and well-being for altruists, beneficiaries, and observers" style="rich" %}
 
 {% include section.html %}
 
