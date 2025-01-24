@@ -10,8 +10,13 @@
   date: '2024-10-28'
   link: https://doi.org/g82sfx
   orcid: 0000-0003-1350-9458
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  tags:
+  - computational psychiatry
+  - computational modeling
+  - mental health
+  - subjective well-being
 - id: doi:10.1038/s44159-024-00373-2
   title: Modelling game-theoretic predictions in social interactions
   authors:
@@ -20,8 +25,12 @@
   date: '2024-10-11'
   link: https://doi.org/g82sfz
   orcid: 0000-0003-1350-9458
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  tags:
+  - social inference
+  - social decision-making
+  - computational modeling
 - id: doi:10.1038/s41597-024-03865-1
   title: 'The International Climate Psychology Collaboration: Climate change-related
     data collected from 63 countries'
@@ -289,23 +298,32 @@
   date: '2024-10-01'
   link: https://doi.org/g8t6b8
   orcid: 0000-0003-1350-9458
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  tags:
+  - prosociality
+  - climate action
+  - intervention science
+  - open science
 - id: doi:10.31234/osf.io/qdr9y
   title: "Political ideology shapes beliefs about others\u2019 generosity, not one\u2019\
     s own generosity"
   authors:
   - Paige Amormino
-  - Shawn A Rhoads
+  - Shawn A. Rhoads
   - Kruti Vekaria
   - Lin Gan
   - Abigail Marsh
-  publisher: Center for Open Science
+  publisher: PsyArXiv
   date: '2024-06-13'
   link: https://doi.org/g82sf2
   orcid: 0000-0003-1350-9458
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  tags:
+  - prosociality
+  - social decision-making
+  - interpersonal perception
 - id: doi:10.31234/osf.io/5gpr4
   title: Large-scale cross-societal examination of real- and minimal-group biases
   authors:
@@ -600,7 +618,7 @@
   - Ido Zigdon
   - Amy Rose Krosch
   - Zlatomira Ilchovska
-  - Shawn A Rhoads
+  - Shawn A. Rhoads
   - Georgios Kountouriotis
   - Maria Cairney
   - Yalda Daryani
@@ -611,14 +629,19 @@
   - "Ceren G\xF6kda\u011F"
   - Ognen Spasovski
   - Yarrow Dunham
-  publisher: Center for Open Science
+  publisher: PsyArXiv
   date: '2024-06-05'
   link: https://doi.org/g82sf3
   orcid: 0000-0003-1350-9458
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  tags:
+  - prosociality
+  - social decision-making
+  - interpersonal perception
 - id: doi:10.1093/oxfordhb/9780197544754.013.25
-  title: Fear
+  title: 'Fear: An evolutionary perspective on its biological, behavioral, and communicative
+    features'
   authors:
   - "Katherine O\u2019Connell"
   - Shawn A. Rhoads
@@ -627,20 +650,29 @@
   date: '2024-05-22'
   link: https://doi.org/g82sf4
   orcid: 0000-0003-1350-9458
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  tags:
+  - emotion
+  - interpersonal perception
+  - affective experience
 - id: doi:10.31234/osf.io/g9e3z
   title: 'Modeling the minds of friends: Dorsomedial prefrontal cortex encodes accurate
     dyadic meta-evaluations about how others perceive us'
   authors:
-  - Shawn A Rhoads
+  - Shawn A. Rhoads
   - Abigail Marsh
-  publisher: Center for Open Science
+  publisher: PsyArXiv
   date: '2024-01-17'
   link: https://doi.org/g82sf5
   orcid: 0000-0003-1350-9458
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  tags:
+  - social connection
+  - social distance
+  - social inference
+  - interpersonal perception
 - id: doi:10.1126/sciadv.adj5778
   title: 'Addressing climate change with behavioral science: A global intervention
     tournament in 63 countries'
@@ -907,10 +939,15 @@
   date: '2024-02-09'
   link: https://doi.org/gthd4n
   orcid: 0000-0003-1350-9458
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  tags:
+  - prosociality
+  - climate action
+  - intervention science
+  - social decision-making
 - id: doi:10.1007/978-3-031-17125-3_501-1
-  title: Traits of Extraordinary Altruists
+  title: Traits of extraordinary altruists
   authors:
   - Shawn A. Rhoads
   - Abigail A. Marsh
@@ -918,13 +955,17 @@
   date: '2023-10-10'
   link: https://doi.org/g82sf6
   orcid: 0000-0003-1350-9458
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  tags:
+  - altruism
+  - prosociality
+  - individual differences
 - id: doi:10.1093/pnasnexus/pgad199
   title: "Neural responses underlying extraordinary altruists\u2019 generosity for\
     \ socially distant others"
   authors:
-  - Shawn A Rhoads
+  - Shawn A. Rhoads
   - Katherine O'Connell
   - Kathryn Berluti
   - Montana L Ploe
@@ -938,8 +979,16 @@
   date: '2023-06-13'
   link: https://doi.org/g82sf7
   orcid: 0000-0003-1350-9458
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  tags:
+  - altruism
+  - prosociality
+  - social distance
+  - social decision-making
+  - individual differences
+  - intervention science
+  - neuroimaging
 - id: doi:10.1101/2023.04.24.538109
   title: A generalizable computational mechanism underlying the interaction between
     momentary craving and decision-making
@@ -950,12 +999,18 @@
   - Vincenzo G. Fiore
   - Daniela Schiller
   - Xiaosi Gu
-  publisher: Cold Spring Harbor Laboratory
+  publisher: bioRxiv
   date: '2023-04-24'
   link: https://doi.org/g82sf8
   orcid: 0000-0003-1350-9458
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  tags:
+  - craving
+  - computational psychiatry
+  - mental health
+  - individual differences
+  - computational modeling
 - id: doi:10.1038/s41467-023-37283-5
   title: Unselfish traits and social decision-making patterns characterize six populations
     of real-world extraordinary altruists
@@ -971,8 +1026,14 @@
   date: '2023-03-31'
   link: https://doi.org/gr5pwx
   orcid: 0000-0003-1350-9458
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  tags:
+  - altruism
+  - prosociality
+  - social distance
+  - social decision-making
+  - individual differences
 - id: doi:10.1016/j.neubiorev.2023.105139
   title: 'Towards a neurocomputational account of social controllability: From models
     to mental health'
@@ -986,32 +1047,44 @@
   date: '2023-05-01'
   link: https://doi.org/g82sf9
   orcid: 0000-0003-1350-9458
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  tags:
+  - computational psychiatry
+  - mental health
+  - social inference
+  - computational modeling
 - id: doi:10.31234/osf.io/rf4x9
   title: Neurocomputational basis of learning when choices simultaneously affect both
     oneself and others
   authors:
-  - Shawn A Rhoads
+  - Shawn A. Rhoads
   - Lin Gan
   - Kathryn Berluti
   - Katherine O'Connell
   - Jo Cutler
   - Patricia Lockwood
   - Abigail Marsh
-  publisher: Center for Open Science
+  publisher: PsyArXiv
   date: '2023-02-24'
   link: https://doi.org/g82sgb
   orcid: 0000-0003-1350-9458
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  tags:
+  - social learning
+  - antisociality
+  - prosociality
+  - individual differences
+  - computational modeling
+  - neuroimaging
 - id: doi:10.1177/10870547211057074
   title: Associations of Irritability With Functional Connectivity of Amygdala and
     Nucleus Accumbens in Adolescents and Young Adults With ADHD
   authors:
   - Prerona Mukherjee
   - Veronika Vilgis
-  - Shawn Rhoads
+  - Shawn A. Rhoads
   - Rajpreet Chahal
   - Catherine Fassbender
   - Ellen Leibenluft
@@ -1025,33 +1098,48 @@
   date: '2021-11-02'
   link: https://doi.org/gnbxgz
   orcid: 0000-0003-1350-9458
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  tags:
+  - irritability
+  - individual differences
+  - mental health
+  - neuroimaging
 - id: doi:10.21105/jose.00146
   title: 'Computational models of human social behavior and neuroscience: An open
     educational course and Jupyter Book to advance computational training'
   authors:
-  - Shawn Rhoads
+  - Shawn A. Rhoads
   - Lin Gan
   publisher: Journal of Open Source Education
   date: '2022-01-26'
   link: https://doi.org/g82sgc
   orcid: 0000-0003-1350-9458
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  tags:
+  - open science
+  - computational modeling
 - id: doi:10.1093/scan/nsab079
   title: A feature-based network analysis and fMRI meta-analysis reveal three distinct
     types of prosocial decisions
   authors:
-  - Shawn A Rhoads
+  - Shawn A. Rhoads
   - Jo Cutler
   - Abigail A Marsh
   publisher: Social Cognitive and Affective Neuroscience
   date: '2021-06-23'
   link: https://doi.org/g82sgd
   orcid: 0000-0003-1350-9458
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  tags:
+  - social decision-making
+  - prosociality
+  - altruism
+  - cooperation
+  - equity
+  - neuroimaging
 - id: doi:10.1177/0956797621994767
   title: Global Variation in Subjective Well-Being Predicts Seven Forms of Altruism
   authors:
@@ -1063,8 +1151,13 @@
   date: '2021-07-08'
   link: https://doi.org/gk6cd8
   orcid: 0000-0003-1350-9458
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  tags:
+  - prosociality
+  - altruism
+  - social decision-making
+  - subjective well-being
 - id: doi:10.1016/j.neuron.2021.04.001
   title: 'Brainhack: Developing a culture of open, inclusive, community-driven neuroscience'
   authors:
@@ -1291,8 +1384,11 @@
   date: '2021-06-01'
   link: https://doi.org/gjt2b6
   orcid: 0000-0003-1350-9458
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  tags:
+  - open science
+  - neuroimaging
 - id: doi:10.1371/journal.pone.0244974
   title: Reduced social distancing early in the COVID-19 pandemic is associated with
     antisocial behaviors in an online United States sample
@@ -1305,8 +1401,11 @@
   date: '2021-01-07'
   link: https://doi.org/g82sgf
   orcid: 0000-0003-1350-9458
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  tags:
+  - antisociality
+  - social decision-making
 - id: doi:10.1111/jcpp.13184
   title: Girls' brain structural connectivity in late adolescence relates to history
     of depression symptoms
@@ -1323,11 +1422,14 @@
   date: '2019-12-26'
   link: https://doi.org/ggs5tb
   orcid: 0000-0003-1350-9458
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  tags:
+  - neuroimaging
+  - individual differences
+  - mental health
 - id: doi:10.1521/pedi.2020.34.5.628
-  title: Reduced Multivoxel Pattern Similarity of Vicarious Neural Pain Responses
-    in Psychopathy
+  title: Reduced multivoxel pattern similarity of vicarious neural pain responses
   authors:
   - Kathryn Berluti
   - Katherine M. O'Connell
@@ -1343,8 +1445,13 @@
   date: '2020-10-01'
   link: https://doi.org/g82sgg
   orcid: 0000-0003-1350-9458
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  tags:
+  - empathy
+  - antisociality
+  - neuroimaging
+  - individual differences
 - id: doi:10.1016/j.cortex.2020.02.001
   title: Activation in bed nucleus of the stria terminalis (BNST) corresponds to everyday
     helping
@@ -1362,8 +1469,14 @@
   date: '2020-06-01'
   link: https://doi.org/gks3wd
   orcid: 0000-0003-1350-9458
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  tags:
+  - empathy
+  - altruism
+  - prosociality
+  - neuroimaging
+  - individual differences
 - id: doi:10.1002/hbm.24836
   title: "Direct replication of task\u2010dependent neural activation patterns during\
     \ sadness introspection in two independent adolescent samples"
@@ -1381,8 +1494,14 @@
   date: '2019-10-22'
   link: https://doi.org/gpdrjr
   orcid: 0000-0003-1350-9458
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  tags:
+  - emotion
+  - interpersonal perception
+  - individual differences
+  - mental health
+  - neuroimaging
 - id: doi:10.1017/pen.2020.13
   title: 'Mapping neural activity patterns to contextualized fearful facial expressions
     onto callous-unemotional (CU) traits: intersubject representational similarity
@@ -1398,8 +1517,13 @@
   date: '2020-01-01'
   link: https://doi.org/g34v6p
   orcid: 0000-0003-1350-9458
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  tags:
+  - emotion
+  - interpersonal perception
+  - individual differences
+  - neuroimaging
 - id: doi:10.1038/s41598-019-47196-3
   title: Increased similarity of neural responses to experienced and empathic distress
     in costly altruism
@@ -1417,8 +1541,14 @@
   date: '2019-07-24'
   link: https://doi.org/gks3w8
   orcid: 0000-0003-1350-9458
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  tags:
+  - empathy
+  - altruism
+  - prosociality
+  - neuroimaging
+  - individual differences
 - id: doi:10.1037/emo0000532
   title: A multi-semester classroom demonstration yields evidence in support of the
     facial feedback effect.
@@ -1430,5 +1560,8 @@
   date: '2019-12-01'
   link: https://doi.org/gf5sj2
   orcid: 0000-0003-1350-9458
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  tags:
+  - emotion
+  - affective experience

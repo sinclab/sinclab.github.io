@@ -1,27 +1,1594 @@
-# - id: doi:10.1371/journal.pcbi.1007128
-#   type: paper
-#   description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-#   date: 2020-12-4
-#   image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-#   buttons:
-#     - type: manubot
-#       link: https://greenelab.github.io/meta-review/
-#     - type: source
-#       text: Manuscript Source
-#       link: https://github.com/greenelab/meta-review
-#     - type: website
-#       link: http://manubot.org/
-#   tags:
-#     - open science
-#     - collaboration
-#   repo: greenelab/meta-review
-
-# - id: doi:10.1016/j.csbj.2020.05.017
-#   image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
-
-# - id: doi:10.7554/eLife.32822
-#   image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
-
-# remove openreview paper in ORCID
 - id: uri:https://openreview.net/forum?id=p3T9CtEu1S
   remove: true
+
+- id: doi:10.1038/s44220-024-00343-w
+  title: Advancing computational psychiatry through a social lens
+  authors:
+  - Shawn A. Rhoads
+  - Xiaosi Gu
+  - Joseph M. Barnby
+  publisher: Nature Mental Health
+  date: '2024-10-28'
+  link: https://doi.org/g82sfx
+  orcid: 0000-0003-1350-9458
+  plugin: orcid.py
+  file: orcid.yaml
+  tags:
+    - computational psychiatry
+    - computational modeling
+    - mental health
+    - "subjective well-being"
+
+- id: doi:10.1038/s44159-024-00373-2
+  title: Modelling game-theoretic predictions in social interactions
+  authors:
+  - Shawn A. Rhoads
+  publisher: Nature Reviews Psychology
+  date: '2024-10-11'
+  link: https://doi.org/g82sfz
+  orcid: 0000-0003-1350-9458
+  plugin: orcid.py
+  file: orcid.yaml
+  tags:
+    - social inference
+    - "social decision-making"
+    - computational modeling
+
+- id: doi:10.1038/s41597-024-03865-1
+  title: 'The International Climate Psychology Collaboration: Climate change-related
+    data collected from 63 countries'
+  authors:
+  - Kimberly C. Doell
+  - Boryana Todorova
+  - Madalina Vlasceanu
+  - Joseph B. Bak Coleman
+  - Ekaterina Pronizius
+  - Philipp Schumann
+  - Flavio Azevedo
+  - Yash Patel
+  - Michael M. Berkebile-Wineberg
+  - Cameron Brick
+  - Florian Lange
+  - Samantha J. Grayson
+  - Yifei Pei
+  - Alek Chakroff
+  - Karlijn L. van den Broek
+  - Claus Lamm
+  - Denisa Vlasceanu
+  - Sara M. Constantino
+  - Steve Rathje
+  - Danielle Goldwert
+  - Ke Fang
+  - Salvatore Maria Aglioti
+  - Mark Alfano
+  - Andy J. Alvarado-Yepez
+  - "Ang\xE9lica Andersen"
+  - Frederik Anseel
+  - Matthew A. J. Apps
+  - Chillar Asadli
+  - Fonda Jane Awuor
+  - Piero Basaglia
+  - "Jocelyn J. B\xE9langer"
+  - Sebastian Berger
+  - Paul Bertin
+  - "Micha\u0142 Bia\u0142ek"
+  - Olga Bialobrzeska
+  - Michelle Blaya-Burgo
+  - "Dani\xEBlle N. M. Bleize"
+  - "Simen B\xF8"
+  - Lea Boecker
+  - Paulo S. Boggio
+  - Sylvie Borau
+  - Sylvie Borau
+  - "Bj\xF6rn Bos"
+  - Ayoub Bouguettaya
+  - Markus Brauer
+  - Tymofii Brik
+  - Roman Briker
+  - Tobias Brosch
+  - Ondrej Buchel
+  - Daniel Buonauro
+  - Radhika Butalia
+  - "H\xE9ctor Carvacho"
+  - Sarah A. E. Chamberlain
+  - Hang-Yee Chan
+  - Dawn Chow
+  - Dongil Chung
+  - Luca Cian
+  - Noa Cohen-Eick
+  - Luis Sebastian Contreras-Huerta
+  - Davide Contu
+  - Vladimir Cristea
+  - Jo Cutler
+  - "Silvana D\u2019Ottone"
+  - Jonas De keersmaecker
+  - Sarah Delcourt
+  - "Sylvain Delouv\xE9e"
+  - Kathi Diel
+  - Benjamin D. Douglas
+  - Moritz A. Drupp
+  - Shreya Dubey
+  - "J\u0101nis Ekmanis"
+  - Christian T. Elbaek
+  - Mahmoud Elsherif
+  - Iris M. Engelhard
+  - Yannik A. Escher
+  - Tom W. Etienne
+  - Laura Farage
+  - Ana Rita Farias
+  - Stefan Feuerriegel
+  - Andrej Findor
+  - Lucia Freira
+  - Malte Friese
+  - Neil Philip Gains
+  - Albina Gallyamova
+  - Sandra J. Geiger
+  - Oliver Genschow
+  - Biljana Gjoneska
+  - Theofilos Gkinopoulos
+  - Beth Goldberg
+  - Amit Goldenberg
+  - Sarah Gradidge
+  - Simone Grassini
+  - Kurt Gray
+  - Sonja Grelle
+  - "Siobh\xE1n M. Griffin"
+  - Lusine Grigoryan
+  - Ani Grigoryan
+  - Dmitry Grigoryev
+  - June Gruber
+  - Johnrev Guilaran
+  - Britt Hadar
+  - Ulf J. J. Hahnel
+  - Eran Halperin
+  - Annelie J. Harvey
+  - Christian A. P. Haugestad
+  - Aleksandra M. Herman
+  - Hal E. Hershfield
+  - Toshiyuki Himichi
+  - Donald W. Hine
+  - Wilhelm Hofmann
+  - Lauren Howe
+  - Enma T. Huaman-Chulluncuy
+  - Guanxiong Huang
+  - Tatsunori Ishii
+  - Ayahito Ito
+  - Fanli Jia
+  - John T. Jost
+  - "Veljko Jovanovi\u0107"
+  - Dominika Jurgiel
+  - "Ond\u0159ej K\xE1cha"
+  - "Reeta Kankaanp\xE4\xE4"
+  - Jaroslaw Kantorowicz
+  - Elena Kantorowicz-Reznichenko
+  - Keren Kaplan Mintz
+  - Ilker Kaya
+  - Ozgur Kaya
+  - Narine Khachatryan
+  - Anna Klas
+  - Colin Klein
+  - "Christian A. Kl\xF6ckner"
+  - Lina Koppel
+  - Alexandra I. Kosachenko
+  - Emily J. Kothe
+  - Ruth Krebs
+  - Amy R. Krosch
+  - Andre P. M. Krouwel
+  - Yara Kyrychenko
+  - Maria Lagomarsino
+  - Julia Lee Cunningham
+  - Jeffrey Lees
+  - Tak Yan Leung
+  - Neil Levy
+  - Patricia L. Lockwood
+  - Chiara Longoni
+  - "Alberto L\xF3pez Ortega"
+  - David D. Loschelder
+  - Jackson G. Lu
+  - Yu Luo
+  - Joseph Luomba
+  - Annika E. Lutz
+  - Johann M. Majer
+  - Ezra Markowitz
+  - Abigail A. Marsh
+  - Karen Louise Mascarenhas
+  - Bwambale Mbilingi
+  - Winfred Mbungu
+  - Cillian McHugh
+  - Marijn H. C. Meijers
+  - Hugo Mercier
+  - Fenant Laurent Mhagama
+  - Katerina Michalaki
+  - Nace Mikus
+  - Sarah G. Milliron
+  - Panagiotis Mitkidis
+  - "Fredy S. Monge-Rodr\xEDguez"
+  - Youri L. Mora
+  - Michael J. Morais
+  - David Moreau
+  - Kosuke Motoki
+  - Manuel Moyano
+  - Mathilde Mus
+  - Joaquin Navajas
+  - Tam Luong Nguyen
+  - Dung Minh Nguyen
+  - Trieu Nguyen
+  - Laura Niemi
+  - Sari R. R. Nijssen
+  - Gustav Nilsonne
+  - Jonas P. Nitschke
+  - Laila Nockur
+  - Ritah Okura
+  - "Sezin \xD6ner"
+  - "Asil Ali \xD6zdo\u011Fru"
+  - Helena Palumbo
+  - Costas Panagopoulos
+  - Maria Serena Panasiti
+  - "Philip P\xE4rnamets"
+  - Mariola Paruzel-Czachura
+  - Yuri G. Pavlov
+  - "C\xE9sar Pay\xE1n-G\xF3mez"
+  - Adam R. Pearson
+  - Leonor Pereira da Costa
+  - Hannes M. Petrowsky
+  - Stefan Pfattheicher
+  - Nhat Tan Pham
+  - Vladimir Ponizovskiy
+  - Clara Pretus
+  - "Gabriel G. R\xEAgo"
+  - Ritsaart Reimann
+  - Shawn A. Rhoads
+  - Julian Riano-Moreno
+  - Isabell Richter
+  - "Jan Philipp R\xF6er"
+  - Jahred Rosa-Sullivan
+  - Robert M. Ross
+  - Anandita Sabherwal
+  - Toshiki Saito
+  - Oriane Sarrasin
+  - Nicolas Say
+  - Katharina Schmid
+  - Michael T. Schmitt
+  - Philipp Schoenegger
+  - Christin Scholz
+  - Mariah G. Schug
+  - Stefan Schulreich
+  - Ganga Shreedhar
+  - Eric Shuman
+  - Smadar Sivan
+  - "Hallgeir Sj\xE5stad"
+  - Meikel Soliman
+  - Katia Soud
+  - Tobia Spampatti
+  - Gregg Sparkman
+  - Ognen Spasovski
+  - Samantha K. Stanley
+  - Jessica A. Stern
+  - Noel Strahm
+  - Yasushi Suko
+  - Sunhae Sul
+  - Stylianos Syropoulos
+  - Neil C. Taylor
+  - Elisa Tedaldi
+  - "Gustav Tingh\xF6g"
+  - Luu Duc Toan Huynh
+  - Giovanni Antonio Travaglino
+  - Manos Tsakiris
+  - "\u0130layda T\xFCter"
+  - Michael Tyrala
+  - "\xD6zden Melis Ulu\u011F"
+  - Arkadiusz Urbanek
+  - Danila Valko
+  - Sander van der Linden
+  - Kevin van Schie
+  - Aart van Stekelenburg
+  - Edmunds Vanags
+  - "Daniel V\xE4stfj\xE4ll"
+  - Stepan Vesely
+  - "J\xE1chym Vintr"
+  - Marek Vranka
+  - Patrick Otuo Wanguche
+  - Robb Willer
+  - Adrian Dominik Wojcik
+  - Rachel Xu
+  - Anjali Yadav
+  - Magdalena Zawisza
+  - Xian Zhao
+  - Jiaying Zhao
+  - "Dawid \u017Buk"
+  - Jay J. Van Bavel
+  publisher: Scientific Data
+  date: '2024-10-01'
+  link: https://doi.org/g8t6b8
+  orcid: 0000-0003-1350-9458
+  plugin: orcid.py
+  file: orcid.yaml
+  tags:
+    - prosociality
+    - climate action
+    - intervention science
+    - open science
+
+- id: doi:10.31234/osf.io/qdr9y
+  title: "Political ideology shapes beliefs about others\u2019 generosity, not one\u2019\
+    s own generosity"
+  authors:
+  - Paige Amormino
+  - Shawn A. Rhoads
+  - Kruti Vekaria
+  - Lin Gan
+  - Abigail Marsh
+  publisher: PsyArXiv
+  date: '2024-06-13'
+  link: https://doi.org/g82sf2
+  orcid: 0000-0003-1350-9458
+  plugin: sources.py
+  file: sources.yaml
+  tags:
+    - prosociality
+    - "social decision-making"
+    - interpersonal perception
+
+- id: doi:10.31234/osf.io/5gpr4
+  title: Large-scale cross-societal examination of real- and minimal-group biases
+  authors:
+  - Xin Yang
+  - Jonathan Friedemann Schulz
+  - Kathleen Schmidt
+  - Adam R Kenny
+  - Gerit Pfuhl
+  - Biljana Gjoneska
+  - Ilker Dalgar
+  - Savannah C Lewis
+  - Anna Exner
+  - Erin Michelle Buchanan
+  - Karen Lander
+  - Maja Becker
+  - Hongfei Du
+  - Akshay Johri
+  - Emre Selcuk
+  - Albina Gallyamova
+  - Cinzia Calluso
+  - Niv Reggev
+  - Marek Albert Vranka
+  - Oguz A. Acar
+  - "Tom\xE1s A Palma"
+  - miroslaw kocur
+  - Juan C. Oliveros
+  - Maria Montefinese
+  - Leigh Solano Wilton
+  - Leigh Solano Wilton
+  - "Przemys\u0142aw Zdybek"
+  - Paulo RS Ferreira
+  - Stefan Pfattheicher
+  - Handan Akkas
+  - Frederique Autin
+  - Agnieszka Sorokowska
+  - Steve M. J. Janssen
+  - David Scott March
+  - Danielle Magan Young
+  - Jaroslava Varella Valentova
+  - Esra H. Oguz Tasbas
+  - Mehmet Fatih Bukun
+  - Isabella Giammusso
+  - Mark John Brandt
+  - Cleno Couto
+  - Derek Alexander Simon
+  - Jo Cutler
+  - Marjorie L. Prokosch
+  - "Hallgeir Sj\xE5stad"
+  - Efisio Manunta
+  - Stephen Whyte
+  - Abigail Marsh
+  - Marietta Papadatou-Pastou
+  - Bastian Jaeger
+  - Coby Morvinski
+  - Maximilian Primbs
+  - Atakan M. Akil
+  - Hansika Kapoor
+  - Krystian Barzykowski
+  - Sakshi Ghai
+  - David Moreau
+  - Martin Seehuus
+  - Marta Kowal
+  - Thomas Rhys Evans
+  - Kimberley Hill
+  - Dustin P Calvillo
+  - Sera Wiechert
+  - Reza Afhami
+  - Karlijn Hoyer
+  - Max Korbmacher
+  - Christian T. Elbaek
+  - Zainab Alsuhaibani
+  - Ekaterina Pronizius
+  - Qianqain Cui
+  - Jenny Cundiff
+  - Alireza Taghipanahi
+  - R. Thora Bjornsdottir
+  - Ernest Baskin
+  - Tolga Ergiyen
+  - Irem Metin-Orta
+  - W. Matthew Collins
+  - "Simen B\xF8"
+  - Marco Marinucci
+  - Bradley James Baker
+  - "Asil Ali \xD6zdo\u011Fru"
+  - Michele Anne
+  - Martyn Standage
+  - Alexa Mary Tullett
+  - Taciano L Milfont
+  - Francis Flynn
+  - Radka Zidkova
+  - Susana Ruiz-Fernandez
+  - Tobias Sachs
+  - Ennio Bilancini
+  - Steven Verheyen
+  - "S\xE9bastien Massoni"
+  - Jiahui Wen
+  - "Andr\xE9s Camargo"
+  - Yilin Andre Wang
+  - Steven Zhou
+  - Hannah Katharina Peetz
+  - Dmitry Grigoryev
+  - Omid Ghasemi
+  - Erin Corwin Westgate
+  - Clare Sutherland
+  - Leanne Boucher
+  - Lusine Grigoryan
+  - Aspa Paltoglou
+  - Ali H. Al-Hoorie
+  - Donald F. Sacco
+  - Andrew G. Thomas
+  - Gerald Haeffel
+  - William E. Davis
+  - Tara M Mandalaywala
+  - Francisco Cruz
+  - Robert M Ross
+  - Xiaoming Jiang
+  - Anna Studzinska
+  - "Andrei Dumbrav\u0103"
+  - "Micha\u0142 Misiak"
+  - Ulrich S. Tran
+  - Fatima Maria Felisberti
+  - Tamas Nagy
+  - Gul Gunaydin
+  - Jacob Francisco Miranda
+  - Maciej Behnke
+  - Karen Akin
+  - Jana Berkessel
+  - David Charles Johnson
+  - Yang Wu
+  - Hendrik Godbersen
+  - John Edlund
+  - "Am\xE9lie Gourdon-Kanhukamwe"
+  - Doug Martin
+  - Jasmine B Norman
+  - Carlota Batres
+  - Bahtim Kutuk
+  - Ewa Szumowska
+  - Daniel Storage
+  - Ayoub Bouguettaya
+  - Samuel Lins
+  - Martin Voracek
+  - Petr Tavel
+  - "Bastien Tr\xE9moli\xE8re"
+  - Wilson Cyrus-Lai
+  - Shilaan Alzahawi
+  - Leif Douglas Anderson
+  - "Jan Philipp R\xF6er"
+  - Klara Malinakova
+  - Alper KARABABA
+  - Radoslaw B. Walczak
+  - Gianni Ribeiro
+  - "Erkin Sar\u0131"
+  - Katarzyna Pypno-Blajda
+  - Mariola Paruzel-Czachura
+  - Giovanni A. Travaglino
+  - Maital Neta
+  - David C. Vaidis
+  - Jackson G. Lu
+  - Srinivasan Tatachari
+  - "Selin Metin Camg\xF6z"
+  - Patricia Lockwood
+  - Panagiotis Mitkidis
+  - Wenzheng Lin
+  - Steve Rathje
+  - Tjits van Lent
+  - Hedy Greijdanus
+  - Ruddy Faure
+  - Claus Lamm
+  - Cameron Brick
+  - Xian Zhao
+  - Sibele Dias Aquino
+  - Jose Luis Ulloa Fulgeri
+  - Bradley Walker
+  - W. P. Malecki
+  - Nigel Mantou Lou
+  - Veronica Pizziol
+  - Anna O. Kuzminska
+  - Michael Schepisi
+  - "Arca Ad\u0131g\xFCzel"
+  - Gizem Karadeniz
+  - "Emine Y\xFCcel"
+  - Chris Isloi
+  - "Patrycja Chwi\u0142kowska"
+  - Zhaoliang Yu
+  - Nicolas Fay
+  - Kostas Papaioannou
+  - Mhmet Peker
+  - Guanxiong Huang
+  - Rita W. El-Haddad
+  - Bruno Verschuere
+  - Zdenek Meier
+  - Leigh Ann Vaughn
+  - Nihan Albayrak-Aydemir
+  - Stefan Stieger
+  - "Sami \xC7oksan"
+  - Gijsbert Bijlstra
+  - Sara Gouveia Alves
+  - Andree Hartanto
+  - Peter Robert Mallik
+  - Waleed Jami
+  - Rong Chen
+  - Katharina Fellnhofer
+  - Gabriela Mariana Marcu
+  - Luisa Batalha
+  - Halil Emre Kocalar
+  - Luc Vieira
+  - Ilka Helene Gleibs
+  - MohammadHasan Sharifian
+  - Stavros P. Hadjisolomou
+  - Paolo Riva
+  - Miroslav Sirota
+  - "Lukas Nov\xE1k"
+  - Piotr Sorokowski
+  - Yansong Li
+  - Mahmoud Medhat Elsherif
+  - Catarina Carvalho
+  - "Tiago Jess\xE9 Souza Lima"
+  - Aaron Baker
+  - Tatsunori Ishii
+  - Nobuhiro Mifune
+  - Asako Miura
+  - Yohsuke Ohtsubo
+  - Ryu Takahashi
+  - Anna Szala
+  - Kelly Wolfe
+  - "Fatih \xD6zdemir"
+  - Elizaveta Komyaginskaya
+  - QY Wu
+  - Leonardo Boncinelli
+  - Jing Lin
+  - Rashmi Gupta
+  - Mohammad Hossein Vazirian
+  - Mohammadhesam Hajighasemi
+  - Amir Sepehri
+  - Kim Olivia Peters
+  - "C\xE9cile Emery"
+  - Hannah Collis
+  - Levke Henningsen
+  - Salvatore Maria Aglioti
+  - Alberto Mirisola
+  - "Diego Manr\xEDquez-Robles"
+  - Maria Jose Baeza Rivera
+  - "Camila Salazar-Fern\xE1ndez"
+  - Saeed Paydarfard
+  - Anna Dorfman
+  - Ram Hadar
+  - Muhammad Mussaffa Butt
+  - Lile Jia
+  - Khai Qing Chua
+  - Ismaharif Ismail
+  - David Willinger
+  - Angelique Siebenhandl
+  - Gwenael Kaminski
+  - Tia Bennett
+  - Amelia Kohl
+  - Laura Stevens
+  - Heather D. Flowe
+  - Melissa Fay Colloff
+  - Kyra Scott
+  - Kirstin Wagner
+  - Madeleine Ingham
+  - Shwetha Mudabagilu Krishnappa
+  - Marco Fabbri
+  - Plinio Limata
+  - Laura Smalarz
+  - Rose Eerdmans
+  - Pablo Branas-Garza
+  - ADRIANA GAVIRIA
+  - "Antonio M. Esp\xEDn"
+  - "Jarom\xEDr Kov\xE1\u0159\xEDk"
+  - "Yenny Ot\xE1lora"
+  - Maayan Katzir
+  - Juan M. Benito-Ostolaza
+  - Roberto Martin Nolan Galang
+  - Eduardo Ezekiel Denzon
+  - Hernando Taborda-Osorio
+  - Nur Amali Aminnuddin
+  - "G\xFClin Ka\xE7a"
+  - Merve Boga
+  - Daria Malysheva
+  - Sercan Balim
+  - "P\u0131nar B\xFCrhan"
+  - Deniz Bilger
+  - Lei Liu
+  - Elliott Tyler Kruse
+  - "\xC7a\u011Flar Solak"
+  - "Burcu Akp\u0131nar"
+  - "B\xFC\u015Fra Co\u015Fkun"
+  - "Do\u011Fa G\xFCl"
+  - "S\xFCmeyye Muftarevi\xE7"
+  - Eliane Deschrijver
+  - Ido Zigdon
+  - Amy Rose Krosch
+  - Zlatomira Ilchovska
+  - Shawn A. Rhoads
+  - Georgios Kountouriotis
+  - Maria Cairney
+  - Yalda Daryani
+  - Natalia Lopez Tome
+  - "Anke G\xF6rzig"
+  - Serkan Ozcakan
+  - Lucia Freira
+  - "Ceren G\xF6kda\u011F"
+  - Ognen Spasovski
+  - Yarrow Dunham
+  publisher: PsyArXiv
+  date: '2024-06-05'
+  link: https://doi.org/g82sf3
+  orcid: 0000-0003-1350-9458
+  plugin: sources.py
+  file: sources.yaml
+  tags:
+    - prosociality
+    - "social decision-making"
+    - interpersonal perception
+
+- id: doi:10.1093/oxfordhb/9780197544754.013.25
+  title: 'Fear: An evolutionary perspective on its biological, behavioral, and communicative
+    features'
+  authors:
+  - "Katherine O\u2019Connell"
+  - Shawn A. Rhoads
+  - Abigail A. Marsh
+  publisher: The Oxford Handbook of Evolution and the Emotions
+  date: '2024-05-22'
+  link: https://doi.org/g82sf4
+  orcid: 0000-0003-1350-9458
+  plugin: sources.py
+  file: sources.yaml
+  tags:
+    - emotion
+    - interpersonal perception
+    - affective experience
+
+- id: doi:10.31234/osf.io/g9e3z
+  title: 'Modeling the minds of friends: Dorsomedial prefrontal cortex encodes accurate
+    dyadic meta-evaluations about how others perceive us'
+  authors:
+  - Shawn A. Rhoads
+  - Abigail Marsh
+  publisher: PsyArXiv
+  date: '2024-01-17'
+  link: https://doi.org/g82sf5
+  orcid: 0000-0003-1350-9458
+  plugin: sources.py
+  file: sources.yaml
+  tags:
+    - social connection
+    - social distance
+    - social inference
+    - interpersonal perception
+
+- id: doi:10.1126/sciadv.adj5778
+  title: 'Addressing climate change with behavioral science: A global intervention
+    tournament in 63 countries'
+  authors:
+  - Madalina Vlasceanu
+  - Kimberly C. Doell
+  - Joseph B. Bak-Coleman
+  - Boryana Todorova
+  - Michael M. Berkebile-Weinberg
+  - Samantha J. Grayson
+  - Yash Patel
+  - Danielle Goldwert
+  - Yifei Pei
+  - Alek Chakroff
+  - Ekaterina Pronizius
+  - Karlijn L. van den Broek
+  - Denisa Vlasceanu
+  - Sara Constantino
+  - Michael J. Morais
+  - Philipp Schumann
+  - Steve Rathje
+  - Ke Fang
+  - Salvatore Maria Aglioti
+  - Mark Alfano
+  - Andy J. Alvarado-Yepez
+  - "Ang\xE9lica Andersen"
+  - Frederik Anseel
+  - Matthew A. J. Apps
+  - Chillar Asadli
+  - Fonda Jane Awuor
+  - Flavio Azevedo
+  - Piero Basaglia
+  - "Jocelyn J. B\xE9langer"
+  - Sebastian Berger
+  - Paul Bertin
+  - "Micha\u0142 Bia\u0142ek"
+  - Olga Bialobrzeska
+  - Michelle Blaya-Burgo
+  - "Dani\xEBlle N. M. Bleize"
+  - "Simen B\xF8"
+  - Lea Boecker
+  - Paulo S. Boggio
+  - Sylvie Borau
+  - "Bj\xF6rn Bos"
+  - Ayoub Bouguettaya
+  - Markus Brauer
+  - Cameron Brick
+  - Tymofii Brik
+  - Roman Briker
+  - Tobias Brosch
+  - Ondrej Buchel
+  - Daniel Buonauro
+  - Radhika Butalia
+  - "H\xE9ctor Carvacho"
+  - Sarah A. E. Chamberlain
+  - Hang-Yee Chan
+  - Dawn Chow
+  - Dongil Chung
+  - Luca Cian
+  - Noa Cohen-Eick
+  - Luis Sebastian Contreras-Huerta
+  - Davide Contu
+  - Vladimir Cristea
+  - Jo Cutler
+  - Silvana D'Ottone
+  - Jonas De Keersmaecker
+  - Sarah Delcourt
+  - "Sylvain Delouv\xE9e"
+  - Kathi Diel
+  - Benjamin D. Douglas
+  - Moritz A. Drupp
+  - Shreya Dubey
+  - "J\u0101nis Ekmanis"
+  - Christian T. Elbaek
+  - Mahmoud Elsherif
+  - Iris M. Engelhard
+  - Yannik A. Escher
+  - Tom W. Etienne
+  - Laura Farage
+  - Ana Rita Farias
+  - Stefan Feuerriegel
+  - Andrej Findor
+  - Lucia Freira
+  - Malte Friese
+  - Neil Philip Gains
+  - Albina Gallyamova
+  - Sandra J. Geiger
+  - Oliver Genschow
+  - Biljana Gjoneska
+  - Theofilos Gkinopoulos
+  - Beth Goldberg
+  - Amit Goldenberg
+  - Sarah Gradidge
+  - Simone Grassini
+  - Kurt Gray
+  - Sonja Grelle
+  - "Siobh\xE1n M. Griffin"
+  - Lusine Grigoryan
+  - Ani Grigoryan
+  - Dmitry Grigoryev
+  - June Gruber
+  - Johnrev Guilaran
+  - Britt Hadar
+  - Ulf J.J. Hahnel
+  - Eran Halperin
+  - Annelie J. Harvey
+  - Christian A. P. Haugestad
+  - Aleksandra M. Herman
+  - Hal E. Hershfield
+  - Toshiyuki Himichi
+  - Donald W. Hine
+  - Wilhelm Hofmann
+  - Lauren Howe
+  - Enma T. Huaman-Chulluncuy
+  - Guanxiong Huang
+  - Tatsunori Ishii
+  - Ayahito Ito
+  - Fanli Jia
+  - John T. Jost
+  - "Veljko Jovanovi\u0107"
+  - Dominika Jurgiel
+  - "Ond\u0159ej K\xE1cha"
+  - "Reeta Kankaanp\xE4\xE4"
+  - Jaroslaw Kantorowicz
+  - Elena Kantorowicz-Reznichenko
+  - Keren Kaplan Mintz
+  - Ilker Kaya
+  - Ozgur Kaya
+  - Narine Khachatryan
+  - Anna Klas
+  - Colin Klein
+  - "Christian A. Kl\xF6ckner"
+  - Lina Koppel
+  - Alexandra I. Kosachenko
+  - Emily J. Kothe
+  - Ruth Krebs
+  - Amy R. Krosch
+  - Andre P.M. Krouwel
+  - Yara Kyrychenko
+  - Maria Lagomarsino
+  - Claus Lamm
+  - Florian Lange
+  - Julia Lee Cunningham
+  - Jeffrey Lees
+  - Tak Yan Leung
+  - Neil Levy
+  - Patricia L. Lockwood
+  - Chiara Longoni
+  - "Alberto L\xF3pez Ortega"
+  - David D. Loschelder
+  - Jackson G. Lu
+  - Yu Luo
+  - Joseph Luomba
+  - Annika E. Lutz
+  - Johann M. Majer
+  - Ezra Markowitz
+  - Abigail A. Marsh
+  - Karen Louise Mascarenhas
+  - Bwambale Mbilingi
+  - Winfred Mbungu
+  - Cillian McHugh
+  - Marijn H.C. Meijers
+  - Hugo Mercier
+  - Fenant Laurent Mhagama
+  - Katerina Michalakis
+  - Nace Mikus
+  - Sarah Milliron
+  - Panagiotis Mitkidis
+  - "Fredy S. Monge-Rodr\xEDguez"
+  - Youri L. Mora
+  - David Moreau
+  - Kosuke Motoki
+  - Manuel Moyano
+  - Mathilde Mus
+  - Joaquin Navajas
+  - Tam Luong Nguyen
+  - Dung Minh Nguyen
+  - Trieu Nguyen
+  - Laura Niemi
+  - Sari R. R. Nijssen
+  - Gustav Nilsonne
+  - Jonas P. Nitschke
+  - Laila Nockur
+  - Ritah Okura
+  - "Sezin \xD6ner"
+  - "Asil Ali \xD6zdo\u011Fru"
+  - Helena Palumbo
+  - Costas Panagopoulos
+  - Maria Serena Panasiti
+  - "Philip P\xE4rnamets"
+  - Mariola Paruzel-Czachura
+  - Yuri G. Pavlov
+  - "C\xE9sar Pay\xE1n-G\xF3mez"
+  - Adam R. Pearson
+  - Leonor Pereira da Costa
+  - Hannes M. Petrowsky
+  - Stefan Pfattheicher
+  - Nhat Tan Pham
+  - Vladimir Ponizovskiy
+  - Clara Pretus
+  - "Gabriel G. R\xEAgo"
+  - Ritsaart Reimann
+  - Shawn A. Rhoads
+  - Julian Riano-Moreno
+  - Isabell Richter
+  - "Jan Philipp R\xF6er"
+  - Jahred Rosa-Sullivan
+  - Robert M. Ross
+  - Anandita Sabherwal
+  - Toshiki Saito
+  - Oriane Sarrasin
+  - Nicolas Say
+  - Katharina Schmid
+  - Michael T. Schmitt
+  - Philipp Schoenegger
+  - Christin Scholz
+  - Mariah G. Schug
+  - Stefan Schulreich
+  - Ganga Shreedhar
+  - Eric Shuman
+  - Smadar Sivan
+  - "Hallgeir Sj\xE5stad"
+  - Meikel Soliman
+  - Katia Soud
+  - Tobia Spampatti
+  - Gregg Sparkman
+  - Ognen Spasovski
+  - Samantha K. Stanley
+  - Jessica A. Stern
+  - Noel Strahm
+  - Yasushi Suko
+  - Sunhae Sul
+  - Stylianos Syropoulos
+  - Neil C. Taylor
+  - Elisa Tedaldi
+  - "Gustav Tingh\xF6g"
+  - Luu Duc Toan Huynh
+  - Giovanni Antonio Travaglino
+  - Manos Tsakiris
+  - "\u0130layda T\xFCter"
+  - Michael Tyrala
+  - "\xD6zden Melis Ulu\u011F"
+  - Arkadiusz Urbanek
+  - Danila Valko
+  - Sander van der Linden
+  - Kevin van Schie
+  - Aart van Stekelenburg
+  - Edmunds Vanags
+  - "Daniel V\xE4stfj\xE4ll"
+  - Stepan Vesely
+  - "J\xE1chym Vintr"
+  - Marek Vranka
+  - Patrick Otuo Wanguche
+  - Robb Willer
+  - Adrian Dominik Wojcik
+  - Rachel Xu
+  - Anjali Yadav
+  - Magdalena Zawisza
+  - Xian Zhao
+  - Jiaying Zhao
+  - "Dawid \u017Buk"
+  - Jay J. Van Bavel
+  publisher: Science Advances
+  date: '2024-02-09'
+  link: https://doi.org/gthd4n
+  orcid: 0000-0003-1350-9458
+  plugin: orcid.py
+  file: orcid.yaml
+  tags:
+    - prosociality
+    - climate action
+    - intervention science
+    - "social decision-making"
+
+- id: doi:10.1007/978-3-031-17125-3_501-1
+  title: Traits of extraordinary altruists
+  authors:
+  - Shawn A. Rhoads
+  - Abigail A. Marsh
+  publisher: Encyclopedia of Heroism Studies
+  date: '2023-10-10'
+  link: https://doi.org/g82sf6
+  orcid: 0000-0003-1350-9458
+  plugin: sources.py
+  file: sources.yaml
+  tags:
+    - altruism
+    - prosociality
+    - individual differences
+
+- id: doi:10.1093/pnasnexus/pgad199
+  title: "Neural responses underlying extraordinary altruists\u2019 generosity for\
+    \ socially distant others"
+  authors:
+  - Shawn A. Rhoads
+  - Katherine O'Connell
+  - Kathryn Berluti
+  - Montana L Ploe
+  - Hannah S Elizabeth
+  - Paige Amormino
+  - Joanna L Li
+  - Mary Ann Dutton
+  - Ashley Skye VanMeter
+  - Abigail A Marsh
+  publisher: PNAS Nexus
+  date: '2023-06-13'
+  link: https://doi.org/g82sf7
+  orcid: 0000-0003-1350-9458
+  plugin: orcid.py
+  file: orcid.yaml
+  tags:
+    - altruism
+    - prosociality
+    - social distance
+    - "social decision-making"
+    - individual differences
+    - intervention science
+    - neuroimaging
+
+- id: doi:10.1101/2023.04.24.538109
+  title: A generalizable computational mechanism underlying the interaction between
+    momentary craving and decision-making
+  authors:
+  - Kaustubh R. Kulkarni
+  - Laura A. Berner
+  - Shawn A. Rhoads
+  - Vincenzo G. Fiore
+  - Daniela Schiller
+  - Xiaosi Gu
+  publisher: bioRxiv
+  date: '2023-04-24'
+  link: https://doi.org/g82sf8
+  orcid: 0000-0003-1350-9458
+  plugin: sources.py
+  file: sources.yaml
+  tags:
+    - craving
+    - computational psychiatry
+    - mental health
+    - individual differences
+    - computational modeling
+
+- id: doi:10.1038/s41467-023-37283-5
+  title: Unselfish traits and social decision-making patterns characterize six populations
+    of real-world extraordinary altruists
+  authors:
+  - Shawn A. Rhoads
+  - Kruti M. Vekaria
+  - "Katherine O\u2019Connell"
+  - Hannah S. Elizabeth
+  - David G. Rand
+  - Megan N. Kozak Williams
+  - Abigail A. Marsh
+  publisher: Nature Communications
+  date: '2023-03-31'
+  link: https://doi.org/gr5pwx
+  orcid: 0000-0003-1350-9458
+  plugin: orcid.py
+  file: orcid.yaml
+  tags:
+    - altruism
+    - prosociality
+    - social distance
+    - "social decision-making"
+    - individual differences
+
+- id: doi:10.1016/j.neubiorev.2023.105139
+  title: 'Towards a neurocomputational account of social controllability: From models
+    to mental health'
+  authors:
+  - Soojung Na
+  - Shawn A. Rhoads
+  - Alessandra N.C. Yu
+  - Vincenzo G. Fiore
+  - Xiaosi Gu
+  publisher: Neuroscience &amp; Biobehavioral Reviews
+  date: '2023-05-01'
+  link: https://doi.org/g82sf9
+  orcid: 0000-0003-1350-9458
+  plugin: orcid.py
+  file: orcid.yaml
+  tags:
+    - computational psychiatry
+    - mental health
+    - social inference
+    - computational modeling
+
+- id: doi:10.31234/osf.io/rf4x9
+  title: Neurocomputational basis of learning when choices simultaneously affect both
+    oneself and others
+  authors:
+  - Shawn A. Rhoads
+  - Lin Gan
+  - Kathryn Berluti
+  - Katherine O'Connell
+  - Jo Cutler
+  - Patricia Lockwood
+  - Abigail Marsh
+  publisher: PsyArXiv
+  date: '2023-02-24'
+  link: https://doi.org/g82sgb
+  orcid: 0000-0003-1350-9458
+  plugin: sources.py
+  file: sources.yaml
+  tags:
+    - social learning
+    - antisociality
+    - prosociality
+    - individual differences
+    - computational modeling
+    - neuroimaging
+
+- id: doi:10.1177/10870547211057074
+  title: Associations of Irritability With Functional Connectivity of Amygdala and
+    Nucleus Accumbens in Adolescents and Young Adults With ADHD
+  authors:
+  - Prerona Mukherjee
+  - Veronika Vilgis
+  - Shawn A. Rhoads
+  - Rajpreet Chahal
+  - Catherine Fassbender
+  - Ellen Leibenluft
+  - J. Faye Dixon
+  - Murat Pakyurek
+  - Wouter van den Bos
+  - Stephen P. Hinshaw
+  - Amanda E. Guyer
+  - Julie B. Schweitzer
+  publisher: Journal of Attention Disorders
+  date: '2021-11-02'
+  link: https://doi.org/gnbxgz
+  orcid: 0000-0003-1350-9458
+  plugin: orcid.py
+  file: orcid.yaml
+  tags:
+    - irritability
+    - individual differences
+    - mental health
+    - neuroimaging
+
+- id: doi:10.21105/jose.00146
+  title: 'Computational models of human social behavior and neuroscience: An open
+    educational course and Jupyter Book to advance computational training'
+  authors:
+  - Shawn A. Rhoads
+  - Lin Gan
+  publisher: Journal of Open Source Education
+  date: '2022-01-26'
+  link: https://doi.org/g82sgc
+  orcid: 0000-0003-1350-9458
+  plugin: orcid.py
+  file: orcid.yaml
+  tags:
+    - open science
+    - computational modeling
+
+- id: doi:10.1093/scan/nsab079
+  title: A feature-based network analysis and fMRI meta-analysis reveal three distinct
+    types of prosocial decisions
+  authors:
+  - Shawn A. Rhoads
+  - Jo Cutler
+  - Abigail A Marsh
+  publisher: Social Cognitive and Affective Neuroscience
+  date: '2021-06-23'
+  link: https://doi.org/g82sgd
+  orcid: 0000-0003-1350-9458
+  plugin: orcid.py
+  file: orcid.yaml
+  tags:
+    - "social decision-making"
+    - prosociality
+    - altruism
+    - cooperation
+    - equity
+    - neuroimaging
+
+- id: doi:10.1177/0956797621994767
+  title: Global Variation in Subjective Well-Being Predicts Seven Forms of Altruism
+  authors:
+  - Shawn A. Rhoads
+  - Devon Gunter
+  - Rebecca M. Ryan
+  - Abigail A. Marsh
+  publisher: Psychological Science
+  date: '2021-07-08'
+  link: https://doi.org/gk6cd8
+  orcid: 0000-0003-1350-9458
+  plugin: orcid.py
+  file: orcid.yaml
+  tags:
+    - prosociality
+    - altruism
+    - "social decision-making"
+    - "subjective well-being"
+
+- id: doi:10.1016/j.neuron.2021.04.001
+  title: 'Brainhack: Developing a culture of open, inclusive, community-driven neuroscience'
+  authors:
+  - "R\xE9mi Gau"
+  - Stephanie Noble
+  - Katja Heuer
+  - Katherine L. Bottenhorn
+  - Isil P. Bilgin
+  - Yu-Fang Yang
+  - Julia M. Huntenburg
+  - Johanna M.M. Bayer
+  - Richard A.I. Bethlehem
+  - Shawn A. Rhoads
+  - Christoph Vogelbacher
+  - Valentina Borghesani
+  - Elizabeth Levitis
+  - Hao-Ting Wang
+  - Sofie Van Den Bossche
+  - Xenia Kobeleva
+  - Jon Haitz Legarreta
+  - Samuel Guay
+  - Selim Melvin Atay
+  - Gael P. Varoquaux
+  - Dorien C. Huijser
+  - "Malin S. Sandstr\xF6m"
+  - Peer Herholz
+  - Samuel A. Nastase
+  - AmanPreet Badhwar
+  - Guillaume Dumas
+  - Simon Schwab
+  - Stefano Moia
+  - Michael Dayan
+  - Yasmine Bassil
+  - Paula P. Brooks
+  - Matteo Mancini
+  - James M. Shine
+  - "David O\u2019Connor"
+  - Xihe Xie
+  - Davide Poggiali
+  - Patrick Friedrich
+  - Anibal S. Heinsfeld
+  - Lydia Riedl
+  - Roberto Toro
+  - "C\xE9sar Caballero-Gaudes"
+  - Anders Eklund
+  - Kelly G. Garner
+  - Christopher R. Nolan
+  - Damion V. Demeter
+  - Fernando A. Barrios
+  - Junaid S. Merchant
+  - Elizabeth A. McDevitt
+  - Robert Oostenveld
+  - R. Cameron Craddock
+  - Ariel Rokem
+  - Andrew Doyle
+  - Satrajit S. Ghosh
+  - Aki Nikolaidis
+  - Olivia W. Stanley
+  - "Eneko Uru\xF1uela"
+  - Nasim Anousheh
+  - Aurina Arnatkeviciute
+  - Guillaume Auzias
+  - Dipankar Bachar
+  - Elise Bannier
+  - Ruggero Basanisi
+  - Arshitha Basavaraj
+  - Marco Bedini
+  - Pierre Bellec
+  - R. Austin Benn
+  - Kathryn Berluti
+  - Steffen Bollmann
+  - Saskia Bollmann
+  - Claire Bradley
+  - Jesse Brown
+  - Augusto Buchweitz
+  - Patrick Callahan
+  - Micaela Y. Chan
+  - Bramsh Q. Chandio
+  - Theresa Cheng
+  - Sidhant Chopra
+  - Ai Wern Chung
+  - Thomas G. Close
+  - Etienne Combrisson
+  - Giorgia Cona
+  - R. Todd Constable
+  - Claire Cury
+  - Kamalaker Dadi
+  - Pablo F. Damasceno
+  - Samir Das
+  - Fabrizio De Vico Fallani
+  - Krista DeStasio
+  - Erin W. Dickie
+  - Lena Dorfschmidt
+  - Eugene P. Duff
+  - Elizabeth DuPre
+  - Sarah Dziura
+  - Nathalia B. Esper
+  - Oscar Esteban
+  - Shreyas Fadnavis
+  - Guillaume Flandin
+  - Jessica E. Flannery
+  - John Flournoy
+  - Stephanie J. Forkel
+  - Alexandre R. Franco
+  - Saampras Ganesan
+  - Siyuan Gao
+  - "Jos\xE9 C. Garc\xEDa Alanis"
+  - Eleftherios Garyfallidis
+  - Tristan Glatard
+  - Enrico Glerean
+  - Javier Gonzalez-Castillo
+  - Cassandra D. Gould van Praag
+  - Abigail S. Greene
+  - Geetika Gupta
+  - Catherine Alice Hahn
+  - Yaroslav O. Halchenko
+  - Daniel Handwerker
+  - Thomas S. Hartmann
+  - "Val\xE9rie Hayot-Sasson"
+  - Stephan Heunis
+  - Felix Hoffstaedter
+  - Daniela M. Hohmann
+  - Corey Horien
+  - Horea-Ioan Ioanas
+  - Alexandru Iordan
+  - Chao Jiang
+  - Michael Joseph
+  - Jason Kai
+  - Agah Karakuzu
+  - David N. Kennedy
+  - Anisha Keshavan
+  - Ali R. Khan
+  - Gregory Kiar
+  - P. Christiaan Klink
+  - Vincent Koppelmans
+  - Serge Koudoro
+  - Angela R. Laird
+  - Georg Langs
+  - Marissa Laws
+  - Roxane Licandro
+  - Sook-Lei Liew
+  - Tomislav Lipic
+  - Krisanne Litinas
+  - Daniel J. Lurie
+  - "D\xE9sir\xE9e Lussier"
+  - Christopher R. Madan
+  - Lea-Theresa Mais
+  - Sina Mansour L
+  - J.P. Manzano-Patron
+  - Dimitra Maoutsa
+  - Matheus Marcon
+  - Daniel S. Margulies
+  - Giorgio Marinato
+  - Daniele Marinazzo
+  - Christopher J. Markiewicz
+  - Camille Maumet
+  - Felipe Meneguzzi
+  - David Meunier
+  - Michael P. Milham
+  - Kathryn L. Mills
+  - Davide Momi
+  - Clara A. Moreau
+  - Aysha Motala
+  - Iska Moxon-Emre
+  - Thomas E. Nichols
+  - Dylan M. Nielson
+  - Gustav Nilsonne
+  - Lisa Novello
+  - "Caroline O\u2019Brien"
+  - Emily Olafson
+  - Lindsay D. Oliver
+  - John A. Onofrey
+  - Edwina R. Orchard
+  - Kendra Oudyk
+  - Patrick J. Park
+  - Mahboobeh Parsapoor
+  - Lorenzo Pasquini
+  - Scott Peltier
+  - Cyril R. Pernet
+  - Rudolph Pienaar
+  - Pedro Pinheiro-Chagas
+  - Jean-Baptiste Poline
+  - Anqi Qiu
+  - Tiago Quendera
+  - Laura C. Rice
+  - Joscelin Rocha-Hidalgo
+  - Saige Rutherford
+  - Mathias Scharinger
+  - Dustin Scheinost
+  - Deena Shariq
+  - Thomas B. Shaw
+  - Viviana Siless
+  - Molly Simmonite
+  - Nikoloz Sirmpilatze
+  - Hayli Spence
+  - Julia Sprenger
+  - Andrija Stajduhar
+  - Martin Szinte
+  - Sylvain Takerkart
+  - Angela Tam
+  - Link Tejavibulya
+  - Michel Thiebaut de Schotten
+  - Ina Thome
+  - Laura Tomaz da Silva
+  - Nicolas Traut
+  - Lucina Q. Uddin
+  - Antonino Vallesi
+  - John W. VanMeter
+  - Nandita Vijayakumar
+  - Matteo Visconti di Oleggio Castello
+  - Jakub Vohryzek
+  - "Jak\u0161a Vukojevi\u0107"
+  - Kirstie Jane Whitaker
+  - Lucy Whitmore
+  - Steve Wideman
+  - Suzanne T. Witt
+  - Hua Xie
+  - Ting Xu
+  - Chao-Gan Yan
+  - Fang-Cheng Yeh
+  - B.T. Thomas Yeo
+  - Xi-Nian Zuo
+  publisher: Neuron
+  date: '2021-06-01'
+  link: https://doi.org/gjt2b6
+  orcid: 0000-0003-1350-9458
+  plugin: orcid.py
+  file: orcid.yaml
+  tags:
+    - open science
+    - neuroimaging
+
+- id: doi:10.1371/journal.pone.0244974
+  title: Reduced social distancing early in the COVID-19 pandemic is associated with
+    antisocial behaviors in an online United States sample
+  authors:
+  - "Katherine O\u2019Connell"
+  - Kathryn Berluti
+  - Shawn A. Rhoads
+  - Abigail A. Marsh
+  publisher: PLOS ONE
+  date: '2021-01-07'
+  link: https://doi.org/g82sgf
+  orcid: 0000-0003-1350-9458
+  plugin: orcid.py
+  file: orcid.yaml
+  tags:
+    - antisociality
+    - "social decision-making"
+
+- id: doi:10.1111/jcpp.13184
+  title: Girls' brain structural connectivity in late adolescence relates to history
+    of depression symptoms
+  authors:
+  - Rajpreet Chahal
+  - David G. Weissman
+  - Scott Marek
+  - Shawn A. Rhoads
+  - Alison E. Hipwell
+  - Erika E. Forbes
+  - Kate Keenan
+  - Amanda E. Guyer
+  publisher: Journal of Child Psychology and Psychiatry
+  date: '2019-12-26'
+  link: https://doi.org/ggs5tb
+  orcid: 0000-0003-1350-9458
+  plugin: orcid.py
+  file: orcid.yaml
+  tags:
+    - neuroimaging
+    - individual differences
+    - mental health
+
+- id: doi:10.1521/pedi.2020.34.5.628
+  title: Reduced multivoxel pattern similarity of vicarious neural pain responses
+  authors:
+  - Kathryn Berluti
+  - Katherine M. O'Connell
+  - Shawn A. Rhoads
+  - Kristin M. Brethel-Haurwitz
+  - Elise M. Cardinale
+  - Kruti M. Vekaria
+  - Emily L. Robertson
+  - Brian Walitt
+  - John W. VanMeter
+  - Abigail A. Marsh
+  publisher: Journal of Personality Disorders
+  date: '2020-10-01'
+  link: https://doi.org/g82sgg
+  orcid: 0000-0003-1350-9458
+  plugin: sources.py
+  file: sources.yaml
+  tags:
+    - empathy
+    - antisociality
+    - neuroimaging
+    - individual differences
+
+- id: doi:10.1016/j.cortex.2020.02.001
+  title: Activation in bed nucleus of the stria terminalis (BNST) corresponds to everyday
+    helping
+  authors:
+  - Kruti M. Vekaria
+  - Katherine O'Connell
+  - Shawn A. Rhoads
+  - Kristin M. Brethel-Haurwitz
+  - Elise M. Cardinale
+  - Emily L. Robertson
+  - Brian Walitt
+  - John W. VanMeter
+  - Abigail A. Marsh
+  publisher: Cortex
+  date: '2020-06-01'
+  link: https://doi.org/gks3wd
+  orcid: 0000-0003-1350-9458
+  plugin: orcid.py
+  file: orcid.yaml
+  tags:
+    - empathy
+    - altruism
+    - prosociality
+    - neuroimaging
+    - individual differences
+
+- id: doi:10.1002/hbm.24836
+  title: "Direct replication of task\u2010dependent neural activation patterns during\
+    \ sadness introspection in two independent adolescent samples"
+  authors:
+  - Veronika Vilgis
+  - Shawn A. Rhoads
+  - David G. Weissman
+  - Kristina L. Gelardi
+  - Erika E. Forbes
+  - Alison E. Hipwell
+  - Kate Keenan
+  - Paul D. Hastings
+  - Amanda E. Guyer
+  publisher: Human Brain Mapping
+  date: '2019-10-22'
+  link: https://doi.org/gpdrjr
+  orcid: 0000-0003-1350-9458
+  plugin: orcid.py
+  file: orcid.yaml
+  tags:
+    - emotion
+    - interpersonal perception
+    - individual differences
+    - mental health
+    - neuroimaging
+
+- id: doi:10.1017/pen.2020.13
+  title: 'Mapping neural activity patterns to contextualized fearful facial expressions
+    onto callous-unemotional (CU) traits: intersubject representational similarity
+    analysis reveals less variation among high-CU adolescents'
+  authors:
+  - Shawn A. Rhoads
+  - Elise M. Cardinale
+  - "Katherine O\u2019Connell"
+  - Amy L. Palmer
+  - John W. VanMeter
+  - Abigail A. Marsh
+  publisher: Personality Neuroscience
+  date: '2020-01-01'
+  link: https://doi.org/g34v6p
+  orcid: 0000-0003-1350-9458
+  plugin: orcid.py
+  file: orcid.yaml
+  tags:
+    - emotion
+    - interpersonal perception
+    - individual differences
+    - neuroimaging
+
+- id: doi:10.1038/s41598-019-47196-3
+  title: Increased similarity of neural responses to experienced and empathic distress
+    in costly altruism
+  authors:
+  - "Katherine O\u2019Connell"
+  - Kristin M. Brethel-Haurwitz
+  - Shawn A. Rhoads
+  - Elise M. Cardinale
+  - Kruti M. Vekaria
+  - Emily L. Robertson
+  - Brian Walitt
+  - John W. VanMeter
+  - Abigail A. Marsh
+  publisher: Scientific Reports
+  date: '2019-07-24'
+  link: https://doi.org/gks3w8
+  orcid: 0000-0003-1350-9458
+  plugin: orcid.py
+  file: orcid.yaml
+  tags:
+    - empathy
+    - altruism
+    - prosociality
+    - neuroimaging
+    - individual differences
+
+- id: doi:10.1037/emo0000532
+  title: A multi-semester classroom demonstration yields evidence in support of the
+    facial feedback effect.
+  authors:
+  - Abigail A. Marsh
+  - Shawn A. Rhoads
+  - Rebecca M. Ryan
+  publisher: Emotion
+  date: '2019-12-01'
+  link: https://doi.org/gf5sj2
+  orcid: 0000-0003-1350-9458
+  plugin: orcid.py
+  file: orcid.yaml
+  tags:
+    - emotion
+    - affective experience
