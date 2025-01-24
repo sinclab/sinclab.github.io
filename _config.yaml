@@ -1,19 +1,20 @@
 # site properties and page defaults
 title: SINC LAB
-subtitle: PI - Shawn A Rhoads, PhD
+subtitle: SOCIAL INTERACTION & NEURAL COMPUTATION LABORATORY
 description: The SINC Lab examines the neural and computational basis of social cognition and interaction. We are particularly interested in how social interactions impact the well-being of self and others, and the contexts in which they can improve mental health outcomes. We use a combination of methods, including computational modeling of behavior, neuroimaging, and direct brain recordings.
 header: images/background.jpg
 footer: images/background.jpg
 proofer: false
+show-title: false
+show-subtitle: true
 
 # site social media and other links
 links:
-  email: sinclab@mssm.edu
+  email: shawn.rhoads@mssm.edu
   orcid: 0000-0003-1350-9458
   google-scholar: __YmDVEAAAAJ
   github: sinclab
-  twitter: sinclab
-  youtube: sinclab
+  bluesky: sinclab.bsky.social
 
 ### jekyll settings
 
