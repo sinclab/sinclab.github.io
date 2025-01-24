@@ -2,6 +2,7 @@
 ---
 
 The SINC Lab examines the neural and computational basis of social cognition and interaction. We are particularly interested in how social interactions impact the well-being of self and others, and the contexts in which they can improve mental health outcomes. We use a combination of methods, including computational modeling of behavior, neuroimaging, and direct brain recordings.
+
 {% include section.html %}
 
 ## Highlights
