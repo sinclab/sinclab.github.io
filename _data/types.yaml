@@ -3,7 +3,7 @@
 # team member roles
 
 principal-investigator:
-  icon: fa-solid fa-microscope
+  icon: fa-solid fa-brain
   description: Principal Investigator
 
 postdoc:
@@ -17,6 +17,10 @@ phd:
 undergrad:
   icon: fa-solid fa-user-graduate
   description: Undergraduate Student
+
+research-assistant:
+  icon: fa-solid fa-user-graduate
+  description: Research Assistant
 
 programmer:
   icon: fa-solid fa-code
