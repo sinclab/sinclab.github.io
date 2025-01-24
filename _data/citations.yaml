@@ -1141,7 +1141,7 @@
   - equity
   - neuroimaging
 - id: doi:10.1177/0956797621994767
-  title: Global Variation in Subjective Well-Being Predicts Seven Forms of Altruism
+  title: Global variation in subjective well-being predicts seven forms of altruism
   authors:
   - Shawn A. Rhoads
   - Devon Gunter
@@ -1565,3 +1565,20 @@
   tags:
   - emotion
   - affective experience
+- id: whr2023
+  title: 'Doing good and feeling good: Relationships between altruism and well-being
+    for altruists, beneficiaries, and observers'
+  authors:
+  - Shawn A. Rhoads
+  - Abigail A. Marsh
+  publisher: World Happiness Report
+  date: '2023-03-20'
+  image: images/WHR.png
+  link: https://worldhappiness.report/ed/2023/doing-good-and-feeling-good-relationships-between-altruism-and-well-being-for-altruists-beneficiaries-and-observers/
+  tags:
+  - prosociality
+  - altruism
+  - social decision-making
+  - subjective well-being
+  plugin: sources.py
+  file: sources.yaml
