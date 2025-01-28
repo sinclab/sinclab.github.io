@@ -16,7 +16,12 @@
 {% if site.title %}
   {% assign fulltitle = fulltitle | push: site.title %}
 {% endif %}
-{% assign fulltitle = fulltitle | join: " | " %}
+
+{% if page.url == "/" or page.url == "/index.html" %}
+  {% assign fulltitle = fulltitle | join: "Home | " %}
+{% else %}
+  {% assign fulltitle = fulltitle | join: " | " %}
+{% endif %}
 
 {% assign subtitle = site.subtitle %}
 
