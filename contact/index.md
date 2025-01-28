@@ -5,7 +5,7 @@ nav:
   tooltip: Get involved
 ---
 
-# {% include icon.html icon="fa-regular fa-handshake" %}Participate
+# {% include icon.html icon="fa-solid fa-handshake-angle" %}Participate
 
 Please stay tuned for opportunities to participate in our research!
 
