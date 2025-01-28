@@ -7,12 +7,14 @@
     aria-label="{{ include.title | default: "card link" | regex_strip }}"
     class="card-image"
   >
+  {% if include.image %}
     <img
       src="{{ include.image | relative_url | uri_escape }}"
       alt="{{ include.title | default: "card image" | regex_strip }}"
       loading="lazy"
       {% include fallback.html %}
     >
+    {% endif %}
   </a>
 
   <div class="card-text">
