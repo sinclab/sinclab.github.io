@@ -9,8 +9,7 @@ We are particularly interested in <strong>understanding how social interactions 
 
 {% capture text %}
 
-The SINC Laboratory is located at the Icahn School of Medicine at Mount Sinai (New York, NY). We are part of the <a href="https://icahn.mssm.edu/about/departments-offices/psychiatry">Department of Psychiatry</a> and the <a href="https://icahn.mssm.edu/about/departments-offices/neuroscience">Nash Family Department of Neuroscience</a>.
-
+Our research program has two primary goals. The first is to achieve a mechanistic understanding of the factors that improve or impair the well-being of the self and others across multiple levels of analysis (e.g., neurobiological, cognitive, behavioral, interpersonal, societal). The second is to translate this understanding for direct application in medicine and policy.
 {%
   include button.html
   link="about"
@@ -24,9 +23,9 @@ The SINC Laboratory is located at the Icahn School of Medicine at Mount Sinai (N
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/network.jpg"
   link="about"
-  title="Vision"
+  title="Who we are"
   text=text
 %}
 
