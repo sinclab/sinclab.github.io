@@ -5,9 +5,10 @@ role: principal-investigator
 affiliation: Icahn School of Medicine at Mount Sinai
 aliases:
   - S. A. Rhoads
+  - Shawn A. Rhoads
   - S Rhoads
 links:
-  home-page: shawnrhoads.github.io
+  home-page: "https://shawnrhoads.github.io"
   orcid: 0000-0003-1350-9458
 ---
 
@@ -21,8 +22,14 @@ Other selected grants, awards, and recognitions include:
 ● Harold N. Glassman Distinguished Dissertation Award (2024)
 ● At-Large Dr. Karen Gale Exceptional Ph.D. Student Award (2022)
 ● American Psychological Association Dissertation Research Award (2021)
-● Mistletoe Research Fellowship (2020) 
+● Mistletoe Research Fellowship (2020)
 
  I am generally always open to collaborating on research projects relevant to my expertise and interests. I am also available for consulting, speaking engagements, and workshops on various research topics and methods, including but not limited to (1) computational modeling (e.g., reinforcement learning, model/algorithm development, model simulations, model fitting), (2) neuroimaging (e.g., task paradigm development in PsychoPy, BIDS, pre-processing, univariate analyses, multivariate analyses, model-based fMRI), (3) statistics, (4) machine learning, (5) programming in Python, and (6) open science practices aimed at making computational training in neuroscience more accessible.
 
-Please see research and teaching experience below for additional details and send inquiries via email: shawn{dot}rhoads{at}mssm{dot}edu 
+## Publications
+
+{% include search-box.html %}
+
+{% include search-info.html %}
+
+{% include list.html data="citations" component="citation" %}
