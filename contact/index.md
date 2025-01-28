@@ -47,5 +47,4 @@ Interested in joining the lab? <strong>We are recruiting a research coordinator 
 
 {% include section.html %}
 
-Interested in joining the lab? Please send an email to shawn(dot)rhoads(at)mssm(dot)edu with a copy of your CV and a brief description of your research interests.
-
+*Please stay tuned for additional opportunities to join the lab!*
