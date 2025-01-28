@@ -45,6 +45,8 @@ Interested in joining the lab? <strong>We are recruiting a research coordinator 
 - Experience with large-online and/or in-person behavioral data collection
 - Computer science/IT skills
 
+Apply here: [https://careers.mountsinai.org/jobs/3022950](https://careers.mountsinai.org/jobs/3022950)
+
 {% include section.html %}
 
 *Please stay tuned for additional opportunities to join the lab!*
