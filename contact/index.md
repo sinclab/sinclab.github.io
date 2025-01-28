@@ -1,77 +1,51 @@
 ---
-title: Contact
+title: Join Us
 nav:
   order: 5
-  tooltip: Email, address, and location
+  tooltip: Get involved
 ---
 
-# {% include icon.html icon="fa-regular fa-envelope" %}Contact
+# {% include icon.html icon="fa-regular fa-handshake" %}Participate
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-{%
-  include button.html
-  type="email"
-  text="jane@smith.com"
-  link="jane@smith.com"
-%}
-{%
-  include button.html
-  type="phone"
-  text="(555) 867-5309"
-  link="+1-555-867-5309"
-%}
-{%
-  include button.html
-  type="address"
-  tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps"
-%}
+Please stay tuned for opportunities to participate in our research!
 
 {% include section.html %}
 
-{% capture col1 %}
+# {% include icon.html icon="fa-solid fa-hexagon-nodes" %}Collaborate
 
-{%
-  include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
-%}
+We are always looking to form collaborations and community partnerships! Please reach out if your work aligns with our mission and you are interested in working together.
 
-{% endcapture %}
+{% include section.html %}
 
-{% capture col2 %}
+# {% include icon.html icon="fa-regular fa-paper-plane" %}Apply
 
-{%
-  include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
-%}
+Interested in joining the lab? <strong>We are recruiting a research coordinator to start in early summer 2025.</strong> The research coordinator will be a critical member of the research team and, under the supervision of the Principal Investigator, will be responsible for carrying out day-to-day research operations.
 
-{% endcapture %}
+**Primary responsibilities will include but are not limited to:**
+- Screening, recruiting, and testing participants for behavioral and neuroimaging studies
+- Managing IRB protocols
+- Maintaining lab website and handbook
+- Organizing and scheduling lab meetings
+- Ordering supplies/equipment
+- Coordinating outreach and social events
+- Training and supervising research assistants
+- Programming and testing experimental paradigms (PsychoPy/Pavlovia, jsPsych)
+- Analyzing data and contributing to conference presentations and peer-reviewed publications
+- Supporting lab IT infrastructure and data management protocol (archiving, sharing)
 
-{% include cols.html col1=col1 col2=col2 %}
+**Qualifications:**
+- Bachelor’s degree in Psychology, Neuroscience, Computer Science, Cognitive Science, Electrical or Biomedical Engineering, or other related fields
+- Prior research experience in any of the areas above
+- Organizational, interpersonal, and communication skills
+- Computational skills (e.g., prior coursework in mathematics, programming in Python)
+- Interests in social computational neuroscience, behavioral economics, and/or computational psychiatry
 
-{% include section.html dark=true %}
+**Preferred qualifications:**
+- Experience with neural data collection and/or analysis (e.g., fMRI, sEEG)
+- Experience with large-online and/or in-person behavioral data collection
+- Computer science/IT skills
 
-{% capture col1 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
-{% endcapture %}
+{% include section.html %}
 
-{% capture col2 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
-{% endcapture %}
+Interested in joining the lab? Please send an email to shawn(dot)rhoads(at)mssm(dot)edu with a copy of your CV and a brief description of your research interests.
 
-{% capture col3 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
-{% endcapture %}
-
-{% include cols.html col1=col1 col2=col2 col3=col3 %}
