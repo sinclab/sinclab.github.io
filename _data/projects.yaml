@@ -1,13 +1,14 @@
-- title: The neural and computational basis of loneliness
+- title: The neural, cognitive, and computational basis of loneliness
   group: featured
   link: 
   # description: This project aims to characterize how and when computations along a cognitive hierarchy of social information processing (e.g., perception, learning, decision-making, higher-order belief inference) impact social connection and loneliness.
   tags:
     - loneliness
+    - social decision-making
     - computational psychiatry
     - functional neuroimaging
 
-- title: Shared social inference representations between interacting human dyads
+- title: Intracranial neural signatures of shared social inference representations between interacting human dyads
   subtitle:
   group: featured
   link: 
