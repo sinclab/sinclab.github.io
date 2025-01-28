@@ -1,47 +1,49 @@
-- title: Cool Dataset
-  subtitle: a subtitle
+- title: The neural and computational basis of loneliness
   group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  link: 
+  # description: This project aims to characterize how and when computations along a cognitive hierarchy of social information processing (e.g., perception, learning, decision-making, higher-order belief inference) impact social connection and loneliness.
   tags:
-    - resource
+    - loneliness
+    - computational psychiatry
+    - functional neuroimaging
 
-- title: Cool Package
-  subtitle: a subtitle
+- title: Shared social inference representations between interacting human dyads
+  subtitle:
   group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  link: 
+  description:
   tags:
-    - resource
+    - social inference
+    - social interaction
+    - synchrony
+    - electrophysiology
 
-- title: Cool Tutorial
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+- title: Perspective-taking under naturalistic contexts
+  subtitle: 
+  group: featured
+  link: 
+  description:
   tags:
-    - resource
-    - publication
+    - social inference
+    - synchrony
+    - functional neuroimaging
+    - naturalistic paradigms
 
-- title: Cool Web App
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+- title: Individual differences in prosocial and antisocial learning
+  subtitle:
+  group: featured
+  link: 
+  description:
   tags:
-    - software
+    - social decision-making
+    - prosocial behavior
+    - reinforcement learning
 
-- title: Cool Web Server
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+- title: Understanding the impact of prosocial behavior on social connection and subjective well-being
+  subtitle:
+  group: featured
+  link: 
+  description:
   tags:
-    - software
+    - prosocial behavior
+    - subjective well-being

@@ -937,10 +937,26 @@
   - Jay J. Van Bavel
   publisher: Science Advances
   date: '2024-02-09'
-  link: https://doi.org/gthd4n
+  link: null
   orcid: 0000-0003-1350-9458
   plugin: sources.py
   file: sources.yaml
+  buttons:
+  - type: article
+    text: article
+    link: https://doi.org/10.1126/sciadv.adj5778
+  - type: preprint
+    text: preprint
+    link: https://doi.org/10.31234/osf.io/cr5at
+  - type: github
+    text: code
+    link: https://github.com/josephbb/ManyLabsClimate
+  - type: app
+    text: shinyapp
+    link: https://climate-interventions.shinyapps.io/climate-interventions/
+  - type: website
+    text: altmetric
+    link: https://nature.altmetric.com/details/doi/10.1126/sciadv.adj5778
   tags:
   - prosociality
   - climate action
@@ -1567,13 +1583,18 @@
   - affective experience
 - title: 'Doing good and feeling good: Relationships between altruism and well-being
     for altruists, beneficiaries, and observers'
+  id: worldhappiness.report
   authors:
   - Shawn A. Rhoads
   - Abigail A. Marsh
   publisher: World Happiness Report
   date: '2023-03-20'
-  image: images/WHR.png
-  link: https://worldhappiness.report/ed/2023/doing-good-and-feeling-good-relationships-between-altruism-and-well-being-for-altruists-beneficiaries-and-observers/
+  image: null
+  link: null
+  buttons:
+  - type: article
+    text: article
+    link: https://worldhappiness.report/ed/2023/doing-good-and-feeling-good-relationships-between-altruism-and-well-being-for-altruists-beneficiaries-and-observers/
   tags:
   - prosociality
   - altruism

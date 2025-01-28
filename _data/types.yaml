@@ -179,7 +179,7 @@ journal:
   tooltip: Journal
 
 preprint:
-  icon: fa-regular fa-eye
+  icon: fa-solid fa-unlock
   text: Preprint
   tooltip: Preprint
 
@@ -211,7 +211,7 @@ server:
   tooltip: Server
 
 app:
-  icon: fa-solid fa-hand-pointer
+  icon: fa-solid fa-cube
   text: App
   tooltip: App
 
