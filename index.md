@@ -1,19 +1,42 @@
 ---
 ---
 
-The SINC Lab examines the neural and computational basis of social cognition and interaction. We are particularly interested in how social interactions impact the well-being of self and others, and the contexts in which they can improve mental health outcomes. We use a combination of methods, including computational modeling of behavior, neuroimaging, and direct brain recordings.
+# We examine the neural, cognitive, and computational basis of social connection and interaction
+
+We are particularly interested in <strong>understanding how social interactions shape the well-being of self and others</strong> and the contexts in which they can improve mental health outcomes.
 
 {% include section.html %}
 
-## Highlights
-
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+The SINC Laboratory is located at the Icahn School of Medicine at Mount Sinai (New York, NY). We are part of the <a href="https://icahn.mssm.edu/about/departments-offices/psychiatry">Department of Psychiatry</a> and the <a href="https://icahn.mssm.edu/about/departments-offices/neuroscience">Nash Family Department of Neuroscience</a>.
 
 {%
   include button.html
-  link="research"
+  link="about"
+  text="Learn more"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/photo.jpg"
+  link="about"
+  title="Vision"
+  text=text
+%}
+
+{% capture text %}
+
+We use a combination of methods, including computational modeling, large-scale behavioral data collection, functional neuroimaging, and direct brain recordings, to understand how people connect with others, understand others, and value their welfare.
+
+{%
+  include button.html
+  link="publications"
   text="See our publications"
   icon="fa-solid fa-arrow-right"
   flip=true
@@ -25,55 +48,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 {%
   include feature.html
   image="images/photo.jpg"
-  link="research"
-  title="Our Research"
-  text=text
-%}
-
-{% capture text %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-{%
-  include button.html
-  link="projects"
-  text="Browse our projects"
-  icon="fa-solid fa-arrow-right"
+  link="publications"
+  title="Research"
   flip=true
   style="bare"
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="projects"
-  title="Our Projects"
-  flip=true
-  style="bare"
-  text=text
-%}
-
-{% capture text %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-{%
-  include button.html
-  link="team"
-  text="Meet our team"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="team"
-  title="Our Team"
   text=text
 %}
