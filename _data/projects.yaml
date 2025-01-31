@@ -3,7 +3,8 @@
   link: 
   # description: This project aims to characterize how and when computations along a cognitive hierarchy of social information processing (e.g., perception, learning, decision-making, higher-order belief inference) impact social connection and loneliness.
   tags:
-    - loneliness
+    - CONNECTION THROUGH KINDNESS
+    - UNDERSTANDING OTHERS
     - social decision-making
     - computational psychiatry
     - functional neuroimaging
@@ -14,6 +15,8 @@
   link: 
   description:
   tags:
+    - UNDERSTANDING OTHERS
+    - IDIOSYNCRATIC BRAINS SHARED WORLD
     - social inference
     - social interaction
     - synchrony
@@ -25,6 +28,7 @@
   link: 
   description:
   tags:
+    - IDIOSYNCRATIC BRAINS SHARED WORLD
     - social inference
     - synchrony
     - functional neuroimaging
@@ -36,6 +40,8 @@
   link: 
   description:
   tags:
+    - CONNECTION THROUGH KINDNESS
+    - UNDERSTANDING OTHERS
     - social decision-making
     - prosocial behavior
     - reinforcement learning
@@ -46,5 +52,6 @@
   link: 
   description:
   tags:
+    - CONNECTION THROUGH KINDNESS
     - prosocial behavior
     - subjective well-being

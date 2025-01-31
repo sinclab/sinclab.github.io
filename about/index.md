@@ -33,6 +33,8 @@ We use a combination of methods—including computational modeling, functional n
 
 {% comment %} {% include tags.html tags="loneliness, computational psychiatry" %} {% endcomment %}
 
+{% include tags.html tags="connection through kindness, understanding others, idiosyncratic brains shared world" %}
+
 {% include search-info.html %}
 
 {% include list.html component="card" data="projects" filter="group == 'featured'" %}
