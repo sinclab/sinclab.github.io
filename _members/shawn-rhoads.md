@@ -9,11 +9,12 @@ aliases:
   - S Rhoads
 links:
   home-page: "https://shawnrhoads.github.io"
+  mssm-profile: shawn-a-rhoads
   orcid: 0000-0003-1350-9458
-  google-scholar: https://scholar.google.com/citations?hl=en&user=__YmDVEAAAAJ&pagesize=80&view_op=list_works
+  google-scholar: __YmDVEAAAAJ
   bluesky: shawnrhoadsphd.bsky.social
   twitter: shawnrhoadsphd
-  linkedin: shawnrhoads/
+  linkedin: shawnrhoads
   github: shawnrhoads
 ---
 

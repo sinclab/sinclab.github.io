@@ -130,6 +130,12 @@ linkedin:
   tooltip: LinkedIn
   link: https://www.linkedin.com/in/$VALUE
 
+mssm-profile:
+  icon: fa-solid fa-address-card
+  text: MSSM Profile
+  tooltip: MSSM
+  link: https://scholars.mssm.edu/en/persons/$VALUE
+
 # alerts
 
 tip:
