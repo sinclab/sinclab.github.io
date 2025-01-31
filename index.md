@@ -48,27 +48,18 @@ How do individual brains converge or diverge in their perception of the world? O
   text=text
 %}
 
-
 {%
   include button.html
   link="publications"
-  text="Learn more"
+  text="LEARN MORE"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
 %}
+
 {% capture text %}
 
 We believe that scientific progress thrives when it is open, inclusive, and grounded in community. Our research promotes open science tools, resources for trainees, and the sharing of open-source code and data to foster collaboration and transparency. We are committed to inclusivity both in the lab and in the field, recognizing that science is best when it brings together diverse backgrounds and perspectives. Through partnerships within the local community and the greater New York Metropolitan area, we aim to apply our research to improve medicine and policy, working toward a more equitable and impactful future for all.
-
-{%
-  include button.html
-  link="contact"
-  text="Collaborate with us"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
 
 {% endcapture %}
 
@@ -79,4 +70,13 @@ We believe that scientific progress thrives when it is open, inclusive, and grou
   flip=true
   style="bare"
   text=text
+%}
+
+{%
+  include button.html
+  link="contact"
+  text="COLLABORATE WITH US"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
 %}
