@@ -10,6 +10,11 @@ aliases:
 links:
   home-page: "https://shawnrhoads.github.io"
   orcid: 0000-0003-1350-9458
+  google-scholar: https://scholar.google.com/citations?hl=en&user=__YmDVEAAAAJ&pagesize=80&view_op=list_works
+  bluesky: shawnrhoadsphd.bsky.social
+  twitter: shawnrhoadsphd
+  linkedin: shawnrhoads/
+  github: shawnrhoads
 ---
 
 I am an Assistant Professor of <a target="_blank" rel="noopener noreferrer" href="https://icahn.mssm.edu/about/departments-offices/psychiatry">Psychiatry</a> and <a target="_blank" rel="noopener noreferrer" href="https://icahn.mssm.edu/about/departments-offices/neuroscience">Neuroscience</a> at the <a target="_blank" rel="noopener noreferrer" href="https://icahn.mssm.edu">Icahn School of Medicine at Mount Sinai</a>. I completed my Postdoctoral Research Fellowship with Dr. Xiaosi Gu within the <a target="_blank" rel="noopener noreferrer" href="https://www.neurocpu.org/">Center for Computational Psychiatry</a>. I earned my Ph.D. while working in the <a target="_blank" rel="noopener noreferrer" href="https://abigailmarsh.com/lab/">Laboratory on Social and Affective Neuroscience</a> at <a target="_blank" rel="noopener noreferrer" href="https://georgetown.edu/">Georgetown University</a> under the mentorship of Dr. Abigail Marsh. I graduated from the <a target="_blank" rel="noopener noreferrer" href="https://usc.edu/">University of Southern California</a> with a Bachelor's Degree in physics and psychology.
