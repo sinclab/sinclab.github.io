@@ -9,7 +9,7 @@ We are particularly interested in <strong>understanding how social interactions 
 
 {% capture text %}
 
-How do prosocial interactions bring people closer together? Our research examines the how and under what circumstances prosocial behaviors promote social connection, strengthen interpersonal relationships, and protect against isolation and loneliness. By exploring this question at the contextual, cognitive, and neural level, we aim to achieve a comprehensive understanding about the ways in which social connection shape both individual and collective well-being.
+How do prosocial interactions bring people closer together? Our research examines the how and under what circumstances prosocial behaviors promote social connection, strengthen interpersonal relationships, and protect against isolation and loneliness. By exploring this question at the contextual, cognitive, and neural level, we aim to achieve a comprehensive understanding about the ways in which social connection shapes both individual and collective well-being.
 
 {% endcapture %}
 
