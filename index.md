@@ -37,14 +37,14 @@ How do people learn, maintain, and update their representations of others? Our r
 
 {% capture text %}
 
-How do individual brains converge or diverge in their perception of the world? Our research investigates the ways in which neural activity aligns or diverges across individuals and the factors that drive both commonalities and differences in social cognition. By understanding individual differences in both health and psychiatric disorder, we aim to uncover insights into how people connect, communicate, and collaborate in shared environments.
+How do individual brains converge or diverge in their perception of the world? Our research investigates the ways in which neural activity aligns or diverges across individuals and the factors that drive both commonalities and differences in social cognition. By understanding idiosyncrasies in both health and psychiatric disorder, we aim to uncover insights into how people connect, communicate, and collaborate in shared environments.
 
 {% endcapture %}
 
 {%
   include feature.html
   image="images/network.jpg"
-  title="IDIOSYNCRATIC BRAINS IN A SHARED WORLD"
+  title="UNIQUE BRAINS IN A SHARED WORLD"
   text=text
 %}
 
