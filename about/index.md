@@ -1,8 +1,8 @@
 ---
-title: About
+title: Info
 nav:
   order: 1
-  tooltip: What we do
+  tooltip: "What we do"
 ---
 
 # {% include icon.html icon="fa-solid fa-lightbulb" %}Vision
@@ -33,7 +33,7 @@ We use a combination of methods—including computational modeling, functional n
 
 {% comment %} {% include tags.html tags="loneliness, computational psychiatry" %} {% endcomment %}
 
-{% include tags.html tags="connection through kindness, understanding others, idiosyncratic brains shared world" %}
+{% include tags.html tags="connection through kindness, understanding others, unique brains shared world" %}
 
 {% include search-info.html %}
 
