@@ -1,8 +1,8 @@
 ---
-title: Publications
+title: "Work"
 nav:
   order: 2
-  tooltip: Published works
+  tooltip: "What we've published"
 ---
 
 # {% include icon.html icon="fa-solid fa-newspaper" %}Publications
