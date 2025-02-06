@@ -2,7 +2,7 @@
 title: "Connect"
 nav:
   order: 5
-  tooltip: How to get involved
+  tooltip: "How to get involved"
 ---
 
 # {% include icon.html icon="fa-solid fa-handshake-angle" %}Participate
