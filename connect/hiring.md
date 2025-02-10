@@ -31,7 +31,7 @@ The Research Coordinator will participate in various projects, including but not
 * Prior research experience in any of the areas above
 * Organizational, interpersonal, and communication skills
 * Interests in social computational neuroscience, behavioral economics, and/or computational psychiatry
-* Interests in ecological momentary assessment, computational modeling, neuroimaging, intracranial electrophysiology
+* Interests in ecological momentary assessment, computational modeling, neuroimaging, intracranial electrophysiology, hyperscanning
 
 **Preferred qualifications:**
 * Experience with neural data collection and/or analysis (e.g., fMRI, stereo EEG)
