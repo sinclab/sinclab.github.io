@@ -10,6 +10,10 @@
   publisher: Nature Mental Health
   date: '2024-10-28'
   link: https://doi.org/g82sfx
+  buttons:
+    - type: article
+      text: article
+      link: https://doi.org/g82sfx
   orcid: 0000-0003-1350-9458
   plugin: orcid.py
   file: orcid.yaml
@@ -26,6 +30,10 @@
   publisher: Nature Reviews Psychology
   date: '2024-10-11'
   link: https://doi.org/g82sfz
+  buttons:
+    - type: article
+      text: article
+      link: https://doi.org/g82sfz
   orcid: 0000-0003-1350-9458
   plugin: orcid.py
   file: orcid.yaml
@@ -945,7 +953,7 @@
   - Jay J. Van Bavel
   publisher: Science Advances
   date: '2024-02-09'
-  link: 
+  link: https://doi.org/10.1126/sciadv.adj5778
   buttons:
     - type: article
       text: article
@@ -979,7 +987,7 @@
   publisher: World Happiness Report
   date: '2023-03-20'
   image:
-  link: 
+  link: https://worldhappiness.report/ed/2023/doing-good-and-feeling-good-relationships-between-altruism-and-well-being-for-altruists-beneficiaries-and-observers/
   buttons:
     - type: article
       text: article
