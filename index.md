@@ -9,7 +9,7 @@ We are particularly interested in <strong>understanding how social interactions 
 
 {% capture text %}
 
-How do prosocial interactions bring people closer together? Our research examines the how and under what circumstances prosocial behaviors promote social connection, strengthen interpersonal relationships, and protect against isolation and loneliness. By exploring this question at the contextual, cognitive, and neural level, we aim to achieve a comprehensive understanding about the ways in which social connection shapes both individual and collective well-being.
+How do social interactions bring people closer together? Our research tests how and under what circumstances prosocial behaviors promote social connection, strengthen interpersonal relationships, and protect against isolation and loneliness. By exploring this question at the contextual, cognitive, and neural level, we aim to achieve a comprehensive understanding about the ways in which social connection shapes both individual and collective well-being.
 
 {% endcapture %}
 
@@ -22,7 +22,7 @@ How do prosocial interactions bring people closer together? Our research examine
 
 {% capture text %}
 
-How do people learn, maintain, and update their representations of others? Our research investigates how individuals use complex social representations and knowledge to interpret and act on inferences about others' beliefs, emotions, and intentions. By examining how these mental models evolve in real-time, we aim to uncover the processes that drive successful social learning and cooperation, ultimately improving how we navigate and engage in social interactions.
+How do people learn, maintain, and update their representations of others? Our research investigates how individuals use complex social representations and knowledge to interpret and act on inferences about others' beliefs, emotions, and intentions. By examining how these mental representations evolve in real-time, we aim to uncover the neurocomputational processes that drive successful social learning and cooperation, ultimately improving how we navigate and engage in social interactions.
 
 {% endcapture %}
 
@@ -37,7 +37,7 @@ How do people learn, maintain, and update their representations of others? Our r
 
 {% capture text %}
 
-How do individual brains converge or diverge in their perception of the world? Our research investigates the ways in which neural activity aligns or diverges across individuals and the factors that drive both commonalities and differences in social cognition. By understanding idiosyncrasies in both health and psychiatric disorder, we aim to uncover insights into how people connect, communicate, and collaborate in shared environments.
+How do individual brains converge or diverge in their perception of the world? Our research investigates the ways in which neural activity aligns or diverges across individuals and the factors that drive both commonalities and differences in social cognition and behavior. By understanding idiosyncrasies in both health and psychiatric disorder, we aim to uncover insights into how people connect, communicate, and collaborate in shared environments.
 
 {% endcapture %}
 
@@ -59,7 +59,7 @@ How do individual brains converge or diverge in their perception of the world? O
 
 {% capture text %}
 
-We believe that scientific progress thrives when it is open, inclusive, and grounded in community. Our research promotes open science tools, resources for trainees, and the sharing of open-source code and data to foster collaboration and transparency. We are committed to inclusivity both in the lab and in the field, recognizing that science is best when it brings together diverse backgrounds and perspectives. Through partnerships within the local community and the greater New York Metropolitan area, we aim to apply our research to improve medicine and policy, working toward a more equitable and impactful future for all.
+We believe that scientific progress thrives when it is open, inclusive, and grounded in community. Our research promotes open science tools, resources for trainees, and the sharing of open-source code and data to foster collaboration and transparency. We are committed to inclusivity both in the lab and in the broader field, recognizing that science is best when it brings together diverse backgrounds and perspectives. Through partnerships within the local community and the greater New York Metropolitan area, we aim to apply our research to improve medicine and policy, working toward a more equitable and impactful future for all.
 
 {% endcapture %}
 
@@ -74,7 +74,7 @@ We believe that scientific progress thrives when it is open, inclusive, and grou
 
 {%
   include button.html
-  link="contact"
+  link="connect"
   text="COLLABORATE WITH US"
   icon="fa-solid fa-arrow-right"
   flip=true
