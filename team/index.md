@@ -30,8 +30,6 @@ Jo Cutler, Ph.D. (University of Birmingham)
 
 Mark K. Ho, Ph.D. (New York University)
 
-...and many more!
-
 {% include section.html %}
 
 # {% include icon.html icon="fa-solid fa-users" %}Our Partners
