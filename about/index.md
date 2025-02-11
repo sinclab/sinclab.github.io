@@ -17,15 +17,15 @@ We use a combination of methods—including computational modeling, functional n
 
 # {% include icon.html icon="fa-regular fa-circle-question" %}Primary Research Questions
 
-#### What neural and computational processes underlie individual differences in social perception, learning, and decision-making?
+**What neural and computational processes underlie individual differences in social perception, learning, and decision-making?**
 
-#### What drives variability and alignment in shared emotional experiences? How do we represent and understand others’ internal states (i.e., their emotions, beliefs, goals)?
+**What drives variability and alignment in shared emotional experiences? How do we represent and understand others’ internal states (i.e., their emotions, beliefs, goals)?**
 
-#### How do prosocial and antisocial behaviors impact interpersonal relationships?
+**How do prosocial and antisocial behaviors impact interpersonal relationships?**
 
-#### How does loneliness impact these processes and affect mental health?
+**How does loneliness impact these processes and affect mental health?**
 
-#### Under what conditions do external social factors (e.g., context, community, broader societal structures) impact individuals' internal states, including their subjective well-being?
+**Under what conditions do external social factors (e.g., context, community, broader societal structures) impact individuals' internal states, including their subjective well-being?**
 
 {% include section.html %}
 
