@@ -2,7 +2,7 @@
 name: Shawn A. Rhoads, PhD
 image: images/shawn-rhoads.jpg
 role: principal-investigator
-affiliation: Icahn School of Medicine at Mount Sinai
+affiliation: ISMMS
 aliases:
   - S. A. Rhoads
   - Shawn A. Rhoads
