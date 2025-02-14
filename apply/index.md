@@ -1,6 +1,5 @@
 ---
-title: "Join Us"
-redirect_to: https://sinclab.github.io/apply
+title: "Apply"
 ---
 
 # {% include icon.html icon="fa-solid fa-sailboat" %}We are hiring a full-time Research Coordinator / Lab Manager!
