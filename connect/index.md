@@ -13,7 +13,7 @@ Please stay tuned for opportunities to participate in our research!
 
 # {% include icon.html icon="fa-regular fa-paper-plane" %}Apply
 
-We are currently hiring a research coordinator / lab manager to start in late spring or early summer 2025. Please visit [this page](/connect/hiring) for more information.
+We are currently hiring a research coordinator / lab manager to start in late spring or early summer 2025. Please visit [this page](/apply) for more information.
 
 {% include section.html %}
 
