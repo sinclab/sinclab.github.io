@@ -626,7 +626,7 @@
 
 <p><strong>2. Filter Specific Time Range</strong></p>
 <ul>
-  <li>We will often focus only on epochs of the data where there is an event of interest. Filter the data to only include timepoints 24-45 and analyze power during these periods. Write a function <code class="language-plaintext highlighter-rouge">select_timepoints(df, xmin, xmax)</code> to filter the dataframe to include only rows where <code class="language-plaintext highlighter-rouge">time</code> is between 24 second (<code class="language-plaintext highlighter-rouge">xmin</code>) and 45 seconds (<code class="language-plaintext highlighter-rouge">xmax</code>).</li>
+  <li>We will often focus only on epochs of the data where there is an event of interest. Filter the data to only include timepoints 24-45. Write a function <code class="language-plaintext highlighter-rouge">select_timepoints(df, xmin, xmax)</code> that returns a new dataframe that only includes rows where <code class="language-plaintext highlighter-rouge">time</code> is between 24 seconds (<code class="language-plaintext highlighter-rouge">xmin</code>) and 45 seconds (<code class="language-plaintext highlighter-rouge">xmax</code>) for each subject while retaining all other columns.</li>
 </ul>
 
 <h2 id="part-2-data-manipulation"><strong>Part 2: Data Manipulation</strong></h2>
@@ -637,18 +637,18 @@
 
 <p><strong>4. Standardize Power Values</strong></p>
 <ul>
-  <li>Write a function <code class="language-plaintext highlighter-rouge">zscore_power(df)</code> that adds a new column to the dataframe called <code class="language-plaintext highlighter-rouge">zpower</code> and standardizes the <code class="language-plaintext highlighter-rouge">power</code> column over time for each subject by subtracting subjects’ mean and dividing by their standard deviation.</li>
+  <li>Write a function <code class="language-plaintext highlighter-rouge">zscore_power(df)</code> that standardizes the <code class="language-plaintext highlighter-rouge">power</code> column over time for each subject by subtracting the mean and dividing by the standard deviation. The output should return a new dataframe with an added column called <code class="language-plaintext highlighter-rouge">zpower</code>.</li>
 </ul>
 
 <p><strong>5. Apply a Custom Function to Scale Data</strong></p>
 <ul>
-  <li>Write a function <code class="language-plaintext highlighter-rouge">scale_power(df)</code> that applies a lambda function that scales <code class="language-plaintext highlighter-rouge">power</code> values by the maximum value in the sample. The new column should be called <code class="language-plaintext highlighter-rouge">scaled_power</code> and should be added to the dataframe.</li>
+  <li>Write a function <code class="language-plaintext highlighter-rouge">scale_power(df)</code> that applies a lambda function that scales <code class="language-plaintext highlighter-rouge">power</code> values by the maximum value in the sample. The output should return a new dataframe with an added column called <code class="language-plaintext highlighter-rouge">scaled_power</code>.</li>
 </ul>
 
 <h2 id="part-3-data-analysis-and-visualization"><strong>Part 3: Data Analysis and Visualization</strong></h2>
 <p><strong>6. Detect Dyads with High Variability in Power</strong></p>
 <ul>
-  <li>Write a function <code class="language-plaintext highlighter-rouge">detect_high_variability_dyads(df, sigma=.25)</code> to identify dyads where the standard deviation of <code class="language-plaintext highlighter-rouge">power</code> across subjects exceeds a threshold (sigma=<code class="language-plaintext highlighter-rouge">0.25</code>) and print those subjects.</li>
+  <li>Write a function <code class="language-plaintext highlighter-rouge">detect_high_variability_dyads(df, sigma=.25)</code> to identify dyads where the standard deviation of <code class="language-plaintext highlighter-rouge">power</code> across subjects exceeds a threshold (sigma=<code class="language-plaintext highlighter-rouge">0.25</code>) and returns a list of those subjects.</li>
 </ul>
 
 <p><strong>7. Extract and Plot Activity as a Function of Time</strong></p>
