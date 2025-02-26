@@ -659,9 +659,9 @@
 
 <p><strong>8. Compute and Plot Inter-Subject Correlation</strong></p>
 <ul>
-  <li>Write a function <code class="language-plaintext highlighter-rouge">plot_correlation_heatmap(df)</code> to compute the Pearson <em>r</em> correlation of <code class="language-plaintext highlighter-rouge">power</code> between subjects’ timeseries and plot a heatmap of the subject × subject correlation matrix where the color corresponds to the correlation coefficient. Also, mask out the upper triangle.</li>
-  <li>🚨 <strong>Hint</strong>: The correlation matrix should be a 15 x 15 matrix. Remember that Subject 5 and Subject 7 are also a dyad.</li>
-  <li>✨ <strong>Bonus:</strong> Draw a border around actual partner pairs (e.g., subject 1 and subject 6 are not partners, but subject 1 and subject 2 are). Annotate these heatmap cells with their respective correlation coefficients.</li>
+  <li>Write a function <code class="language-plaintext highlighter-rouge">plot_correlation_heatmap(df)</code> to compute the Pearson <em>r</em> correlation of <code class="language-plaintext highlighter-rouge">power</code> between subjects’ timeseries (<strong>exclude dyad “D”</strong>) and plot a heatmap of the subject × subject correlation matrix where the colormap corresponds to the correlation coefficient. Also, mask out the upper triangle.</li>
+  <li>🚨 <strong>Hint</strong>: The correlation matrix should be a 14 x 14 matrix.</li>
+  <li>✨ <strong>Bonus:</strong> Draw a border around actual partner pairs (e.g., subject 1 and subject 6 are <em>not</em> partners, but subject 1 and subject 2 are). Annotate these heatmap cells with their respective correlation coefficients.</li>
 </ul>
   </section>
 
