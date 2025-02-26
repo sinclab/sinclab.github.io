@@ -142,7 +142,7 @@ The dataset ([`dyad_neural_data.csv`](/apply/dyad_neural_data.csv)) contains moc
    - Write a function `find_multiple_partners(df)` that returns a list of subjects (`subj_id`) who appear in more than one `dyad_id`.
 
 **2. Filter Specific Time Range**
-   - We will often focus only on epochs of the data where there is an event of interest. Filter the data to only include timepoints 24-45 and analyze power during these periods. Write a function `select_timepoints(df, xmin, xmax)` filter the dataframe to include only rows where `time` is between 24 second (`xmin`) and 45 seconds (`xmax`).
+   - We will often focus only on epochs of the data where there is an event of interest. Filter the data to only include timepoints 24-45 and analyze power during these periods. Write a function `select_timepoints(df, xmin, xmax)` to filter the dataframe to include only rows where `time` is between 24 second (`xmin`) and 45 seconds (`xmax`).
 
 ## **Part 2: Data Manipulation**
 **3. Compute Mean Power**  
