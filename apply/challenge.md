@@ -163,7 +163,7 @@ The dataset ([`dyad_neural_data.csv`](/apply/dyad_neural_data.csv)) contains moc
    - ✨ **Bonus:** only plot the timepoints 33-68 using your function from earlier.
 
 **8. Compute and Plot Inter-Subject Correlation**  
-   - Write a function `plot_correlation_heatmap(df)` to compute the Pearson *r* correlation of `power` between subjects' timeseries and plot a heatmap of the subject × subject correlation matrix where the color corresponds to the correlation coefficient. Also, mask out the upper triangle.
-   - 🚨 **Hint**: The correlation matrix should be a 15 x 15 matrix. Remember that Subject 5 and Subject 7 are also a dyad.
-   - ✨ **Bonus:** Draw a border around actual partner pairs (e.g., subject 1 and subject 6 are not partners, but subject 1 and subject 2 are). Annotate these heatmap cells with their respective correlation coefficients. 
+   - Write a function `plot_correlation_heatmap(df)` to compute the Pearson *r* correlation of `power` between subjects' timeseries (**exclude dyad "D"**) and plot a heatmap of the subject × subject correlation matrix where the colormap corresponds to the correlation coefficient. Also, mask out the upper triangle.
+   - 🚨 **Hint**: The correlation matrix should be a 14 x 14 matrix.
+   - ✨ **Bonus:** Draw a border around actual partner pairs (e.g., subject 1 and subject 6 are *not* partners, but subject 1 and subject 2 are). Annotate these heatmap cells with their respective correlation coefficients. 
 
