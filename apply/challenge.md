@@ -17,9 +17,9 @@ python LASTNAME_FIRSTNAME_challenge.py
 - Data: [`dyad_neural_data.csv`](/apply/dyad_neural_data.csv)
 - Script: [`challenge.py`](/apply/challenge.py)
 
-## Dataset Description (`dyad_neural_data.csv`)
+## Dataset Description
 
-The dataset (see example below) contains mock neural recordings for subjects engaged in dyadic interactions, recorded every second for 60 seconds. Some subjects are matched with more than one partner.
+The dataset ([`dyad_neural_data.csv`](/apply/dyad_neural_data.csv)) contains mock neural recordings for subjects engaged in dyadic interactions, recorded every second for 60 seconds. Some subjects are matched with more than one partner. See example below.
 
 - `subj_id`: Unique subject identifier  
 - `dyad_id`: Identifier for the dyadic interaction  
@@ -146,13 +146,13 @@ The dataset (see example below) contains mock neural recordings for subjects eng
 
 ## **Part 2: Data Manipulation**
 **3. Compute Mean Power**  
-   - Write a function `compute_mean_power(df)` that filters the data to only include timepoints 30-70 and returns a new dataframe with the mean `power` for each `subj_id` for this time range.
+   - Write a function `compute_mean_power(df)` that filters the data to only include timepoints 30-70 (using your function from earlier) and returns a new dataframe with the mean `power` for each `subj_id` for this time range.
 
 **4. Standardize Power Values**  
-   - Write a function `zscore_power(df)` that adds a new column called `zpower` and standardizes the `power` column over time for each subject by subtracting subjects' mean and dividing by their standard deviation.
+   - Write a function `zscore_power(df)` that adds a new column to the dataframe called `zpower` and standardizes the `power` column over time for each subject by subtracting subjects' mean and dividing by their standard deviation.
 
 **5. Apply a Custom Function to Scale Data**  
-   - Write a function `zscore_power(df)` that applies a lambda function that scales `power` values by the maximum value in the sample. The new column should be called `scaled_power` and should be added to the dataframe.
+   - Write a function `scale_power(df)` that applies a lambda function that scales `power` values by the maximum value in the sample. The new column should be called `scaled_power` and should be added to the dataframe.
 
 ## **Part 3: Data Analysis and Visualization**
 **6. Detect Dyads with High Variability in Power**  
@@ -160,7 +160,7 @@ The dataset (see example below) contains mock neural recordings for subjects eng
 
 **7. Extract and Plot Activity as a Function of Time**  
    - Write function `plot_power_x_time(df)` to plot the **z-scored timeseries for all subjects**, color each dyad uniquely and add a legend.
-   - ✨ **Bonus:** only plot the timepoints 30-70 using your function from earlier.
+   - ✨ **Bonus:** only plot the timepoints 33-68 using your function from earlier.
 
 **8. Compute and Plot Inter-Subject Correlation**  
    - Write a function `plot_correlation_heatmap(df)` to compute the Pearson *r* correlation of `power` between subjects' timeseries and plot a heatmap of the subject × subject correlation matrix where the color corresponds to the correlation coefficient. Also, mask out the upper triangle.
