@@ -492,9 +492,9 @@
 </li>
 </ul>
 
-<h2 id="dataset-description-dyad_neural_datacsv">Dataset Description (<code class="language-plaintext highlighter-rouge">dyad_neural_data.csv</code>)</h2>
+<h2 id="dataset-description">Dataset Description</h2>
 
-<p>The dataset (see example below) contains mock neural recordings for subjects engaged in dyadic interactions, recorded every second for 60 seconds. Some subjects are matched with more than one partner.</p>
+<p>The dataset (<a href="/apply/dyad_neural_data.csv"><code class="language-plaintext highlighter-rouge">dyad_neural_data.csv</code></a>) contains mock neural recordings for subjects engaged in dyadic interactions, recorded every second for 60 seconds. Some subjects are matched with more than one partner. See example below.</p>
 
 <ul>
   <li>
@@ -632,17 +632,17 @@
 <h2 id="part-2-data-manipulation"><strong>Part 2: Data Manipulation</strong></h2>
 <p><strong>3. Compute Mean Power</strong></p>
 <ul>
-  <li>Write a function <code class="language-plaintext highlighter-rouge">compute_mean_power(df)</code> that filters the data to only include timepoints 30-70 and returns a new dataframe with the mean <code class="language-plaintext highlighter-rouge">power</code> for each <code class="language-plaintext highlighter-rouge">subj_id</code> for this time range.</li>
+  <li>Write a function <code class="language-plaintext highlighter-rouge">compute_mean_power(df)</code> that filters the data to only include timepoints 30-70 (using your function from earlier) and returns a new dataframe with the mean <code class="language-plaintext highlighter-rouge">power</code> for each <code class="language-plaintext highlighter-rouge">subj_id</code> for this time range.</li>
 </ul>
 
 <p><strong>4. Standardize Power Values</strong></p>
 <ul>
-  <li>Write a function <code class="language-plaintext highlighter-rouge">zscore_power(df)</code> that adds a new column called <code class="language-plaintext highlighter-rouge">zpower</code> and standardizes the <code class="language-plaintext highlighter-rouge">power</code> column over time for each subject by subtracting subjects’ mean and dividing by their standard deviation.</li>
+  <li>Write a function <code class="language-plaintext highlighter-rouge">zscore_power(df)</code> that adds a new column to the dataframe called <code class="language-plaintext highlighter-rouge">zpower</code> and standardizes the <code class="language-plaintext highlighter-rouge">power</code> column over time for each subject by subtracting subjects’ mean and dividing by their standard deviation.</li>
 </ul>
 
 <p><strong>5. Apply a Custom Function to Scale Data</strong></p>
 <ul>
-  <li>Write a function <code class="language-plaintext highlighter-rouge">zscore_power(df)</code> that applies a lambda function that scales <code class="language-plaintext highlighter-rouge">power</code> values by the maximum value in the sample. The new column should be called <code class="language-plaintext highlighter-rouge">scaled_power</code> and should be added to the dataframe.</li>
+  <li>Write a function <code class="language-plaintext highlighter-rouge">scale_power(df)</code> that applies a lambda function that scales <code class="language-plaintext highlighter-rouge">power</code> values by the maximum value in the sample. The new column should be called <code class="language-plaintext highlighter-rouge">scaled_power</code> and should be added to the dataframe.</li>
 </ul>
 
 <h2 id="part-3-data-analysis-and-visualization"><strong>Part 3: Data Analysis and Visualization</strong></h2>
@@ -654,7 +654,7 @@
 <p><strong>7. Extract and Plot Activity as a Function of Time</strong></p>
 <ul>
   <li>Write function <code class="language-plaintext highlighter-rouge">plot_power_x_time(df)</code> to plot the <strong>z-scored timeseries for all subjects</strong>, color each dyad uniquely and add a legend.</li>
-  <li>✨ <strong>Bonus:</strong> only plot the timepoints 30-70 using your function from earlier.</li>
+  <li>✨ <strong>Bonus:</strong> only plot the timepoints 33-68 using your function from earlier.</li>
 </ul>
 
 <p><strong>8. Compute and Plot Inter-Subject Correlation</strong></p>
