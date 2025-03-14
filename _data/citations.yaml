@@ -1,5 +1,20 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1101/2025.03.13.642273
+  title: Neurocomputational underpinnings of suboptimal beliefs in recurrent neural
+    network-based agents
+  authors:
+  - M. Ganesh Kumar
+  - Adam Manoogian
+  - William Qian
+  - Cengiz Pehlevan
+  - Shawn A. Rhoads
+  publisher: bioRxiv
+  date: '2025-03-13'
+  link: https://doi.org/g88cdq
+  orcid: 0000-0003-1350-9458
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1038/s44220-024-00343-w
   title: Advancing computational psychiatry through a social lens
   authors:
