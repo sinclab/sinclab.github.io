@@ -9,7 +9,7 @@ nav:
 
 {% include section.html %}
 
-## Highlighted
+## Highlighted Works
 
 {% include citation.html lookup="Advancing computational psychiatry through a social lens" style="rich" %}
 
