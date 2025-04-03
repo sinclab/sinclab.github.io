@@ -31,7 +31,7 @@ Please apply with your CV, 2-4 references, and a cover letter describing (1) why
 
 There are several ways to join the lab as a graduate student. We are currently accepting students from the following programs:
 
-- PhD in [Neuroscience](https://www.mssm.edu/education/graduate-school/programs/neuroscience)
+- PhD in [Neuroscience](https://icahn.mssm.edu/education/phd/neuroscience/)
 - PhD in Biomedical Sciences - [Artificial Intelligence and Emerging Technologies in Medicine](https://icahn.mssm.edu/education/phd/biomedical-sciences/artificial-intelligence) (AIET) concentration
 - Master of Science in [Biomedical Data Science and AI](https://icahn.mssm.edu/education/masters/data-science)
 
