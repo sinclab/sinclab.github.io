@@ -4,9 +4,28 @@ title: "Apply"
 
 # {% include icon.html icon="fa-solid fa-sailboat" %}POST-DOCTORAL OPPORTUNITIES
 
-{% include section.html %}
+The [**Computation and Decision-Making Lab**](https://codec-lab.github.io/) at New York University (PI: [Mark Ho](https://markkho.github.io/)) and [**Social Interaction and Neural Computation Lab**](https://sinclab.github.io/) at the Icahn School of Medicine at Mount Sinai (PI: [Shawn Rhoads](https://shawnrhoads.github.io/)) are seeking a highly motivated and talented postdoctoral associate. The postdoc will be based at NYU and involved in collaborations across the two institutions. This is an exciting opportunity for individuals with a strong interest in computational models of social interaction (e.g., Bayesian theory of mind, multi-agent reinforcement learning) and how they can be applied to topics in computational psychiatry (e.g., social anxiety, paranoid/delusional ideation, loneliness).
 
-Please stay tuned for future opportunities!
+**Key Responsibilities:**
+- Lead cutting-edge research projects focused on developing novel computational techniques for analyzing behavioral and neural data from participants solving social dilemmas.
+- Collaborate closely with the PIs and lab members.
+- Conduct and publish high-impact research in top-tier journals and conferences.
+
+**What We Offer:**
+- Mentorship and professional development opportunities under the guidance of PIs (Mark Ho and Shawn Rhoads).
+- Access to state-of-the-art research facilities and resources at NYU and Mount Sinai.
+- A supportive network and a stimulating intellectual environment at NYU and Mount Sinai.
+
+**Qualifications:**
+- Ph.D. in Cognitive Science, Computer Science, Psychology, Neuroscience, or a related field.
+- Strong background in computational cognitive modeling and statistics.
+- Strong programming skills in JavaScript and Python for developing multi-participant, web-based experiments.
+- Familiarity with experimental design for behavioral tasks and data collection from human participants.
+- Demonstrated ability to lead research projects and work collaboratively.
+
+Please stay tuned When the application opens, please apply with your CV, 2-4 references, and a cover letter describing (1) why you are interested in this position and (2) any relevant skills. 
+
+{% include section.html %}
 
 # {% include icon.html icon="fa-solid fa-sailboat" %}GRADUATE OPPORTUNITIES
 
@@ -59,7 +78,7 @@ Applications for the full-time laboratory manager position are now closed. Pleas
 
 {% include section.html %}
 
-# {% include icon.html icon="fa-solid fa-laptop" %}Volunteer Opportunities
+# {% include icon.html icon="fa-solid fa-laptop" %}Undergraduate Opportunities
 
 We are also accepting applications for volunteer <strong>undergraduate research assistants</strong>. We are specifically looking for <strong>undergraduates in their first or second year</strong> who are based at an institution in New York City and have a <strong>strong background in math and/or computer science</strong> and interest in using computational tools to understand how we interact with others.
 
