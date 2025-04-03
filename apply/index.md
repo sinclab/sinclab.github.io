@@ -23,7 +23,7 @@ The [**Computation and Decision-Making Lab**](https://codec-lab.github.io/) at N
 - Familiarity with experimental design for behavioral tasks and data collection from human participants.
 - Demonstrated ability to lead research projects and work collaboratively.
 
-Please stay tuned When the application opens, please apply with your CV, 2-4 references, and a cover letter describing (1) why you are interested in this position and (2) any relevant skills. 
+Please apply with your CV, 2-4 references, and a cover letter describing (1) why you are interested in this position and (2) any relevant skills. Application review begins April 18, 2025, and will continue until the role is filled: https://apply.interfolio.com/165809
 
 {% include section.html %}
 
