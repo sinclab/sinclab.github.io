@@ -82,4 +82,5 @@ Applications for the full-time laboratory manager position are now closed. Pleas
 
 We are also accepting applications for volunteer <strong>undergraduate research assistants</strong>. We are specifically looking for <strong>undergraduates in their first or second year</strong> who are based at an institution in New York City and have a <strong>strong background in math and/or computer science</strong> and interest in using computational tools to understand how we interact with others.
 
-To apply, please send a cover letter and CV to shawn(dot)rhoads(at)mssm(dot)edu with subject line “[RA App 2025] First Name Last Name” (e.g., “[RA App 2025] Shawn Rhoads”)
+We will post an application shortly.
+<!-- To apply, please send a cover letter and CV to shawn(dot)rhoads(at)mssm(dot)edu with subject line “[RA App 2025] First Name Last Name” (e.g., “[RA App 2025] Shawn Rhoads”) -->
