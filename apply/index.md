@@ -80,7 +80,10 @@ Applications for the full-time laboratory manager position are now closed. Pleas
 
 # {% include icon.html icon="fa-solid fa-laptop" %}Undergraduate Opportunities
 
-We are also accepting applications for volunteer <strong>undergraduate research assistants</strong>. We are specifically looking for <strong>undergraduates in their first or second year</strong> who are based at an institution in New York City and have a <strong>strong background in math and/or computer science</strong> and interest in using computational tools to understand how we interact with others.
+We invite applications for volunteer <strong>Undergraduate Research Assistant</strong> positions. We are seeking motivated <strong>first and second-year undergraduates enrolled full-time at a New York City institution</strong> who are passionate about understanding social connection and interaction. If you are interested in contributing to our research, please complete this form. Available RA roles are detailed below:
 
-We will post an application shortly.
-<!-- To apply, please send a cover letter and CV to shawn(dot)rhoads(at)mssm(dot)edu with subject line “[RA App 2025] First Name Last Name” (e.g., “[RA App 2025] Shawn Rhoads”) -->
+1. <strong>Research Assistant in Experimental Design</strong>: Contributes to the development of recruitment materials, IRB protocols, and experimental paradigms. May also assist with data collection.
+2. <strong>Research Assistant in Data Processing</strong>: Focuses on writing code for data organization, cleaning, and processing. May also assist with data analysis. Ideal candidates will have a strong background in math and/or computer science.
+3. <strong>Research Assistant in Public Outreach & Communications</strong>: Supports community partnerships, communicates research to the public, and writes newsletters. Ideal candidates will have a strong interest in science communication.
+
+To apply, please complete [this Google form](https://docs.google.com/forms/d/e/1FAIpQLScqIHtf5hu3sPGDcM4azj2wgy15XEYruO10VbBc-Y-JBzcVyA/viewform?usp=sharing)<!-- To apply, please send a cover letter and CV to shawn(dot)rhoads(at)mssm(dot)edu with subject line “[RA App 2025] First Name Last Name” (e.g., “[RA App 2025] Shawn Rhoads”) -->
