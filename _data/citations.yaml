@@ -1,5 +1,43 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.31234/osf.io/gx7au_v1
+  title: When Predicting Climate-Relevant Intervention Effectiveness, Academics Outperform
+    the Public, but Not a Simple Heuristic
+  authors:
+  - Kimberly C Doell
+  - Lukas Lengersdorff
+  - Shawn A Rhoads
+  - Boryana Todorova
+  - Jonas P. Nitschke
+  - James Druckman
+  - Madalina Vlasceanu
+  - Claus Lamm
+  - Jay Joseph Van Bavel
+  publisher: Center for Open Science
+  date: '2025-05-15'
+  link: https://doi.org/g9kjxs
+  orcid: 0000-0003-1350-9458
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.31234/osf.io/fzv6g_v1
+  title: When Predicting Climate-Relevant Intervention Effectiveness, Academics Outperform
+    the Public, but Not a Simple Heuristic
+  authors:
+  - Kimberly C Doell
+  - Lukas Lengersdorff
+  - Shawn A Rhoads
+  - Boryana Todorova
+  - Jonas P. Nitschke
+  - James Druckman
+  - Madalina Vlasceanu
+  - Claus Lamm
+  - Jay Joseph Van Bavel
+  publisher: Center for Open Science
+  date: '2025-05-15'
+  link: https://doi.org/g9kjxv
+  orcid: 0000-0003-1350-9458
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1101/2025.03.13.642273
   title: Neurocomputational underpinnings of suboptimal beliefs in recurrent neural
     network-based agents
@@ -1428,6 +1466,233 @@
   tags:
   - open science
   - neuroimaging
+- id: doi:10.31234/osf.io/rytjq_v1
+  title: 'Brainhack: developing a culture of open, inclusive, community-driven neuroscience'
+  authors:
+  - Remi Gau
+  - Stephanie Noble
+  - Katja Heuer
+  - Katherine L Bottenhorn
+  - Isil Poyraz Bilgin
+  - Yu-Fang Yang
+  - Julia M Huntenburg
+  - Johanna Margarete Marianne Bayer
+  - Richard A.I. Bethlehem
+  - Shawn A Rhoads
+  - Christoph Vogelbacher
+  - Valentina Borghesani
+  - Elizabeth Levitis
+  - Hao-Ting Wang
+  - Sofie Van Den Bossche
+  - Xenia Kobeleva
+  - "Jon Haitz Legarreta Gorro\xF1o"
+  - Samuel Guay
+  - Melvin Selim ATAY
+  - Gael P. Varoquaux
+  - Dorien Huijser
+  - "Malin Sofia Sandstr\xF6m"
+  - Peer Herholz
+  - Samuel A. Nastase
+  - AmanPreet Badhwar
+  - Guillaume Dumas
+  - Simon Schwab
+  - Stefano Moia
+  - Michael Dayan
+  - Yasmine Bassil
+  - Paula P. Brooks
+  - Matteo Mancini
+  - James Shine
+  - David O'Connor
+  - Xihe Xie
+  - Davide Poggiali
+  - Anibal Solon Heinsfeld
+  - Patrick Friedrich
+  - Lydia Riedl
+  - Roberto Toro
+  - "C\xE9sar Caballero-Gaudes"
+  - Anders Eklund
+  - Kelly Garner
+  - Christopher Raymond Nolan
+  - Damion Demeter
+  - Fernando Alejandro Barrios
+  - Junaid Salim Merchant
+  - Elizabeth Ann McDevitt
+  - Robert Oostenveld
+  - Cameron Craddock
+  - Ariel Rokem
+  - Andrew Doyle
+  - Nathalia Bianchini Esper
+  - Satrajit S Ghosh
+  - Georg Langs
+  - Aki Nikolaidis
+  - Olivia Stanley
+  - "Eneko Uru\xF1uela"
+  - Brainhack community
+  - nasim anousheh
+  - Guillaume Auzias
+  - Aurina Arnatkeviciute
+  - Dipankar Bachar
+  - Elise Bannier
+  - Ruggero Basanisi
+  - Arshitha Basavaraj
+  - Marco Bedini
+  - Lune Bellec
+  - R. Austin Benn
+  - Kathryn Berluti
+  - Saskia Bollmann
+  - Steffen Bollmann
+  - Claire Bradley
+  - Jesse Brown
+  - Augusto Buchweitz
+  - Patrick Callahan
+  - Micaela Chan
+  - Bramsh Q. Chandio
+  - Theresa W Cheng
+  - Sidhant Chopra
+  - Ai Wern Chung
+  - Thomas Close
+  - Etienne Combrisson
+  - Giorgia Cona
+  - Robert T. Constable
+  - Claire Cury
+  - ' KamalakerDadi'
+  - Samir Das
+  - Pablo F. Damasceno
+  - Fabrizio De Vico Fallani
+  - Krista Leigh DeStasio
+  - Erin W Dickie
+  - Lena Dorfschmidt
+  - Eugene Duff
+  - Elizabeth DuPre
+  - Sarah Louise Dziura
+  - Oscar Esteban
+  - Shreyas Fadnavis
+  - Guillaume Flandin
+  - Jessica E. Flannery
+  - John Coleman Flournoy
+  - Stephanie J Forkel
+  - Alexandre Franco
+  - Saampras Ganesan
+  - Siyuan Gao
+  - "Jos\xE9 C. Garc\xEDa Alanis"
+  - Eleftherios Garyfallidis
+  - Tristan Glatard
+  - Enrico Glerean
+  - Javier Gonzalez-Castillo
+  - Cassandra Doris Gould van Praag
+  - Abigail S. Greene
+  - Geetika Gupta
+  - Catherine Alice Hahn
+  - Yaroslav O Halchenko
+  - Daniel A. Handwerker
+  - Thomas S Hartmann
+  - "Val\xE9rie Hayot-Sasson"
+  - Stephan Heunis
+  - Felix Hoffstaedter
+  - Corey Horien
+  - Daniela Michelle Hohmann
+  - Horea-Ioan Ioanas
+  - Jason Kai
+  - Michael Joseph
+  - Agah Karakuzu
+  - David N. Kennedy
+  - Anisha Keshavan
+  - Ali Raza Khan
+  - Greg Kiar
+  - P. Christiaan Klink
+  - Vincent Koppelmans
+  - Serge Koudoro
+  - Angie Laird
+  - Marissa Laws
+  - Roxane Licandro
+  - Sook-Lei Liew
+  - Tomislav Lipic
+  - Krisanne Litinas
+  - Daniel J Lurie
+  - "D\xE9sir\xE9e Lussier"
+  - Christopher R Madan
+  - Lea-Theresa Mais
+  - Sina Mansour L.
+  - J. P. Manzano-Patron
+  - Dimitra Maoutsa
+  - Matheus Marcon
+  - Daniel S. Margulies
+  - Giorgio Marinato
+  - Daniele Marinazzo
+  - Christopher Johnson Markiewicz
+  - Camille MAUMET
+  - Felipe Meneguzzi
+  - David Meunier
+  - Michael Milham
+  - Kathryn L. Mills
+  - Davide Momi
+  - Clara A Moreau
+  - Aysha Motala
+  - Iska Moxon-Emre
+  - Thomas Nichols
+  - Dylan M Nielson
+  - Gustav Nilsonne
+  - Lisa Novello
+  - Caroline O'Brien
+  - Emily Olafson
+  - Lindsay D Oliver
+  - John A. Onofrey
+  - Edwina R Orchard
+  - Kendra Oudyk
+  - Patrick Park
+  - mah Parsa
+  - Lorenzo Pasquini
+  - Scott Peltier
+  - Cyril R Pernet
+  - Rudolph Pienaar
+  - Pedro Pinheiro-Chagas
+  - Jean-Baptiste Poline
+  - Anqi Qiu
+  - Tiago Quendera
+  - Laura Rice
+  - Joscelin Rocha-Hidalgo
+  - Saige Rutherford
+  - Mathias Scharinger
+  - Dustin Scheinost
+  - Deena Shariq
+  - Thomas Shaw
+  - Viviana Siless
+  - Molly Simmonite
+  - Nikoloz Sirmpilatze
+  - Hayli Spence
+  - Julia Sprenger
+  - Andrija Stajduhar
+  - Sylvain Takerkart
+  - Martin Szinte
+  - Angela Tam
+  - Link Tejavibulya
+  - Michel Thiebaut
+  - Ina Thome
+  - Laura Tomaz da Silva
+  - Nicolas Traut
+  - Lucina Uddin
+  - Antonino Vallesi
+  - Ashley S. VanMeter
+  - Nandita Vijayakumar
+  - Matteo Visconti di Oleggio Castello
+  - Jakub Vohryzek
+  - "Jak\u0161a Vukojevi\u0107"
+  - Kirstie Jane Whitaker
+  - Lucy Whitmore
+  - Steve Wideman
+  - Suzanne Witt
+  - hua xie
+  - Ting Xu
+  - Chao-Gan Yan
+  - Fang-Cheng Yeh
+  - B.T. Thomas Yeo
+  - Xi-Nian Zuo
+  publisher: Center for Open Science
+  date: '2021-02-12'
+  link: https://doi.org/g9kjx3
+  orcid: 0000-0003-1350-9458
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1371/journal.pone.0244974
   title: Reduced social distancing early in the COVID-19 pandemic is associated with
     antisocial behaviors in an online United States sample
