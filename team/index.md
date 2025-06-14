@@ -8,7 +8,8 @@ nav:
 # {% include icon.html icon="fa-solid fa-users" %}Our Team
 
 {% include list.html data="members" component="portrait" filter="role == 'principal-investigator'" %}
-{% include list.html data="members" component="portrait" filter="role != 'principal-investigator'" %}
+{% include list.html data="members" component="portrait" filter="role == 'laboratory-manager'" %}
+{% include list.html data="members" component="portrait" filter="role == 'research-assistant'" %}
 
 {% include section.html %}
 
