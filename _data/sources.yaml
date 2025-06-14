@@ -1633,6 +1633,25 @@
     - emotion
     - affective experience
 
+- id: doi:10.1101/2025.03.13.642273
+  title: Neurocomputational underpinnings of suboptimal beliefs in recurrent neural network-based agents
+  authors:
+  - M. Ganesh Kumar
+  - Adam Manoogian
+  - Billy Qian
+  - Cengiz Pehlevan
+  - Shawn A. Rhoads
+  publisher: bioRxiv
+  date: '2025-03-13'
+  link: https://doi.org/10.1101/2025.03.13.642273
+  orcid: 0000-0003-1350-9458
+  plugin: orcid.py
+  file: orcid.yaml
+  tags:
+    - computational psychiatry
+    - computational modeling
+    - mental health
+
 - id: doi:10.31234/osf.io/gx7au_v1
   title: When predicting climate-relevant intervention effectiveness, academics outperform the public, but not a simple heuristic
   authors:
