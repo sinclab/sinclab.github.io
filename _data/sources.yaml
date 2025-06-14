@@ -1029,6 +1029,13 @@
   publisher: PNAS Nexus
   date: '2023-06-13'
   link: https://doi.org/g82sf7
+  buttons:
+    - type: article
+      text: article
+      link: https://doi.org/10.1093/pnasnexus/pgad199
+    - type: website
+      text: altmetric
+      link: https://nature.altmetric.com/details/doi/10.1093/pnasnexus/pgad199
   orcid: 0000-0003-1350-9458
   plugin: orcid.py
   file: orcid.yaml
