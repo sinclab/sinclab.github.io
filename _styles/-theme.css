@@ -23,17 +23,17 @@
 }
 
 :root {
-  --title: "Rubik", sans-serif;
-  --heading: "Rubik", sans-serif;
-  --body: "Rubik", sans-serif;
+  --title: "DM Sans Black", sans-serif;
+  --heading: "DM Sans Black", sans-serif;
+  --body: "DM Sans", sans-serif;
   --code: "Roboto Mono", monospace;
   --large: 1.2rem;
   --xl: 1.4rem;
   --xxl: 1.6rem;
   --thin: 200;
-  --regular: 400;
-  --semi-bold: 500;
-  --bold: 600;
+  --regular: 450;
+  --semi-bold: 550;
+  --bold: 900;
   --spacing: 1.75;
   --compact: 1.5;
   --rounded: 3px;
