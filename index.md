@@ -7,7 +7,7 @@ We are particularly interested in <strong>understanding how social interactions 
 
 We use a combination of methods—including computational modeling, functional neuroimaging, and intracranial recordings—to investigate the neural, cognitive, and computational processes underlying human social connection and interaction.
 
-We are part of the <a href="https://icahn.mssm.edu/about/departments-offices/psychiatry">Department of Psychiatry</a> and the <a href="https://icahn.mssm.edu/about/departments-offices/neuroscience">Nash Family Department of Neuroscience</a> at the <a href="https://icahn.mssm.edu/about/departments-offices/psychiatry">Icahn School of Medicine at Mount Sinai</a> (New York, NY).
+Our research laboratory is part of the <a href="https://icahn.mssm.edu/about/departments-offices/psychiatry">Department of Psychiatry</a> and the <a href="https://icahn.mssm.edu/about/departments-offices/neuroscience">Nash Family Department of Neuroscience</a> at the <a href="https://icahn.mssm.edu/about/departments-offices/psychiatry">Icahn School of Medicine at Mount Sinai</a> (New York, NY).
 
 {% include section.html %}
 
@@ -72,7 +72,7 @@ We believe that scientific progress thrives when it is open and grounded in comm
 {%
   include feature.html
   image="images/community.jpg"
-  title="OPEN, INCLUSIVE, & COMMUNITY-BASED SCIENCE"
+  title="OPEN & COMMUNITY-BASED SCIENCE"
   flip=true
   style="bare"
   text=text

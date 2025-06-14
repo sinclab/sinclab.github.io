@@ -113,6 +113,12 @@ nav > a:hover {
 }
 
 header:not([data-big]) {
+  @media (max-width: 439px) {
+    .subtitle {
+      display: none;
+    }
+  }
+  
   @media (max-width: $collapse) {
     justify-content: flex-end;
 
@@ -140,6 +146,12 @@ header[data-big] {
 
   @if $sticky {
     top: unset;
+  }
+
+  @media (max-width: 329px) {
+    .subtitle {
+      display: none;
+    }
   }
 
   .home {

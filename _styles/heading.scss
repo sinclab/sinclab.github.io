@@ -49,3 +49,16 @@ h6 {
   margin-right: 1em;
   color: var(--light-gray);
 }
+
+@media (max-width: 569px) { /* Makes h1 font smaller when screen is smaller */
+  h1 {
+    font-size: 1.2em;
+    margin: 40px 0px;
+  }
+}
+@media (max-width: 414px) { /* Makes h1 font smaller when screen is smaller */
+  h1 {
+    font-size: 1.1em;
+    margin: 40px 0px;
+  }
+}
