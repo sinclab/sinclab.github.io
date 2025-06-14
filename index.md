@@ -3,7 +3,11 @@
 
 # We examine the neural, cognitive, and computational basis of social connection and interaction
 
-We are particularly interested in <strong>understanding how social interactions shape the well-being of self and others</strong> and the contexts in which they can improve mental health outcomes.
+We are particularly interested in <strong>understanding how social interactions shape the well-being of self and others</strong> and the contexts in which they can improve mental health outcomes. Our research program has two primary goals. The first is to achieve a mechanistic understanding of the factors that improve or impair the well-being of the self and others across multiple levels of analysis (e.g., neurobiological, cognitive, behavioral, interpersonal, societal). The second is to translate this understanding for direct application in medicine and policy.
+
+We use a combination of methods—including computational modeling, functional neuroimaging, and intracranial recordings—to investigate the neural, cognitive, and computational processes underlying human social connection and interaction.
+
+We are part of the <a href="https://icahn.mssm.edu/about/departments-offices/psychiatry">Department of Psychiatry</a> and the <a href="https://icahn.mssm.edu/about/departments-offices/neuroscience">Nash Family Department of Neuroscience</a> at the <a href="https://icahn.mssm.edu/about/departments-offices/psychiatry">Icahn School of Medicine at Mount Sinai</a> (New York, NY).
 
 {% include section.html %}
 
@@ -57,9 +61,11 @@ How do individual brains converge or diverge in their perception of the world? O
   style="bare"
 %}
 
+{% include section.html %}
+
 {% capture text %}
 
-We believe that scientific progress thrives when it is open, inclusive, and grounded in community. Our research promotes open science tools, resources for trainees, and the sharing of open-source code and data to foster collaboration and transparency. We are committed to inclusivity both in the lab and in the broader field, recognizing that science is best when it brings together diverse backgrounds and perspectives. Through partnerships within the local community and the greater New York Metropolitan area, we aim to apply our research to improve medicine and policy, working toward a more equitable and impactful future for all.
+We believe that scientific progress thrives when it is open and grounded in community. Our research promotes open science tools, resources for trainees, and the sharing of open-source code and data to foster collaboration and transparency. We are committed to these values both in the lab and in the broader field, recognizing that science is best when it brings together different backgrounds and perspectives. Through partnerships within the local community and the greater New York Metropolitan area, we aim to apply our research to improve medicine and policy, working toward a more impactful future for all.
 
 {% endcapture %}
 
