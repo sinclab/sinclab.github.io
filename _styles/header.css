@@ -100,6 +100,11 @@ nav > a:hover {
   color: var(--primary);
 }
 
+@media (max-width: 439px) {
+  header:not([data-big]) .subtitle {
+    display: none;
+  }
+}
 @media (max-width: 700px) {
   header:not([data-big]) {
     justify-content: flex-end;
@@ -123,6 +128,11 @@ header[data-big] {
   flex-direction: column;
   padding: 100px 20px;
   top: unset;
+}
+@media (max-width: 329px) {
+  header[data-big] .subtitle {
+    display: none;
+  }
 }
 header[data-big] .home {
   flex-direction: column;

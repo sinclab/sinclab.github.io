@@ -4,4 +4,10 @@ p {
   line-height: var(--spacing);
 }
 
+@media (max-width: 569px) { /* Makes p font smaller when screen is smaller */
+  p {
+    margin: 20px 0px;
+  }
+}
+
 /*# sourceMappingURL=paragraph.css.map */
