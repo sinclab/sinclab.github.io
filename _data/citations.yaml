@@ -26,17 +26,21 @@
   title: Neurocomputational underpinnings of suboptimal beliefs in recurrent neural
     network-based agents
   authors:
-  - M Ganesh Kumar
+  - M. Ganesh Kumar
   - Adam Manoogian
   - Billy Qian
   - Cengiz Pehlevan
   - Shawn A. Rhoads
-  publisher: Cold Spring Harbor Laboratory
+  publisher: bioRxiv
   date: '2025-03-13'
-  link: https://doi.org/g88cdq
+  link: https://doi.org/10.1101/2025.03.13.642273
   orcid: 0000-0003-1350-9458
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  tags:
+  - computational psychiatry
+  - computational modeling
+  - mental health
 - id: doi:10.1038/s44220-024-00343-w
   title: Advancing computational psychiatry through a social lens
   authors:
