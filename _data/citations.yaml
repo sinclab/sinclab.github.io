@@ -1,14 +1,36 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.31234/osf.io/gx7au_v1
+  title: When predicting climate-relevant intervention effectiveness, academics outperform
+    the public, but not a simple heuristic
+  authors:
+  - Kimberly C Doell
+  - Lukas Lengersdorff
+  - Shawn A. Rhoads
+  - Boryana Todorova
+  - Jonas P. Nitschke
+  - James Druckman
+  - Madalina Vlasceanu
+  - Claus Lamm
+  - Jay J. Van Bavel
+  publisher: PsyArXiv
+  date: '2025-05-15'
+  link: https://doi.org/g9kjxs
+  orcid: 0000-0003-1350-9458
+  plugin: sources.py
+  file: sources.yaml
+  tags:
+  - intervention science
+  - open science
 - id: doi:10.1101/2025.03.13.642273
   title: Neurocomputational underpinnings of suboptimal beliefs in recurrent neural
     network-based agents
   authors:
   - M Ganesh Kumar
   - Adam Manoogian
-  - William Qian
+  - Billy Qian
   - Cengiz Pehlevan
-  - Shawn A Rhoads
+  - Shawn A. Rhoads
   publisher: Cold Spring Harbor Laboratory
   date: '2025-03-13'
   link: https://doi.org/g88cdq
@@ -325,7 +347,6 @@
   file: sources.yaml
   tags:
   - prosociality
-  - climate action
   - intervention science
   - open science
 - id: doi:10.31234/osf.io/qdr9y
@@ -982,7 +1003,6 @@
     link: https://nature.altmetric.com/details/doi/10.1126/sciadv.adj5778
   tags:
   - prosociality
-  - climate action
   - intervention science
   - social decision-making
 - id: doi:10.1007/978-3-031-17125-3_501-1
@@ -1177,7 +1197,6 @@
   - prosociality
   - altruism
   - cooperation
-  - equity
   - neuroimaging
 - id: doi:10.1177/0956797621994767
   title: Global variation in subjective well-being predicts seven forms of altruism
