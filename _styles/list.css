@@ -20,4 +20,16 @@ li ol {
   margin: 0;
 }
 
+/* Media query for screens less than 571px wide */
+@media (max-width: 569px) {
+  ul,
+  ol {
+    padding-left: 30px; /* New padding-left for small screens */
+  }
+  /* Also change padding-right: 50px for li */
+  li {
+    padding-right: 10px; /* New padding-right for small screens */
+  }
+}
+
 /*# sourceMappingURL=list.css.map */
