@@ -1,7 +1,10 @@
-- title: The neural, cognitive, and computational basis of loneliness
+- title: "The neural, cognitive, and computational basis of loneliness"
+  subtitle:
   group: featured
   link: 
+  description: " "
   # description: This project aims to characterize how and when computations along a cognitive hierarchy of social information processing (e.g., perception, learning, decision-making, higher-order belief inference) impact social connection and loneliness.
+  image: 
   tags:
     - CONNECTION THROUGH KINDNESS
     - UNDERSTANDING OTHERS
@@ -9,11 +12,12 @@
     - computational psychiatry
     - functional neuroimaging
 
-- title: Intracranial neural signatures of shared social inference representations between interacting human dyads
+- title: "Intracranial neural signatures of shared social inference representations between interacting human dyads"
   subtitle:
   group: featured
   link: 
-  description:
+  description: " "
+  image: 
   tags:
     - UNDERSTANDING OTHERS
     - IDIOSYNCRATIC BRAINS SHARED WORLD
@@ -22,11 +26,11 @@
     - synchrony
     - electrophysiology
 
-- title: Perspective-taking under naturalistic contexts
-  subtitle: 
+- title: "Perspective-taking under naturalistic contexts"
+  subtitle:
   group: featured
   link: 
-  description:
+  description: " "
   tags:
     - IDIOSYNCRATIC BRAINS SHARED WORLD
     - social inference
@@ -34,11 +38,12 @@
     - functional neuroimaging
     - naturalistic paradigms
 
-- title: Individual differences in prosocial and antisocial learning
+- title: "Individual differences in prosocial and antisocial learning and decision-making"
   subtitle:
   group: featured
   link: 
-  description:
+  description: " "
+  image: 
   tags:
     - CONNECTION THROUGH KINDNESS
     - UNDERSTANDING OTHERS
@@ -46,11 +51,11 @@
     - prosocial behavior
     - reinforcement learning
 
-- title: Understanding the impact of prosocial behavior on social connection and subjective well-being
+- title: "Understanding the impact of prosocial behavior on social connection and subjective well-being"
   subtitle:
   group: featured
   link: 
-  description:
+  description: " "
   tags:
     - CONNECTION THROUGH KINDNESS
     - prosocial behavior

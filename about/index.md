@@ -26,14 +26,14 @@ Our lab investigates the neurocomputational processes that shape how humans conn
 
 {% include search-info.html %}
 
-{% include list.html component="card" data="projects" filter="group == 'featured'" %}
+{% include list.html component="stacked_card" data="projects" filter="group == 'featured'" %}
 
 {% comment %} ## More
-
-{% include list.html component="card" data="projects" filter="!group" style="small" %} {% endcomment %}
+{% include list.html component="card" data="projects" filter="!group" style="small" %} 
+{% endcomment %}
 
 {% include section.html %}
 
 # {% include icon.html icon="fa-solid fa-seedling" %}Values
 
-<strong>We are deeply committed to advancing open, collaborative science through mentorship, training, teaching, and resource sharing.</strong> We do so by fostering a welcoming and supportive environment and respecting contributions from all individuals, regardless of race, age, gender identity, sexual orientation, disability, socioeconomic status, religion, or cultural background. We also reflect critically on how our work informs mental health, keeping in mind the needs of those our research seeks to benefit. We prioritize representation in the populations we study. We also seek to build meaningful, reciprocal relationships with community partners in the regions where we conduct research, ensuring our work aligns with and supports local priorities and needs when possible. We maintain a zero-tolerance policy for harassment or discrimination of any kind. We promote open science practices when possible, including ensuring that our research is rigorous and reproducible and findings are accessible to the public. We will champion sharing resources, including code and software when feasible, especially in supporting the growth of trainees and early career scientists.
+<strong>We are deeply committed to advancing open, collaborative science through mentorship, training, teaching, and resource sharing.</strong> We do so by fostering a welcoming and supportive environment and respecting contributions from all individuals, regardless of identity or cultural background. We also reflect critically on how our work informs mental health, keeping in mind the needs of those our research seeks to benefit. We prioritize representation in the populations we study. We also seek to build meaningful, reciprocal relationships with community partners in the regions where we conduct research, ensuring our work aligns with and supports local priorities and needs when possible. We maintain a zero-tolerance policy for harassment or discrimination of any kind. We promote open science practices when possible, including ensuring that our research is rigorous and reproducible and findings are accessible to the public. We will champion sharing resources, including code and software when feasible, especially in supporting the growth of trainees and early career scientists.
