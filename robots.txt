@@ -1,1 +1,1 @@
-Sitemap: https://sinclab.github.io/sitemap.xml
+Sitemap: http://sinclaboratory.com/sitemap.xml
