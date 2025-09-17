@@ -4,7 +4,14 @@ title: "Challenge"
 # {% include icon.html icon="fa-solid fa-terminal" %}Python Coding Challenge
 **Expected Time: 30 minutes**
 
-Thanks so much for your interest in the Social Interaction & Neural Computation Laboratory! Below, you will find a coding challenge that will mimic a few simple everyday problems we encounter in the lab. This challenge is designed to assess your ability to solve problems and analyze data using Python and relevant libraries (e.g., `pandas`, `numpy`, `matplotlib`). **We will evaluate the code based your coding style, efficiency, and creativity in solving the problems** — it is okay if you do not know how to solve all of the problems. We will be looking at your thought process and approach to the problems. Please comment your code to explain your thought process. I also encourage using external resources (e.g., Google, StackOverflow, ChatGPT) to help you, but **please indicate where and how you used these resources in your code.**
+Thanks so much for your interest in the Social Interaction & Neural Computation Laboratory! Below, you will find a coding challenge that will mimic a few simple everyday problems we encounter in the lab. 
+
+<!-- create div width 75% and center --> 
+<div style="width: 75%; margin: 0 auto; margin-bottom: 20px;">
+{% include list.html component="stacked_card" data="resources" filter="group == 'challenge'" %}
+</div>
+
+This challenge is designed to assess your ability to solve problems and analyze data using Python and relevant libraries (e.g., `pandas`, `numpy`, `matplotlib`). **We will evaluate the code based your coding style, efficiency, and creativity in solving the problems** — it is okay if you do not know how to solve all of the problems. We will be looking at your thought process and approach to the problems. Please comment your code to explain your thought process. I also encourage using external resources (e.g., Google, StackOverflow, ChatGPT) to help you, but **please indicate where and how you used these resources in your code.**
 
 You are provided with a comma-delimited file (`dyad_neural_data.csv`) and a Python script (`challenge.py`). Your task is to complete the functions within the script by following the prompts below (do not edit anything after `if __name__ == "__main__":` as these will help make sure you are on track). You may use `pandas`, `numpy`, and `matplotlib` (or `seaborn`) to solve the problems. 
 

@@ -1,0 +1,11 @@
+- title: "If you are new to Python programming, we strongly encourage you to review the following open-source resources and complete any relevant tutorials before attempting the challenge"
+  subtitle: |
+    * Modules 1-2 of <a href="https://shawnrhoadsphd.com/gu-psyc-347/">PSYC 347 - Computational Models of Social Behavior</a><br>
+    * <a href="https://dartbrains.org/content/Introduction_to_Programming.html">DartBrains - Intro to Programming</a><br>
+    * <a href="https://github.com/jakevdp/WhirlwindTourOfPython">Whirlwind Tour of Python</a><br>
+    * <a href="https://github.com/numpy/numpy-tutorials">NumPy Tutorials</a>
+  group: challenge
+  link:
+  description:
+  image:
+  tags:
