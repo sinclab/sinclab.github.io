@@ -13,6 +13,19 @@ Our research laboratory is part of the <a href="https://icahn.mssm.edu/about/dep
 
 {% capture text %}
 
+How do people learn, maintain, and update their representations of others? Our research investigates how individuals use complex social representations and knowledge to interpret and act on inferences about others' beliefs, emotions, and intentions. By examining how these mental representations evolve in real-time, we aim to uncover the neurocomputational processes that drive successful social learning and cooperation. We also examine how variability in these neural representations can produce interpersonal difficulties during social interactions.
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/photo.jpg"
+  title="UNDERSTANDING OTHERS"
+  text=text
+%}
+
+{% capture text %}
+
 How do social interactions bring people closer together? Our research tests how and under what circumstances prosocial behaviors promote social connection, strengthen interpersonal relationships, and protect against isolation and loneliness. By exploring this question at the contextual, cognitive, and neural level, we aim to achieve a comprehensive understanding about the ways in which social connection shapes both individual and collective well-being.
 
 {% endcapture %}
@@ -21,25 +34,13 @@ How do social interactions bring people closer together? Our research tests how 
   include feature.html
   image="images/handshake.jpg"
   title="CONNECTION THROUGH KINDNESS"
-  text=text
-%}
-
-{% capture text %}
-
-How do people learn, maintain, and update their representations of others? Our research investigates how individuals use complex social representations and knowledge to interpret and act on inferences about others' beliefs, emotions, and intentions. By examining how these mental representations evolve in real-time, we aim to uncover the neurocomputational processes that drive successful social learning and cooperation, ultimately improving how we navigate and engage in social interactions.
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/photo.jpg"
-  title="UNDERSTANDING OTHERS"
   flip=true
   style="bare"
   text=text
 %}
 
 {% capture text %}
+
 
 How do individual brains converge or diverge in their perception of the world? Our research investigates the ways in which neural activity aligns or diverges across individuals and the factors that drive both commonalities and differences in social cognition and behavior. By understanding idiosyncrasies in both health and psychiatric disorder, we aim to uncover insights into how people connect, communicate, and collaborate in shared environments.
 

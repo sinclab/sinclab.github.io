@@ -35,6 +35,8 @@ There are several ways to join the lab as a graduate student. We are currently a
 - PhD in Biomedical Sciences - [Artificial Intelligence and Emerging Technologies in Medicine](https://icahn.mssm.edu/education/phd/biomedical-sciences/artificial-intelligence) (AIET) concentration
 - Master of Science in [Biomedical Data Science and AI](https://icahn.mssm.edu/education/masters/data-science)
 
+We also welcome visiting PhD students who are looking to supplement their training. Many programs encourage or allow students to spend time in a different lab to gain experience with new approaches and experimental paradigms. Our lab will consider visiting PhD students on a rolling basis for those able to commit at least 6-12 months, particularly trainees excited about computational models of social interactions and related research questions in the lab.
+
 {% include section.html %}
 
 # {% include icon.html icon="fa-solid fa-sailboat" %}POST-BACCALAUREATE OPPORTUNITIES
