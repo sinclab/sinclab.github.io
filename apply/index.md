@@ -35,7 +35,9 @@ There are several ways to join the lab as a graduate student. We are currently a
 - PhD in Biomedical Sciences - [Artificial Intelligence and Emerging Technologies in Medicine](https://icahn.mssm.edu/education/phd/biomedical-sciences/artificial-intelligence) (AIET) concentration
 - Master of Science in [Biomedical Data Science and AI](https://icahn.mssm.edu/education/masters/data-science)
 
-We also welcome visiting PhD students who are looking to supplement their training. Many programs encourage or allow students to spend time in a different lab to gain experience with new approaches and experimental paradigms. Our lab will consider visiting PhD students on a rolling basis for those able to commit at least 6-12 months, particularly trainees excited about computational models of social interactions and related research questions in the lab.
+We also welcome <strong>visiting PhD students</strong> who are looking to supplement their training. Many programs encourage or allow students to spend time in a different lab to gain experience with new approaches and experimental paradigms. Our lab will consider visiting PhD students on a rolling basis for those able to commit at least 6-12 months, particularly trainees excited about computational models of social interactions and related research questions in the lab.
+
+We also invite applications for volunteer <strong>Master's students</strong> positions. We are seeking motivated <strong>first-year Master's students enrolled full-time at a New York City institution</strong> who are passionate about understanding social connection and interaction. To apply, please complete [this application](https://forms.gle/ko77ZVKaL4UioeQn6)
 
 {% include section.html %}
 
@@ -88,4 +90,4 @@ We invite applications for volunteer <strong>Undergraduate Research Assistant</s
 2. <strong>Research Assistant in Data Processing</strong>: Focuses on writing code for data organization, cleaning, and processing. May also assist with data analysis. Ideal candidates will have a strong background in math and/or computer science.
 3. <strong>Research Assistant in Public Outreach & Communications</strong>: Supports community partnerships, communicates research to the public, and writes newsletters. Ideal candidates will have a strong interest in science communication.
 
-To apply, please complete [this Google form](https://docs.google.com/forms/d/e/1FAIpQLScqIHtf5hu3sPGDcM4azj2wgy15XEYruO10VbBc-Y-JBzcVyA/viewform?usp=sharing)<!-- To apply, please send a cover letter and CV to shawn(dot)rhoads(at)mssm(dot)edu with subject line “[RA App 2025] First Name Last Name” (e.g., “[RA App 2025] Shawn Rhoads”) -->
+To apply, please complete [this application](https://docs.google.com/forms/d/e/1FAIpQLScqIHtf5hu3sPGDcM4azj2wgy15XEYruO10VbBc-Y-JBzcVyA/viewform?usp=sharing)<!-- To apply, please send a cover letter and CV to shawn(dot)rhoads(at)mssm(dot)edu with subject line “[RA App 2025] First Name Last Name” (e.g., “[RA App 2025] Shawn Rhoads”) -->
