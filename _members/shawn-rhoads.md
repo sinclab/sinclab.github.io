@@ -1,5 +1,5 @@
 ---
-name: Shawn A. Rhoads, PhD
+name: Shawn A Rhoads, PhD
 image: images/shawn-rhoads.jpg
 role: principal-investigator
 affiliation: ISMMS
@@ -8,7 +8,7 @@ aliases:
   - Shawn A. Rhoads
   - S Rhoads
 # links:
-#   home-page: "https://shawnrhoads.github.io"
+#   home-page: "https://shawnrhoadsphd.com"
 #   mssm-profile: shawn-a-rhoads
 #   orcid: 0000-0003-1350-9458
 #   google-scholar: __YmDVEAAAAJ
@@ -22,11 +22,11 @@ Dr. Shawn A. Rhoads is an Assistant Professor of <a target="_blank" rel="noopene
 
 He is also an avid social justice, environmental, and open science advocate. He has been involved with advocacy work for environmental sustainability and social justice on the local and national level. He strives to make science open and accessible to all.
 
-<div><div class="button-wrapper"> <a class="button" href="https://shawnrhoads.github.io" data-tooltip="Home page" data-style="bare" aria-label="Home page"> <i class="icon fa-solid fa-house-user"></i> <span>Home Page</span> </a></div><div class="button-wrapper"> <a class="button" href="https://scholars.mssm.edu/en/persons/shawn-a-rhoads" data-tooltip="MSSM" data-style="bare" aria-label="MSSM"> <i class="icon fa-solid fa-address-card"></i> <span>MSSM Profile</span> </a></div> <div class="button-wrapper"> <a class="button" href="https://orcid.org/0000-0003-1350-9458" data-tooltip="ORCID" data-style="bare" aria-label="ORCID"> <i class="icon fa-brands fa-orcid"></i> <span>ORCID</span> </a></div> <div class="button-wrapper"> <a class="button" href="https://scholar.google.com/citations?user=__YmDVEAAAAJ" data-tooltip="Google Scholar" data-style="bare" aria-label="Google Scholar"> <i class="icon fa-brands fa-google"></i> <span>Google Scholar</span> </a></div> <div class="button-wrapper"> <a class="button" href="https://bsky.app/profile/shawnrhoadsphd.bsky.social" data-tooltip="Bluesky" data-style="bare" aria-label="Bluesky"> <i class="icon fa-brands fa-bluesky"></i> <span>Bluesky</span> </a></div> <div class="button-wrapper"> <a class="button" href="https://twitter.com/shawnrhoadsphd" data-tooltip="Twitter" data-style="bare" aria-label="Twitter"> <i class="icon fa-brands fa-twitter"></i> <span>Twitter</span> </a></div> <div class="button-wrapper"> <a class="button" href="https://www.linkedin.com/in/shawnrhoads" data-tooltip="LinkedIn" data-style="bare" aria-label="LinkedIn"> <i class="icon fa-brands fa-linkedin"></i> <span>LinkedIn</span> </a></div> <div class="button-wrapper"> <a class="button" href="[def]" data-tooltip="GitHub" data-style="bare" aria-label="GitHub"> <i class="icon fa-brands fa-github"></i> <span>GitHub</span> </a></div></div>
+<div><div class="button-wrapper"> <a class="button" href="https://shawnrhoadsphd.com" data-tooltip="Home page" data-style="bare" aria-label="Home page"> <i class="icon fa-solid fa-house-user"></i> <span>Home Page</span> </a></div><div class="button-wrapper"> <a class="button" href="https://scholars.mssm.edu/en/persons/shawn-a-rhoads" data-tooltip="MSSM" data-style="bare" aria-label="MSSM"> <i class="icon fa-solid fa-address-card"></i> <span>MSSM Profile</span> </a></div> <div class="button-wrapper"> <a class="button" href="https://orcid.org/0000-0003-1350-9458" data-tooltip="ORCID" data-style="bare" aria-label="ORCID"> <i class="icon fa-brands fa-orcid"></i> <span>ORCID</span> </a></div> <div class="button-wrapper"> <a class="button" href="https://scholar.google.com/citations?user=__YmDVEAAAAJ" data-tooltip="Google Scholar" data-style="bare" aria-label="Google Scholar"> <i class="icon fa-brands fa-google"></i> <span>Google Scholar</span> </a></div> <div class="button-wrapper"> <a class="button" href="https://bsky.app/profile/shawnrhoadsphd.bsky.social" data-tooltip="Bluesky" data-style="bare" aria-label="Bluesky"> <i class="icon fa-brands fa-bluesky"></i> <span>Bluesky</span> </a></div> <div class="button-wrapper"> <a class="button" href="https://twitter.com/shawnrhoadsphd" data-tooltip="Twitter" data-style="bare" aria-label="Twitter"> <i class="icon fa-brands fa-twitter"></i> <span>Twitter</span> </a></div> <div class="button-wrapper"> <a class="button" href="https://www.linkedin.com/in/shawnrhoads" data-tooltip="LinkedIn" data-style="bare" aria-label="LinkedIn"> <i class="icon fa-brands fa-linkedin"></i> <span>LinkedIn</span> </a></div> <div class="button-wrapper"> <a class="button" href="[def]" data-tooltip="GitHub" data-style="bare" aria-label="GitHub"> <i class="icon fa-brands fa-github"></i> <span>GitHub</span> </a></div></div>
 
 {% include section.html %}
 
-Dr. Rhoads is a recipient of the 2024 <a target="_blank" rel="noopener noreferrer" href="https://commonfund.nih.gov/highrisk/highlights/nih-award-over-207-million-support-highly-innovative-biomedical-and-behavioral">NIH Director's Early Independence Award (DP5)</a>, which will fund a <b style="color:#EF233C"><u>$1.25 million project</u></b> to study the neural and computational basis of loneliness and social connection. <strong>Please visit <a target="_blank" rel="noopener noreferrer" href="../contact">this page</a> for updates on this exciting new project!</strong>
+Dr. Rhoads is a recipient of the 2024 <a target="_blank" rel="noopener noreferrer" href="https://commonfund.nih.gov/highrisk/highlights/nih-award-over-207-million-support-highly-innovative-biomedical-and-behavioral">NIH Director's Early Independence Award (DP5)</a>, which will fund a <b style="color:#EF233C"><u>$1.25 million project</u></b> to study the neural and computational basis of loneliness and social connection. <strong>Please visit <a target="_blank" rel="noopener noreferrer" href="../connect">this page</a> for updates on this exciting new project!</strong>
 
 Other selected grants, awards, and recognitions include:
 <br>&#x25cf; <a target="_blank" rel="noopener noreferrer" href="https://www.lindau-nobel.org/young-scientists/">Lindau Nobel Laureate Young Scientist </a> (2020, 2023)
@@ -44,7 +44,5 @@ Other selected grants, awards, and recognitions include:
 
 {% include search-info.html %}
 
-{% include list.html data="citations" component="citation" %}
+{% include list.html data="citations" component="citation"  style="rich"%}
 
-
-[def]: ttps://github.com/shawnrhoad
