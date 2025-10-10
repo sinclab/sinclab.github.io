@@ -14,4 +14,4 @@ yarn.lock
 node_modules
 apply/solution*
 apply/*_challenge.py
-_cite/*cache*/
+_cite/.cache*/*
