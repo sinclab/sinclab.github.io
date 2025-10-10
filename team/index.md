@@ -15,21 +15,23 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Our Collaborators
 
-Abigail A. Marsh, Ph.D. (Georgetown University)
+[Abigail A. Marsh, Ph.D.](https://abigailmarsh.com/) (Georgetown University)
 
-Xiaosi Gu, Ph.D. (Icahn School of Medicine at Mount Sinai)
+[Xiaosi Gu, Ph.D.](https://www.neurocpu.org/) (Icahn School of Medicine at Mount Sinai)
 
-Ignacio Saez, Ph.D. (Icahn School of Medicine at Mount Sinai)
+[Ignacio Saez, Ph.D.](https://saezlab.org/) (Icahn School of Medicine at Mount Sinai)
 
-Salman Qasim, Ph.D. (Rutgers University)
+[Salman Qasim, Ph.D.](https://sites.rutgers.edu/qasim-lab/) (Rutgers University)
 
-Blair Shevlin, Ph.D. (Icahn School of Medicine at Mount Sinai)
+[Blair Shevlin, Ph.D.](https://blairshevlin.github.io/) (Icahn School of Medicine at Mount Sinai)
 
-Patricia L. Lockwood, Ph.D. (University of Birmingham)
+[Patricia L. Lockwood, Ph.D.](https://www.sdn-lab.org/) (University of Birmingham)
 
-Jo Cutler, Ph.D. (University of Birmingham)
+[Jo Cutler, Ph.D.](https://www.jocutler.com/) (University of Birmingham)
 
-Mark K. Ho, Ph.D. (New York University)
+[Mark K. Ho, Ph.D.](https://codec-lab.github.io/) (New York University)
+
+[Marla Dressel]() (Georgetown University)
 
 {% include section.html %}
 
