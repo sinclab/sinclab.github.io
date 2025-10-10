@@ -33,14 +33,13 @@ How do social interactions bring people closer together? Our research tests how 
 {%
   include feature.html
   image="images/handshake.jpg"
-  title="CONNECTION THROUGH KINDNESS"
+  title="HUMAN CONNECTION & PROSOCIALITY"
   flip=true
   style="bare"
   text=text
 %}
 
 {% capture text %}
-
 
 How do individual brains converge or diverge in their perception of the world? Our research investigates the ways in which neural activity aligns or diverges across individuals and the factors that drive both commonalities and differences in social cognition and behavior. By understanding idiosyncrasies in both health and psychiatric disorder, we aim to uncover insights into how people connect, communicate, and collaborate in shared environments.
 
@@ -66,14 +65,14 @@ How do individual brains converge or diverge in their perception of the world? O
 
 {% capture text %}
 
-We believe that scientific progress thrives when it is open and grounded in community. Our research promotes open science tools, resources for trainees, and the sharing of open-source code and data to foster collaboration and transparency. We are committed to these values both in the lab and in the broader field, recognizing that science is best when it brings together different backgrounds and perspectives. Through partnerships within the local community and the greater New York Metropolitan area, we aim to apply our research to improve medicine and policy, working toward a more impactful future for all.
+We believe that scientific progress thrives when it is open, collaborative, and rooted in community. Our research promotes open science tools, resources for trainees, and the sharing of open-source code and data to foster collaboration and transparency. We are committed to these values both in the lab and in the broader field, recognizing that science is best when it brings together different backgrounds and perspectives. Through partnerships within the local community and the greater New York Metropolitan area, we aim to apply a community-based scientific approach to improve medicine and policy, working toward a more impactful future for all.
 
 {% endcapture %}
 
 {%
   include feature.html
   image="images/community.jpg"
-  title="OPEN & COMMUNITY-BASED SCIENCE"
+  title="SCIENCE FOR SOCIETY"
   flip=true
   style="bare"
   text=text
