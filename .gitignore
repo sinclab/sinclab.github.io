@@ -3,6 +3,7 @@ _site
 .jekyll-cache
 .jekyll-metadata
 _cite
+_cite/.cache/*
 vendor
 debug.log
 __pycache__
@@ -14,4 +15,3 @@ yarn.lock
 node_modules
 apply/solution*
 apply/*_challenge.py
-_cite/.cache/*
