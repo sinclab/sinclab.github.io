@@ -1,5 +1,6 @@
 ---
 title: "Apply"
+seo_description: "Apply to work in the Social Interaction & Neural Computation Lab"
 ---
 
 # {% include icon.html icon="fa-solid fa-sailboat" %}POST-DOCTORAL OPPORTUNITIES

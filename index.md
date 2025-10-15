@@ -1,4 +1,6 @@
 ---
+seo_title: "Social Interaction & Neural Computation Lab (PI: Shawn A. Rhoads, Ph.D.)"
+seo_description: "We examine the neural, cognitive, and computational basis of social connection and interaction"
 ---
 
 # We examine the neural, cognitive, and computational basis of social connection and interaction
@@ -7,7 +9,7 @@ We are particularly interested in <strong>understanding how social interactions 
 
 We use a combination of methods—including computational modeling, functional neuroimaging, and intracranial recordings—to investigate the neural, cognitive, and computational processes underlying human social connection and interaction.
 
-Our research laboratory is part of the <a href="https://icahn.mssm.edu/about/departments-offices/psychiatry">Department of Psychiatry</a> and the <a href="https://icahn.mssm.edu/about/departments-offices/neuroscience">Nash Family Department of Neuroscience</a> at the <a href="https://icahn.mssm.edu/about/departments-offices/psychiatry">Icahn School of Medicine at Mount Sinai</a> (New York, NY).
+Our research laboratory is part of the <a href="https://icahn.mssm.edu/research/center-for-computational-psychiatry/research">Center for Computational Psychiatry</a>, <a href="https://icahn.mssm.edu/about/departments-offices/psychiatry">Department of Psychiatry</a>, the <a href="https://icahn.mssm.edu/about/departments-offices/neuroscience">Nash Family Department of Neuroscience</a>, and the <a href="https://icahn.mssm.edu/research/friedman">Friedman Brain Institute</a> at the <a href="https://icahn.mssm.edu/about/departments-offices/psychiatry">Icahn School of Medicine at Mount Sinai</a> (New York, NY).
 
 {% include section.html %}
 

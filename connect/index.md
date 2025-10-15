@@ -1,5 +1,6 @@
 ---
 title: "Connect"
+seo_description: "Connect with the Social Interaction & Neural Computation Lab"
 nav:
   order: 5
   tooltip: "How to get involved"

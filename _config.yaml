@@ -48,6 +48,7 @@ collections:
 plugins:
   - jekyll-spaceship
   - jekyll-sitemap
+  - jekyll-seo-tag
   - jekyll-redirect-from
   - jekyll-feed
   - jekyll-last-modified-at

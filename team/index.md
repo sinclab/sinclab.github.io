@@ -1,5 +1,6 @@
 ---
 title: Team
+seo_title: "Social Interaction & Neural Computation Lab Members"
 nav:
   order: 3
   tooltip: "Who we are"

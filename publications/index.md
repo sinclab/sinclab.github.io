@@ -1,5 +1,6 @@
 ---
 title: "Work"
+seo_title: "Social Interaction & Neural Computation Lab Publications"
 nav:
   order: 2
   tooltip: "What we've published"

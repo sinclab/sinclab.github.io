@@ -1,5 +1,6 @@
 ---
 title: News
+seo_title: "Social Interaction & Neural Computation Lab News"
 nav:
   order: 4
   tooltip: "What we've been up to"

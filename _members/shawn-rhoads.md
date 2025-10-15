@@ -1,6 +1,8 @@
 ---
 name: Shawn A Rhoads, PhD
 image: images/shawn-rhoads.jpg
+seo_title: "Shawn A. Rhoads, Ph.D."
+seo_description: "Dr. Shawn A. Rhoads is an Assistant Professor of Psychiatry and Neuroscience at the Icahn School of Medicine at Mount Sinai."
 role: principal-investigator
 affiliation: ISMMS
 aliases:
