@@ -30,7 +30,15 @@ jobs:
         uses: ruby/setup-ruby@v1
         with:
           ruby-version: "3.1"
-          bundler-cache: false
+          bundler: "2.5.6"
+          bundler-cache: true
+
+      - name: Bundler diagnostics
+        run: |
+          bundle --version
+          bundle config get frozen || true
+          bundle check || true
+          bundle exec jekyll -v
 
       - name: Get Pages url
         id: pages
