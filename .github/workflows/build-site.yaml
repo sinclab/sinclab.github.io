@@ -30,7 +30,7 @@ jobs:
         uses: ruby/setup-ruby@v1
         with:
           ruby-version: "3.1"
-          bundler-cache: false
+          bundler-cache: true
 
       - name: Get Pages url
         id: pages
@@ -46,7 +46,6 @@ jobs:
 
       - name: Build live version of site
         run: |
-          bundle config set frozen false
           JEKYLL_ENV=production bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path || '' }}"
 
       - name: Commit live site to Pages branch

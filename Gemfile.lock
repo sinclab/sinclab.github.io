@@ -151,6 +151,7 @@ DEPENDENCIES
   jekyll-redirect-from
   jekyll-sitemap
   jekyll-spaceship
+  jekyll-seo-tag
   webrick (~> 1.7)
 
 BUNDLED WITH
