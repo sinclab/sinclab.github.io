@@ -80,17 +80,15 @@ We believe that scientific progress thrives when it is open, collaborative, and 
   text=text
 %}
 
+In line with the goal of making science more open and accessible, we have created the following resources:
+<ul>
+<li><b><a target="_blank" rel="noopener noreferrer" href="https://jose.theoj.org/papers/10.21105/jose.00146">PSYC 347 - Computational Models of Human Social Behavior and Neuroscience</a></b>: Undergraduate-level course with syllabus, readings, and Python programming tutorials within an online <a target="_blank" rel="noopener noreferrer" href="https://shawnrhoadsphd.com/gu-psyc-347/">Jupyter Book</a> that include exercises on how to fit simple models to data (e.g., linear models, non-linear models, reinforcement learning models)</li>
+<li><b><a target="_blank" rel="noopener noreferrer" href="https://github.com/shawnrhoads/pyEM">pyEM: Expectation Maximization with MAP estimation in Python</a></b>: Python toolbox for implementing the Hierarchical Expectation Maximization algorithm with MAP estimation for fitting models to behavioral data</li>
+<li><b><a target="_blank" rel="noopener noreferrer" href="https://github.com/shawnrhoads/executable-book-template">Executable Book Template</a></b>: Github template for compiling data results and visualizations into an interactive executable book website</li>
+<li><b><a target="_blank" rel="noopener noreferrer" href="https://center-for-computational-psychiatry.github.io/course_spice">Summer Program in Computational Psychiatry Education</a></b>: Educational initiative aimed at introducing high school and college students to the intersection of computer science and psychiatry/neuroscience with several introductory-level exercises for learning Python programming and working with data for the first time</li>
+</ul>
 
-{% capture text %}
-
-In line with the goal of making science more open and accessible, we also have created several resources for people to use.
-- **[PSYC 347 - Computational Models of Human Social Behavior and Neuroscience](https://jose.theoj.org/papers/10.21105/jose.00146)**: Undergraduate-level course with syllabus, readings, and Python programming tutorials within an online [Jupyter Book](https://shawnrhoadsphd.com/gu-psyc-347/) that include exercises on how to fit simple models to data (e.g., linear models, non-linear models, reinforcement learning models)
-- **[pyEM: Expectation Maximization with MAP estimation in Python](https://github.com/shawnrhoads/pyEM)**: Python toolbox for implementing the Hierarchical Expectation Maximization algorithm with MAP estimation for fitting models to behavioral data
-- **[Executable Book Template](https://github.com/shawnrhoads/executable-book-template/)**: Github template for compiling data results and visualizations into an interactive executable book website
-- **[Summer Program in Computational Psychiatry Education](https://center-for-computational-psychiatry.github.io/course_spice/)**: Educational initiative aimed at introducing high school and college students to the intersection of computer science and psychiatry/neuroscience with several introductory-level exercises for learning Python programming and working with data for the first time
-
-{% endcapture %}
-
+<p>
 {%
   include button.html
   link="connect"
@@ -99,3 +97,4 @@ In line with the goal of making science more open and accessible, we also have c
   flip=true
   style="bare"
 %}
+</p>
