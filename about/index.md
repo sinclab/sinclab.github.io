@@ -22,7 +22,7 @@ Our lab investigates the neurocomputational processes that shape how humans conn
 
 {% comment %} {% include tags.html tags="loneliness, computational psychiatry" %} {% endcomment %}
 
-{% include tags.html tags="connection through kindness, understanding others, unique brains shared world" %}
+{% include tags.html tags="connection and prosociality, understanding others, unique brains shared world" %}
 
 {% include search-info.html %}
 
