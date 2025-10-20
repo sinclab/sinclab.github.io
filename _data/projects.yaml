@@ -2,10 +2,11 @@
   subtitle:
   group: featured
   link: 
-  description: This project characterizes how and when computations along a cognitive hierarchy of social information processing (e.g., perception, learning, decision-making, higher-order belief inference) impact social connection and loneliness. This project is funded by an NIH Director's Early Independence Award ([1DP5OD037383](https://reporter.nih.gov/project-details/10923384)).
+  description: " "
+  # description: This project aims to characterize how and when computations along a cognitive hierarchy of social information processing (e.g., perception, learning, decision-making, higher-order belief inference) impact social connection and loneliness.
   image: 
   tags:
-    - "connection and prosociality"
+    - connection and prosociality
     - understanding others
     - social decision-making
     - computational psychiatry
@@ -15,7 +16,7 @@
   subtitle:
   group: featured
   link: 
-  description: "This project characterizes the neural signatures of shared social inference representations between interacting humans using intracranial electrophysiology."
+  description: " "
   image: 
   tags:
     - understanding others
@@ -29,7 +30,7 @@
   subtitle:
   group: featured
   link: 
-  description: "This project investigates how people take the perspectives of others in naturalistic social contexts using functional neuroimaging."
+  description: " "
   tags:
     - unique brains shared world
     - social inference
@@ -41,10 +42,10 @@
   subtitle:
   group: featured
   link: 
-  description: "This project investigates individual differences in prosocial and antisocial learning and decision-making using behavioral experiments, computational modeling, and various neural measures."
+  description: " "
   image: 
   tags:
-    - "connection and prosociality"
+    - connection and prosociality
     - understanding others
     - social decision-making
     - prosocial behavior
@@ -54,8 +55,8 @@
   subtitle:
   group: featured
   link: 
-  description: "This project investigates how engaging in prosocial behavior impacts social connection and subjective well-being across different levels of analysis.""
+  description: " "
   tags:
-    - "connection and prosociality"
+    - connection and prosociality
     - prosocial behavior
     - subjective well-being
