@@ -1,0 +1,1 @@
+{"version":3,"sourceRoot":"","sources":["paragraph.scss"],"names":[],"mappings":"AAAA;EACE;EACA;EACA;;;AAGF;EACE;IACE","sourcesContent":["p {\n  margin: 20px 40px;\n  text-align: left;\n  line-height: var(--spacing);\n}\n\n@media (max-width: 569px) { /* Makes p font smaller when screen is smaller */\n  p {\n    margin: 20px 0px;\n  }\n}"],"file":"paragraph.css"}

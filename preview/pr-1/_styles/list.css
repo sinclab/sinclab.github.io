@@ -1,0 +1,35 @@
+ul,
+ol {
+  margin: 10px 0;
+  padding-left: 80px;
+}
+
+ul {
+  list-style-type: square;
+}
+
+li {
+  margin: 0px 0;
+  padding-left: 5px;
+  padding-right: 80px;
+  text-align: left;
+  line-height: var(--spacing);
+}
+li ul,
+li ol {
+  margin: 0;
+}
+
+/* Media query for screens less than 571px wide */
+@media (max-width: 569px) {
+  ul,
+  ol {
+    padding-left: 30px; /* New padding-left for small screens */
+  }
+  /* Also change padding-right: 50px for li */
+  li {
+    padding-right: 10px; /* New padding-right for small screens */
+  }
+}
+
+/*# sourceMappingURL=list.css.map */
