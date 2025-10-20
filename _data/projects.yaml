@@ -6,8 +6,8 @@
   # description: This project aims to characterize how and when computations along a cognitive hierarchy of social information processing (e.g., perception, learning, decision-making, higher-order belief inference) impact social connection and loneliness.
   image: 
   tags:
-    - CONNECTION THROUGH KINDNESS
-    - UNDERSTANDING OTHERS
+    - connection and prosociality
+    - understanding others
     - social decision-making
     - computational psychiatry
     - functional neuroimaging
@@ -19,8 +19,8 @@
   description: " "
   image: 
   tags:
-    - UNDERSTANDING OTHERS
-    - UNIQUE BRAINS SHARED WORLD
+    - understanding others
+    - unique brains shared world
     - social inference
     - social interaction
     - synchrony
@@ -32,7 +32,7 @@
   link: 
   description: " "
   tags:
-    - UNIQUE BRAINS SHARED WORLD
+    - unique brains shared world
     - social inference
     - synchrony
     - functional neuroimaging
@@ -45,8 +45,8 @@
   description: " "
   image: 
   tags:
-    - CONNECTION THROUGH KINDNESS
-    - UNDERSTANDING OTHERS
+    - connection and prosociality
+    - understanding others
     - social decision-making
     - prosocial behavior
     - reinforcement learning
@@ -57,6 +57,6 @@
   link: 
   description: " "
   tags:
-    - CONNECTION THROUGH KINDNESS
+    - connection and prosociality
     - prosocial behavior
     - subjective well-being

@@ -5,20 +5,29 @@
     symptoms on social decision-making
   authors:
   - Qi Xiu Fu
-  - Blair R K Shevlin
-  - Arianna Davis
-  - Matthew Heflin
-  - Kaustubh Kulkarni
+  - Blair R.K. Shevlin
+  - Arianna N. Davis
+  - Matthew Hefflin
+  - Kaustubh R. Kulkarni
   - Ignacio Saez
-  - Shawn A Rhoads
-  - Helen Mayberg
+  - Shawn A. Rhoads
+  - Helen S. Mayberg
   - Xiaosi Gu
-  publisher: Center for Open Science
-  date: '2025-10-10'
-  link: https://doi.org/g96wc6
+  publisher: PsyArXiv
+  date: '2025-10-07'
+  link: https://doi.org/10.31234/osf.io/rtda4_v1
   orcid: 0000-0003-1350-9458
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  buttons:
+  - type: article
+    text: article
+    link: https://doi.org/10.31234/osf.io/rtda4_v1
+  tags:
+  - computational psychiatry
+  - computational modeling
+  - mental health
+  - subjective well-being
 - id: doi:10.31234/osf.io/gx7au_v1
   title: When predicting climate-relevant intervention effectiveness, academics outperform
     the public, but not a simple heuristic
@@ -38,6 +47,10 @@
   orcid: 0000-0003-1350-9458
   plugin: sources.py
   file: sources.yaml
+  buttons:
+  - type: article
+    text: article
+    link: https://doi.org/g9kjxs
   tags:
   - intervention science
   - open science
@@ -56,6 +69,10 @@
   orcid: 0000-0003-1350-9458
   plugin: sources.py
   file: sources.yaml
+  buttons:
+  - type: article
+    text: article
+    link: https://doi.org/10.1101/2025.03.13.642273
   tags:
   - computational psychiatry
   - computational modeling
@@ -368,6 +385,10 @@
   orcid: 0000-0003-1350-9458
   plugin: sources.py
   file: sources.yaml
+  buttons:
+  - type: article
+    text: article
+    link: https://doi.org/g8t6b8
   tags:
   - prosociality
   - intervention science
@@ -387,6 +408,10 @@
   orcid: 0000-0003-1350-9458
   plugin: sources.py
   file: sources.yaml
+  buttons:
+  - type: article
+    text: article
+    link: https://doi.org/g82sf2
   tags:
   - prosociality
   - social decision-making
@@ -702,6 +727,10 @@
   orcid: 0000-0003-1350-9458
   plugin: sources.py
   file: sources.yaml
+  buttons:
+  - type: article
+    text: article
+    link: https://doi.org/g82sf3
   tags:
   - prosociality
   - social decision-making
@@ -719,6 +748,10 @@
   orcid: 0000-0003-1350-9458
   plugin: sources.py
   file: sources.yaml
+  buttons:
+  - type: article
+    text: chapter
+    link: https://doi.org/g82sf4
   tags:
   - emotion
   - interpersonal perception
@@ -735,6 +768,10 @@
   orcid: 0000-0003-1350-9458
   plugin: sources.py
   file: sources.yaml
+  buttons:
+  - type: article
+    text: article
+    link: https://doi.org/g82sf5
   tags:
   - social connection
   - social distance
@@ -1039,6 +1076,10 @@
   orcid: 0000-0003-1350-9458
   plugin: sources.py
   file: sources.yaml
+  buttons:
+  - type: article
+    text: article
+    link: https://doi.org/g82sf6
   tags:
   - altruism
   - prosociality
@@ -1094,6 +1135,10 @@
   orcid: 0000-0003-1350-9458
   plugin: sources.py
   file: sources.yaml
+  buttons:
+  - type: article
+    text: article
+    link: https://doi.org/g82sf8
   tags:
   - craving
   - computational psychiatry
@@ -1117,6 +1162,13 @@
   orcid: 0000-0003-1350-9458
   plugin: sources.py
   file: sources.yaml
+  buttons:
+  - type: article
+    text: article
+    link: https://doi.org/gr5pwx
+  - type: website
+    text: altmetric
+    link: https://nature.altmetric.com/details/doi/10.1038/s41467-023-37283-5
   tags:
   - altruism
   - prosociality
@@ -1138,6 +1190,10 @@
   orcid: 0000-0003-1350-9458
   plugin: sources.py
   file: sources.yaml
+  buttons:
+  - type: article
+    text: article
+    link: https://doi.org/g82sf9
   tags:
   - computational psychiatry
   - mental health
@@ -1160,6 +1216,10 @@
   orcid: 0000-0003-1350-9458
   plugin: sources.py
   file: sources.yaml
+  buttons:
+  - type: article
+    text: article
+    link: https://doi.org/g82sgb
   tags:
   - social learning
   - antisociality
@@ -1189,6 +1249,10 @@
   orcid: 0000-0003-1350-9458
   plugin: sources.py
   file: sources.yaml
+  buttons:
+  - type: article
+    text: article
+    link: https://doi.org/gnbxgz
   tags:
   - irritability
   - individual differences
@@ -1206,6 +1270,10 @@
   orcid: 0000-0003-1350-9458
   plugin: sources.py
   file: sources.yaml
+  buttons:
+  - type: article
+    text: article
+    link: https://doi.org/g82sgc
   tags:
   - open science
   - computational modeling
@@ -1222,6 +1290,10 @@
   orcid: 0000-0003-1350-9458
   plugin: sources.py
   file: sources.yaml
+  buttons:
+  - type: article
+    text: article
+    link: https://doi.org/g82sgd
   tags:
   - social decision-making
   - prosociality
@@ -1241,6 +1313,10 @@
   orcid: 0000-0003-1350-9458
   plugin: sources.py
   file: sources.yaml
+  buttons:
+  - type: article
+    text: article
+    link: https://doi.org/gk6cd8
   tags:
   - prosociality
   - altruism
@@ -1474,6 +1550,10 @@
   orcid: 0000-0003-1350-9458
   plugin: sources.py
   file: sources.yaml
+  buttons:
+  - type: article
+    text: article
+    link: https://doi.org/gjt2b6
   tags:
   - open science
   - neuroimaging
@@ -1491,6 +1571,10 @@
   orcid: 0000-0003-1350-9458
   plugin: sources.py
   file: sources.yaml
+  buttons:
+  - type: article
+    text: article
+    link: https://doi.org/g82sgf
   tags:
   - antisociality
   - social decision-making
@@ -1512,6 +1596,10 @@
   orcid: 0000-0003-1350-9458
   plugin: sources.py
   file: sources.yaml
+  buttons:
+  - type: article
+    text: article
+    link: https://doi.org/ggs5tb
   tags:
   - neuroimaging
   - individual differences
@@ -1535,6 +1623,10 @@
   orcid: 0000-0003-1350-9458
   plugin: sources.py
   file: sources.yaml
+  buttons:
+  - type: article
+    text: article
+    link: https://doi.org/g82sgg
   tags:
   - empathy
   - antisociality
@@ -1559,6 +1651,10 @@
   orcid: 0000-0003-1350-9458
   plugin: sources.py
   file: sources.yaml
+  buttons:
+  - type: article
+    text: article
+    link: https://doi.org/gks3wd
   tags:
   - empathy
   - altruism
@@ -1584,6 +1680,10 @@
   orcid: 0000-0003-1350-9458
   plugin: sources.py
   file: sources.yaml
+  buttons:
+  - type: article
+    text: article
+    link: https://doi.org/gpdrjr
   tags:
   - emotion
   - interpersonal perception
@@ -1607,6 +1707,10 @@
   orcid: 0000-0003-1350-9458
   plugin: sources.py
   file: sources.yaml
+  buttons:
+  - type: article
+    text: article
+    link: https://doi.org/g34v6p
   tags:
   - emotion
   - interpersonal perception
@@ -1631,6 +1735,10 @@
   orcid: 0000-0003-1350-9458
   plugin: sources.py
   file: sources.yaml
+  buttons:
+  - type: article
+    text: article
+    link: https://doi.org/gks3w8
   tags:
   - empathy
   - altruism
@@ -1650,6 +1758,10 @@
   orcid: 0000-0003-1350-9458
   plugin: sources.py
   file: sources.yaml
+  buttons:
+  - type: article
+    text: article
+    link: https://doi.org/gf5sj2
   tags:
   - emotion
   - affective experience
@@ -1665,7 +1777,7 @@
   link: https://worldhappiness.report/ed/2023/doing-good-and-feeling-good-relationships-between-altruism-and-well-being-for-altruists-beneficiaries-and-observers/
   buttons:
   - type: article
-    text: article
+    text: chapter
     link: https://worldhappiness.report/ed/2023/doing-good-and-feeling-good-relationships-between-altruism-and-well-being-for-altruists-beneficiaries-and-observers/
   tags:
   - prosociality

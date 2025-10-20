@@ -1,6 +1,34 @@
 - id: uri:https://openreview.net/forum?id=p3T9CtEu1S
   remove: true
 
+- id: doi:10.31234/osf.io/rtda4_v1
+  title: Context-specificity and longitudinal stability of the effects of depressive symptoms on social decision-making
+  authors:
+  - Qi Xiu Fu
+  - Blair R.K. Shevlin
+  - Arianna N. Davis
+  - Matthew Hefflin
+  - Kaustubh R. Kulkarni
+  - Ignacio Saez
+  - Shawn A. Rhoads
+  - Helen S. Mayberg
+  - Xiaosi Gu
+  publisher: PsyArXiv
+  date: '2025-10-07'
+  link: https://doi.org/10.31234/osf.io/rtda4_v1
+  buttons:
+    - type: article
+      text: article
+      link: https://doi.org/10.31234/osf.io/rtda4_v1
+  orcid: 0000-0003-1350-9458
+  plugin: orcid.py
+  file: orcid.yaml
+  tags:
+    - computational psychiatry
+    - computational modeling
+    - mental health
+    - "subjective well-being"
+
 - id: doi:10.1038/s44220-024-00343-w
   title: Advancing computational psychiatry through a social lens
   authors:
@@ -309,6 +337,10 @@
   date: '2024-10-01'
   link: https://doi.org/g8t6b8
   orcid: 0000-0003-1350-9458
+  buttons:
+    - type: article
+      text: article
+      link: https://doi.org/g8t6b8
   plugin: orcid.py
   file: orcid.yaml
   tags:
@@ -328,6 +360,10 @@
   publisher: PsyArXiv
   date: '2024-06-13'
   link: https://doi.org/g82sf2
+  buttons:
+    - type: article
+      text: article
+      link: https://doi.org/g82sf2
   orcid: 0000-0003-1350-9458
   plugin: sources.py
   file: sources.yaml
@@ -644,6 +680,10 @@
   publisher: PsyArXiv
   date: '2024-06-05'
   link: https://doi.org/g82sf3
+  buttons:
+    - type: article
+      text: article
+      link: https://doi.org/g82sf3
   orcid: 0000-0003-1350-9458
   plugin: sources.py
   file: sources.yaml
@@ -662,6 +702,10 @@
   publisher: The Oxford Handbook of Evolution and the Emotions
   date: '2024-05-22'
   link: https://doi.org/g82sf4
+  buttons:
+    - type: article
+      text: chapter
+      link: https://doi.org/g82sf4
   orcid: 0000-0003-1350-9458
   plugin: sources.py
   file: sources.yaml
@@ -679,6 +723,10 @@
   publisher: PsyArXiv
   date: '2024-01-17'
   link: https://doi.org/g82sf5
+  buttons:
+    - type: article
+      text: article
+      link: https://doi.org/g82sf5
   orcid: 0000-0003-1350-9458
   plugin: sources.py
   file: sources.yaml
@@ -988,7 +1036,7 @@
   link: https://worldhappiness.report/ed/2023/doing-good-and-feeling-good-relationships-between-altruism-and-well-being-for-altruists-beneficiaries-and-observers/
   buttons:
     - type: article
-      text: article
+      text: chapter
       link: https://worldhappiness.report/ed/2023/doing-good-and-feeling-good-relationships-between-altruism-and-well-being-for-altruists-beneficiaries-and-observers/
   tags:
     - prosociality
@@ -1004,6 +1052,10 @@
   publisher: Encyclopedia of Heroism Studies
   date: '2023-10-10'
   link: https://doi.org/g82sf6
+  buttons:
+    - type: article
+      text: article
+      link: https://doi.org/g82sf6
   orcid: 0000-0003-1350-9458
   plugin: sources.py
   file: sources.yaml
@@ -1061,6 +1113,10 @@
   publisher: bioRxiv
   date: '2023-04-24'
   link: https://doi.org/g82sf8
+  buttons:
+    - type: article
+      text: article
+      link: https://doi.org/g82sf8
   orcid: 0000-0003-1350-9458
   plugin: sources.py
   file: sources.yaml
@@ -1085,6 +1141,13 @@
   publisher: Nature Communications
   date: '2023-03-31'
   link: https://doi.org/gr5pwx
+  buttons:
+    - type: article
+      text: article
+      link: https://doi.org/gr5pwx
+    - type: website
+      text: altmetric
+      link: https://nature.altmetric.com/details/doi/10.1038/s41467-023-37283-5
   orcid: 0000-0003-1350-9458
   plugin: orcid.py
   file: orcid.yaml
@@ -1107,6 +1170,10 @@
   publisher: Neuroscience &amp; Biobehavioral Reviews
   date: '2023-05-01'
   link: https://doi.org/g82sf9
+  buttons:
+    - type: article
+      text: article
+      link: https://doi.org/g82sf9
   orcid: 0000-0003-1350-9458
   plugin: orcid.py
   file: orcid.yaml
@@ -1130,6 +1197,10 @@
   publisher: In press at Nature Communications
   date: '2023-02-24'
   link: https://doi.org/g82sgb
+  buttons:
+    - type: article
+      text: article
+      link: https://doi.org/g82sgb
   orcid: 0000-0003-1350-9458
   plugin: sources.py
   file: sources.yaml
@@ -1160,6 +1231,10 @@
   publisher: Journal of Attention Disorders
   date: '2021-11-02'
   link: https://doi.org/gnbxgz
+  buttons:
+    - type: article
+      text: article
+      link: https://doi.org/gnbxgz
   orcid: 0000-0003-1350-9458
   plugin: orcid.py
   file: orcid.yaml
@@ -1178,6 +1253,10 @@
   publisher: Journal of Open Source Education
   date: '2022-01-26'
   link: https://doi.org/g82sgc
+  buttons:
+    - type: article
+      text: article
+      link: https://doi.org/g82sgc
   orcid: 0000-0003-1350-9458
   plugin: orcid.py
   file: orcid.yaml
@@ -1195,6 +1274,10 @@
   publisher: Social Cognitive and Affective Neuroscience
   date: '2021-06-23'
   link: https://doi.org/g82sgd
+  buttons:
+    - type: article
+      text: article
+      link: https://doi.org/g82sgd
   orcid: 0000-0003-1350-9458
   plugin: orcid.py
   file: orcid.yaml
@@ -1215,6 +1298,10 @@
   publisher: Psychological Science
   date: '2021-07-08'
   link: https://doi.org/gk6cd8
+  buttons:
+    - type: article
+      text: article
+      link: https://doi.org/gk6cd8
   orcid: 0000-0003-1350-9458
   plugin: orcid.py
   file: orcid.yaml
@@ -1449,6 +1536,10 @@
   publisher: Neuron
   date: '2021-06-01'
   link: https://doi.org/gjt2b6
+  buttons:
+    - type: article
+      text: article
+      link: https://doi.org/gjt2b6
   orcid: 0000-0003-1350-9458
   plugin: orcid.py
   file: orcid.yaml
@@ -1467,6 +1558,10 @@
   publisher: PLOS ONE
   date: '2021-01-07'
   link: https://doi.org/g82sgf
+  buttons:
+    - type: article
+      text: article
+      link: https://doi.org/g82sgf
   orcid: 0000-0003-1350-9458
   plugin: orcid.py
   file: orcid.yaml
@@ -1489,6 +1584,10 @@
   publisher: Journal of Child Psychology and Psychiatry
   date: '2019-12-26'
   link: https://doi.org/ggs5tb
+  buttons:
+    - type: article
+      text: article
+      link: https://doi.org/ggs5tb
   orcid: 0000-0003-1350-9458
   plugin: orcid.py
   file: orcid.yaml
@@ -1513,6 +1612,10 @@
   publisher: Journal of Personality Disorders
   date: '2020-10-01'
   link: https://doi.org/g82sgg
+  buttons:
+    - type: article
+      text: article
+      link: https://doi.org/g82sgg
   orcid: 0000-0003-1350-9458
   plugin: sources.py
   file: sources.yaml
@@ -1538,6 +1641,10 @@
   publisher: Cortex
   date: '2020-06-01'
   link: https://doi.org/gks3wd
+  buttons:
+    - type: article
+      text: article
+      link: https://doi.org/gks3wd
   orcid: 0000-0003-1350-9458
   plugin: orcid.py
   file: orcid.yaml
@@ -1564,6 +1671,10 @@
   publisher: Human Brain Mapping
   date: '2019-10-22'
   link: https://doi.org/gpdrjr
+  buttons:
+    - type: article
+      text: article
+      link: https://doi.org/gpdrjr
   orcid: 0000-0003-1350-9458
   plugin: orcid.py
   file: orcid.yaml
@@ -1588,6 +1699,10 @@
   publisher: Personality Neuroscience
   date: '2020-01-01'
   link: https://doi.org/g34v6p
+  buttons:
+    - type: article
+      text: article
+      link: https://doi.org/g34v6p
   orcid: 0000-0003-1350-9458
   plugin: orcid.py
   file: orcid.yaml
@@ -1613,6 +1728,10 @@
   publisher: Scientific Reports
   date: '2019-07-24'
   link: https://doi.org/gks3w8
+  buttons:
+    - type: article
+      text: article
+      link: https://doi.org/gks3w8
   orcid: 0000-0003-1350-9458
   plugin: orcid.py
   file: orcid.yaml
@@ -1633,6 +1752,10 @@
   publisher: Emotion
   date: '2019-12-01'
   link: https://doi.org/gf5sj2
+  buttons:
+    - type: article
+      text: article
+      link: https://doi.org/gf5sj2
   orcid: 0000-0003-1350-9458
   plugin: orcid.py
   file: orcid.yaml
@@ -1651,6 +1774,10 @@
   publisher: bioRxiv
   date: '2025-03-13'
   link: https://doi.org/10.1101/2025.03.13.642273
+  buttons:
+    - type: article
+      text: article
+      link: https://doi.org/10.1101/2025.03.13.642273
   orcid: 0000-0003-1350-9458
   plugin: orcid.py
   file: orcid.yaml
@@ -1674,6 +1801,10 @@
   publisher: PsyArXiv
   date: '2025-05-15'
   link: https://doi.org/g9kjxs
+  buttons:
+    - type: article
+      text: article
+      link: https://doi.org/g9kjxs
   orcid: 0000-0003-1350-9458
   plugin: orcid.py
   file: orcid.yaml
