@@ -1,5 +1,22 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1038/s41467-025-64424-9
+  title: Neurocomputational basis of learning when choices simultaneously affect both
+    oneself and others
+  authors:
+  - Shawn A. Rhoads
+  - Lin Gan
+  - Kathryn Berluti
+  - "Katherine O\u2019Connell"
+  - Jo Cutler
+  - Patricia L. Lockwood
+  - Abigail A. Marsh
+  publisher: Nature Communications
+  date: '2025-10-22'
+  link: https://doi.org/g97prf
+  orcid: 0000-0003-1350-9458
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.31234/osf.io/rtda4_v1
   title: Context-specificity and longitudinal stability of the effects of depressive
     symptoms on social decision-making
