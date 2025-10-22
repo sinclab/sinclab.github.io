@@ -5,26 +5,16 @@ seo_description: "Apply to work in the Social Interaction & Neural Computation L
 
 # {% include icon.html icon="fa-solid fa-sailboat" %}POST-DOCTORAL OPPORTUNITIES
 
-The [**Computation and Decision-Making Lab**](https://codec-lab.github.io/) at New York University (PI: [Mark Ho](https://markkho.github.io/)) and [**Social Interaction and Neural Computation Lab**](https://sinclab.github.io/) at the Icahn School of Medicine at Mount Sinai (PI: [Shawn Rhoads](https://shawnrhoads.github.io/)) are seeking a highly motivated and talented postdoctoral associate. The postdoc will be based at NYU and involved in collaborations across the two institutions. This is an exciting opportunity for individuals with a strong interest in computational models of social interaction (e.g., Bayesian theory of mind, multi-agent reinforcement learning) and how they can be applied to topics in computational psychiatry (e.g., social anxiety, paranoid/delusional ideation, loneliness).
+Applications for the joint postdoctoral position on joint planning and computational psychiatry are now closed.
 
-**Key Responsibilities:**
-- Lead cutting-edge research projects focused on developing novel computational techniques for analyzing behavioral and neural data from participants solving social dilemmas.
-- Collaborate closely with the PIs and lab members.
-- Conduct and publish high-impact research in top-tier journals and conferences.
+Please reach out if you are interested in other postdoctoral opportunities with the lab to work on projects related to computational models of social interaction (e.g., Bayesian theory of mind, multi-agent reinforcement learning) and how they can be applied to topics in computational psychiatry (e.g., social anxiety, paranoid/delusional ideation, loneliness). Qualified applicants should have a 
 
-**What We Offer:**
-- Mentorship and professional development opportunities under the guidance of PIs (Mark Ho and Shawn Rhoads).
-- Access to state-of-the-art research facilities and resources at NYU and Mount Sinai.
-- A supportive network and a stimulating intellectual environment at NYU and Mount Sinai.
-
-**Qualifications:**
+Interested applicants should have the following qualifications:
 - Ph.D. in Cognitive Science, Computer Science, Psychology, Neuroscience, or a related field.
-- Strong background in computational cognitive modeling and statistics.
+- Background/interest in computational cognitive modeling and statistics.
 - Strong programming skills in JavaScript and Python for developing multi-participant, web-based experiments.
 - Familiarity with experimental design for behavioral tasks and data collection from human participants.
-- Demonstrated ability to lead research projects and work collaboratively.
-
-Please apply with your CV, 2-4 references, and a cover letter describing (1) why you are interested in this position and (2) any relevant skills. Application review begins April 18, 2025, and will continue until the role is filled: https://apply.interfolio.com/165809
+- Demonstrated ability to successfuly lead research projects to completion and work collaboratively.
 
 {% include section.html %}
 
