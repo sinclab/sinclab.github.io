@@ -7,7 +7,7 @@ seo_description: "Apply to work in the Social Interaction & Neural Computation L
 
 Applications for the joint postdoctoral position on joint planning and computational psychiatry are now closed.
 
-Please reach out if you are interested in other postdoctoral opportunities with the lab to work on projects related to computational models of social interaction (e.g., Bayesian theory of mind, multi-agent reinforcement learning) and how they can be applied to topics in computational psychiatry (e.g., social anxiety, paranoid/delusional ideation, loneliness). Qualified applicants should have a 
+Please reach out if you are interested in other postdoctoral opportunities with the lab to work on projects related to computational models of social interaction (e.g., Bayesian theory of mind, multi-agent reinforcement learning) and how they can be applied to topics in computational psychiatry (e.g., social anxiety, paranoid/delusional ideation, loneliness).
 
 Interested applicants should have the following qualifications:
 - Ph.D. in Cognitive Science, Computer Science, Psychology, Neuroscience, or a related field.
