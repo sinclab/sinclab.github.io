@@ -1227,16 +1227,19 @@
   - Jo Cutler
   - Patricia Lockwood
   - Abigail Marsh
-  publisher: In press at Nature Communications
-  date: '2023-02-24'
-  link: https://doi.org/g82sgb
+  publisher: Nature Communications
+  date: '2025-10-22'
+  link: https://doi.org/10.1038/s41467-025-64424-9
   orcid: 0000-0003-1350-9458
   plugin: sources.py
   file: sources.yaml
   buttons:
   - type: article
     text: article
-    link: https://doi.org/g82sgb
+    link: https://doi.org/10.1038/s41467-025-64424-9
+  - type: website
+    text: altmetric
+    link: https://nature.altmetric.com/details/doi/10.1038/s41467-025-64424-9
   tags:
   - social learning
   - antisociality
