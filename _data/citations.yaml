@@ -7,16 +7,30 @@
   - Shawn A. Rhoads
   - Lin Gan
   - Kathryn Berluti
-  - "Katherine O\u2019Connell"
+  - Katherine O'Connell
   - Jo Cutler
-  - Patricia L. Lockwood
-  - Abigail A. Marsh
+  - Patricia Lockwood
+  - Abigail Marsh
   publisher: Nature Communications
   date: '2025-10-22'
   link: https://doi.org/g97prf
   orcid: 0000-0003-1350-9458
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  buttons:
+  - type: article
+    text: article
+    link: https://doi.org/10.1038/s41467-025-64424-9
+  - type: website
+    text: altmetric
+    link: https://nature.altmetric.com/details/doi/10.1038/s41467-025-64424-9
+  tags:
+  - social learning
+  - antisociality
+  - prosociality
+  - individual differences
+  - computational modeling
+  - neuroimaging
 - id: doi:10.31234/osf.io/rtda4_v1
   title: Context-specificity and longitudinal stability of the effects of depressive
     symptoms on social decision-making
@@ -1216,37 +1230,6 @@
   - mental health
   - social inference
   - computational modeling
-- id: doi:10.31234/osf.io/rf4x9
-  title: Neurocomputational basis of learning when choices simultaneously affect both
-    oneself and others
-  authors:
-  - Shawn A. Rhoads
-  - Lin Gan
-  - Kathryn Berluti
-  - Katherine O'Connell
-  - Jo Cutler
-  - Patricia Lockwood
-  - Abigail Marsh
-  publisher: Nature Communications
-  date: '2025-10-22'
-  link: https://doi.org/10.1038/s41467-025-64424-9
-  orcid: 0000-0003-1350-9458
-  plugin: sources.py
-  file: sources.yaml
-  buttons:
-  - type: article
-    text: article
-    link: https://doi.org/10.1038/s41467-025-64424-9
-  - type: website
-    text: altmetric
-    link: https://nature.altmetric.com/details/doi/10.1038/s41467-025-64424-9
-  tags:
-  - social learning
-  - antisociality
-  - prosociality
-  - individual differences
-  - computational modeling
-  - neuroimaging
 - id: doi:10.1177/10870547211057074
   title: Associations of Irritability With Functional Connectivity of Amygdala and
     Nucleus Accumbens in Adolescents and Young Adults With ADHD
