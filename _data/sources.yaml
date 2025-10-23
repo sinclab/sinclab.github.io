@@ -1184,8 +1184,10 @@
     - computational modeling
 
 - id: doi:10.31234/osf.io/rf4x9
-  title: Neurocomputational basis of learning when choices simultaneously affect both
-    oneself and others
+  remove: true
+
+- id: doi:10.1038/s41467-025-64424-9
+  title: Neurocomputational basis of learning when choices simultaneously affect both oneself and others
   authors:
   - Shawn A. Rhoads
   - Lin Gan
@@ -1196,7 +1198,7 @@
   - Abigail Marsh
   publisher: Nature Communications
   date: '2025-10-22'
-  link: https://doi.org/10.1038/s41467-025-64424-9
+  link: https://doi.org/g97prf
   buttons:
     - type: article
       text: article
