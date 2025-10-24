@@ -14,7 +14,7 @@ nav:
 
 {% include citation.html lookup="Advancing computational psychiatry through a social lens" style="rich" %}
 
-{% include citation.html lookup="Neurocomputational basis of learning when choices simultaneously affect both" style="rich" %}
+{% include citation.html lookup="Neurocomputational basis of learning when choices simultaneously affect both oneself and others" style="rich" %}
 
 {% include citation.html lookup="Doing good and feeling good: Relationships between altruism and well-being for altruists, beneficiaries, and observers" style="rich" %}
 
