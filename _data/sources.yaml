@@ -1,6 +1,27 @@
 - id: uri:https://openreview.net/forum?id=p3T9CtEu1S
   remove: true
 
+- id: doi:10.31234/osf.io/5jpf7_v1
+  title: Lonelier people feel less empathic despite intact neural empathy responses
+    after meditation training
+  authors:
+  - Marla Dressel
+  - Naomi Michel Nero
+  - Paige Freeburg
+  - Melinda Somers
+  - Ashley S. VanMeter
+  - Shawn A. Rhoads
+  - Abigail A. Marsh
+  publisher: PsyArXiv
+  date: '2025-11-13'
+  link: https://doi.org/10.31234/osf.io/5jpf7_v1
+  buttons:
+    - type: article
+      text: article
+      link: https://doi.org/10.31234/osf.io/5jpf7_v1
+  orcid: 0000-0003-1350-9458
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.31234/osf.io/rtda4_v1
   title: Context-specificity and longitudinal stability of the effects of depressive symptoms on social decision-making
   authors:
@@ -1110,7 +1131,7 @@
   - Vincenzo G. Fiore
   - Daniela Schiller
   - Xiaosi Gu
-  publisher: bioRxiv
+  publisher: Nature Mental Health
   date: '2023-04-24'
   link: https://doi.org/g82sf8
   buttons:
