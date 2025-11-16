@@ -1,7 +1,7 @@
 # site properties and page defaults
 title: "SINC LAB"
 subtitle: "SOCIAL INTERACTION &<br>NEURAL COMPUTATION LAB"
-description: The SINC Lab examines the neural and computational basis of social cognition and interaction. We are particularly interested in understanding how social interactions impact the well-being of self and others, and the contexts in which they can improve mental health outcomes. We use a combination of methods, including computational modeling of behavior, neuroimaging, and direct brain recordings.
+description: The Social Interaction & Neural Computation Lab examines the neural and computational basis of social cognition and interaction. We are particularly interested in understanding how social interactions impact the well-being of self and others, and the contexts in which they can improve mental health outcomes. We use a combination of methods, including computational modeling of behavior, neuroimaging, and direct brain recordings.
 header: images/background.jpg
 footer: images/background.jpg
 proofer: false
@@ -13,8 +13,8 @@ links:
   email: shawn.rhoads@mssm.edu
   orcid: 0000-0003-1350-9458
   google-scholar: __YmDVEAAAAJ
-  github: sinclab
-  bluesky: sinclab.bsky.social
+  github: shawnrhoads
+  bluesky: shawnrhoadsphd.com
 
 ### jekyll settings
 
@@ -27,9 +27,9 @@ defaults:
       layout: default
   # markdown files in /_members
   - scope:
-      type: "members"
+      type: "team"
     values:
-      layout: member
+      layout: team
   # markdown files in /_posts
   - scope:
       type: "posts"
@@ -38,7 +38,7 @@ defaults:
 
 collections:
   # generate page for each member
-  members:
+  team:
     output: true
   # generate page for each post
   posts:

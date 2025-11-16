@@ -1,5 +1,5 @@
 {% if include.lookup %}
-  {% assign member = site.members 
+  {% assign member = site.team 
     | where_exp: "member", "member.slug == include.lookup"
     | first
   %}
