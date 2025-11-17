@@ -22,6 +22,14 @@
   orcid: 0000-0003-1350-9458
   plugin: orcid.py
   file: orcid.yaml
+  tags:
+    - empathy
+    - loneliness
+    - neuroimaging
+    - individual differences
+    - intervention science
+    - mental health
+
 - id: doi:10.31234/osf.io/rtda4_v1
   title: Context-specificity and longitudinal stability of the effects of depressive symptoms on social decision-making
   authors:
