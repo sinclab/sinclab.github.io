@@ -1,5 +1,33 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.31234/osf.io/5jpf7_v1
+  title: Lonelier people feel less empathic despite intact neural empathy responses
+    after meditation training
+  authors:
+  - Marla Dressel
+  - Naomi Michel Nero
+  - Paige Freeburg
+  - Melinda Somers
+  - Ashley S. VanMeter
+  - Shawn A. Rhoads
+  - Abigail A. Marsh
+  publisher: PsyArXiv
+  date: '2025-11-13'
+  link: https://doi.org/10.31234/osf.io/5jpf7_v1
+  orcid: 0000-0003-1350-9458
+  plugin: sources.py
+  file: sources.yaml
+  buttons:
+  - type: article
+    text: article
+    link: https://doi.org/10.31234/osf.io/5jpf7_v1
+  tags:
+  - empathy
+  - loneliness
+  - neuroimaging
+  - individual differences
+  - intervention science
+  - mental health
 - id: doi:10.1038/s41467-025-64424-9
   title: Neurocomputational basis of learning when choices simultaneously affect both
     oneself and others
@@ -1160,7 +1188,7 @@
   - Vincenzo G. Fiore
   - Daniela Schiller
   - Xiaosi Gu
-  publisher: bioRxiv
+  publisher: Nature Mental Health
   date: '2023-04-24'
   link: https://doi.org/g82sf8
   orcid: 0000-0003-1350-9458
