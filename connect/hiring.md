@@ -1,4 +1,4 @@
 ---
 title: "Hiring"
-redirect_to: https://sinclab.github.io/apply
+redirect_to: https://sinclaboratory.com/apply
 ---
