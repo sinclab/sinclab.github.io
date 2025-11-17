@@ -2,22 +2,20 @@
   subtitle:
   group: featured
   link: 
-  description: " "
-  # description: This project aims to characterize how and when computations along a cognitive hierarchy of social information processing (e.g., perception, learning, decision-making, higher-order belief inference) impact social connection and loneliness.
-  image: 
+  description: "This project characterizes how computations along a cognitive hierarchy of social information processing impact social connection and loneliness."
+  image: images/card_loneliness.png
   tags:
     - connection and prosociality
     - understanding others
     - social decision-making
     - computational psychiatry
-    - functional neuroimaging
 
-- title: "Intracranial neural signatures of shared social inference representations between interacting human dyads"
+- title: "Shared intracranial neural dynamics underpinning joint social inference" 
   subtitle:
   group: featured
   link: 
-  description: " "
-  image: 
+  description: "This project compares the neural signatures of social inference representations between interacting humans using intracranial electrophysiology."
+  image: images/card_ieeg.png
   tags:
     - understanding others
     - unique brains shared world
@@ -26,37 +24,41 @@
     - synchrony
     - electrophysiology
 
-- title: "Perspective-taking under naturalistic contexts"
+- title: "Perspective-taking and theory of mind in naturalistic contexts"
   subtitle:
   group: featured
   link: 
-  description: " "
+  description: "This project examines how people take the perspectives of others using naturalistic social paradigms, such as narratives or multi-agent games."
+  image: images/card_grid.png
   tags:
     - unique brains shared world
     - social inference
     - synchrony
-    - functional neuroimaging
     - naturalistic paradigms
+    - social computation
 
-- title: "Individual differences in prosocial and antisocial learning and decision-making"
+- title: "Individual differences in prosocial and antisocial learning"
   subtitle:
   group: featured
   link: 
-  description: " "
-  image: 
+  description: "This project identifies individual variation in the neural and behavioral components of prosocial learning and decision-making."
+  image: images/card_prosocial-brain.png
   tags:
     - connection and prosociality
     - understanding others
     - social decision-making
     - prosocial behavior
-    - reinforcement learning
+    - social computation
 
-- title: "Understanding the impact of prosocial behavior on social connection and subjective well-being"
+- title: "The impact of prosocial behavior on social connection and subjective well-being"
   subtitle:
   group: featured
   link: 
-  description: " "
+  image: images/card_SWB.png
+  description: "This project investigates how engaging in prosocial behavior influences feelings of social connection and subjective well-being."
   tags:
     - connection and prosociality
     - prosocial behavior
     - subjective well-being
+    - social interaction
+    - big data
