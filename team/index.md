@@ -20,7 +20,7 @@ nav:
 
 [Xiaosi Gu, Ph.D.](https://www.neurocpu.org/) (Icahn School of Medicine at Mount Sinai)
 
-[Ignacio Saez, Ph.D.](https://saezlab.org/) (Icahn School of Medicine at Mount Sinai)
+[Ignacio Saez, Ph.D.](https://www.thesaezlab.com/) (Icahn School of Medicine at Mount Sinai)
 
 [Salman Qasim, Ph.D.](https://sites.rutgers.edu/qasim-lab/) (Rutgers University)
 
