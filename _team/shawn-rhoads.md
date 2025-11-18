@@ -48,3 +48,8 @@ Other selected grants, awards, and recognitions include:
 
 {% include list.html data="citations" component="citation"  style="rich"%}
 
+{% include section.html %}
+
+# {% include icon.html icon="fa-solid fa-feather-pointed" %}Latest news and announcements
+
+{% include list.html data="news" component="citation" %}
