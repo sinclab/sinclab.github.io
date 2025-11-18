@@ -14,7 +14,7 @@ Please stay tuned for opportunities to participate in our research!
 
 # {% include icon.html icon="fa-regular fa-paper-plane" %}Apply
 
-Please visit [this page](/apply) for more information on how to become involved!
+Please visit [this page](/apply) for more information on opportunities to become involved as a postdoc, graduate student, postbac, or undergraduate student!
 
 {% include section.html %}
 
