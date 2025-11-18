@@ -9,9 +9,9 @@ nav:
 
 Our lab investigates the neurocomputational processes that shape how humans connect and interact. We combine computational modeling, functional neuroimaging (fMRI), and intracranial electrophysiology to uncover how the brain represents and responds to social information across multiple timescales and contexts. We are particularly interested in how these processes vary across individuals and are modulated by emotional states, mental health, interpersonal dynamics, and broader societal structures. Our research is guided by questions such as:
 <ul>
+<li style="margin-bottom: 20px; font-weight: 600">How do we represent and understand others' internal states (i.e., their emotions, beliefs, goals)?</li>
 <li style="margin-bottom: 20px; font-weight: 600">What neural and computational processes underlie individual differences in social perception, learning, and decision-making?</li>
 <li style="margin-bottom: 20px; font-weight: 600">What drives variability and alignment in shared emotional experiences?</li>
-<li style="margin-bottom: 20px; font-weight: 600">How do we represent and understand others' internal states (i.e., their emotions, beliefs, goals)?</li>
 <li style="margin-bottom: 20px; font-weight: 600">How do prosocial and antisocial behaviors impact interpersonal relationships?</li>
 <li style="margin-bottom: 20px; font-weight: 600">How does loneliness impact these processes and affect mental health?</li>
 <li style="margin-bottom: 20px; font-weight: 600">Under what conditions do external social factors (e.g., context, community, broader societal structures) impact individuals' internal states, including their subjective well-being?</li>
