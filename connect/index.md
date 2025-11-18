@@ -20,4 +20,4 @@ Please visit [this page](/apply) for more information on how to become involved!
 
 # {% include icon.html icon="fa-solid fa-hexagon-nodes" %}Collaborate
 
-We are always looking to form collaborations and community partnerships! Please reach out if your work aligns with our mission and you are interested in working together.
+We are always looking to form collaborations and community partnerships! Please reach out if your work aligns with our mission and you are interested in doing science together.
