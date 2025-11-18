@@ -20,7 +20,7 @@ nav:
 
 {% include section.html %}
 
-## All
+## All Works
 
 {% include search-box.html %}
 
