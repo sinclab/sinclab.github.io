@@ -1,6 +1,6 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.31234/osf.io/5jpf7_v1
+- id: doi:10.31234/osf.io/5jpf7_v2
   title: Lonelier people feel less empathic despite intact neural empathy responses
     after meditation training
   authors:
@@ -9,25 +9,14 @@
   - Paige Freeburg
   - Melinda Somers
   - Ashley S. VanMeter
-  - Shawn A. Rhoads
-  - Abigail A. Marsh
-  publisher: PsyArXiv
-  date: '2025-11-13'
-  link: https://doi.org/10.31234/osf.io/5jpf7_v1
+  - Shawn A Rhoads
+  - Abigail Marsh
+  publisher: Center for Open Science
+  date: '2025-11-18'
+  link: https://doi.org/hbdbvg
   orcid: 0000-0003-1350-9458
-  plugin: sources.py
-  file: sources.yaml
-  buttons:
-  - type: article
-    text: article
-    link: https://doi.org/10.31234/osf.io/5jpf7_v1
-  tags:
-  - empathy
-  - loneliness
-  - neuroimaging
-  - individual differences
-  - intervention science
-  - mental health
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1038/s41467-025-64424-9
   title: Neurocomputational basis of learning when choices simultaneously affect both
     oneself and others
@@ -1353,6 +1342,27 @@
   - altruism
   - social decision-making
   - subjective well-being
+- id: doi:10.1371/journal.pone.0244974
+  title: Reduced social distancing early in the COVID-19 pandemic is associated with
+    antisocial behaviors in an online United States sample
+  authors:
+  - "Katherine O\u2019Connell"
+  - Kathryn Berluti
+  - Shawn A. Rhoads
+  - Abigail A. Marsh
+  publisher: PLOS ONE
+  date: '2021-01-07'
+  link: https://doi.org/g82sgf
+  orcid: 0000-0003-1350-9458
+  plugin: sources.py
+  file: sources.yaml
+  buttons:
+  - type: article
+    text: article
+    link: https://doi.org/g82sgf
+  tags:
+  - antisociality
+  - social decision-making
 - id: doi:10.1016/j.neuron.2021.04.001
   title: 'Brainhack: Developing a culture of open, inclusive, community-driven neuroscience'
   authors:
@@ -1588,27 +1598,6 @@
   tags:
   - open science
   - neuroimaging
-- id: doi:10.1371/journal.pone.0244974
-  title: Reduced social distancing early in the COVID-19 pandemic is associated with
-    antisocial behaviors in an online United States sample
-  authors:
-  - "Katherine O\u2019Connell"
-  - Kathryn Berluti
-  - Shawn A. Rhoads
-  - Abigail A. Marsh
-  publisher: PLOS ONE
-  date: '2021-01-07'
-  link: https://doi.org/g82sgf
-  orcid: 0000-0003-1350-9458
-  plugin: sources.py
-  file: sources.yaml
-  buttons:
-  - type: article
-    text: article
-    link: https://doi.org/g82sgf
-  tags:
-  - antisociality
-  - social decision-making
 - id: doi:10.1111/jcpp.13184
   title: Girls' brain structural connectivity in late adolescence relates to history
     of depression symptoms
@@ -1796,6 +1785,34 @@
   tags:
   - emotion
   - affective experience
+- id: doi:10.31234/osf.io/5jpf7_v1
+  title: Lonelier people feel less empathic despite intact neural empathy responses
+    after meditation training
+  authors:
+  - Marla Dressel
+  - Naomi Michel Nero
+  - Paige Freeburg
+  - Melinda Somers
+  - Ashley S. VanMeter
+  - Shawn A. Rhoads
+  - Abigail A. Marsh
+  publisher: PsyArXiv
+  date: '2025-11-13'
+  link: https://doi.org/10.31234/osf.io/5jpf7_v1
+  buttons:
+  - type: article
+    text: article
+    link: https://doi.org/10.31234/osf.io/5jpf7_v1
+  orcid: 0000-0003-1350-9458
+  plugin: sources.py
+  file: sources.yaml
+  tags:
+  - empathy
+  - loneliness
+  - neuroimaging
+  - individual differences
+  - intervention science
+  - mental health
 - title: 'Doing good and feeling good: Relationships between altruism and well-being
     for altruists, beneficiaries, and observers'
   id: ''
