@@ -5,7 +5,7 @@ seo_description: "We examine the neural, cognitive, and computational basis of s
 
 # We examine the neural, cognitive, and computational basis of social connection and interaction
 
-We are particularly interested in <strong>understanding how social interactions shape the well-being of self and others</strong> and the contexts in which they can improve mental health outcomes. Our research program has two primary goals. The first is to achieve a mechanistic understanding of the factors that improve or impair the well-being of the self and others across multiple levels of analysis (e.g., neurobiological, cognitive, behavioral, interpersonal, societal). The second is to translate this understanding for direct application in medicine and policy.
+The <strong>Social Interaction & Neural Computation Laboratory</strong> (PI: [Shawn A. Rhoads, Ph.D.](team/shawn-rhoads.html)) aims to understand <strong>how social interactions shape the well-being of self and others</strong> and the contexts in which they can improve mental health outcomes. Our research program has two primary goals. The first is to achieve a mechanistic understanding of the factors that improve or impair the well-being of the self and others across multiple levels of analysis (e.g., neurobiological, cognitive, behavioral, interpersonal, societal). The second is to translate this understanding for direct application in medicine and policy.
 
 We use a combination of methods—including computational modeling, functional neuroimaging, and intracranial recordings—to investigate the neural, cognitive, and computational processes underlying human social connection and interaction.
 
@@ -67,7 +67,7 @@ How do individual brains converge or diverge in their perception of the world? O
 
 {% capture text %}
 
-We believe that scientific progress thrives when it is open, collaborative, and rooted in community. Our research promotes open science tools, resources for trainees, and the sharing of open-source code and data to foster collaboration and transparency. We are committed to these values both in the lab and in the broader field, recognizing that science is best when it brings together different backgrounds and perspectives. Through partnerships within the local community and the greater New York Metropolitan area, we aim to apply a community-based scientific approach to improve medicine and policy, working toward a more impactful future for all.
+We believe that scientific progress thrives when it is open, collaborative, and rooted in community. Our research promotes open science tools, resources for trainees, and the sharing of open-source code and data to foster collaboration and transparency. We are committed to these values both in the lab and in the broader field, recognizing that science is best when it brings together different backgrounds and perspectives. Through partnerships within the local community and the greater New York Metropolitan area, we apply a community-based scientific approach to improve medicine and policy, working toward a more impactful future for all.
 
 {% endcapture %}
 
