@@ -140,6 +140,13 @@ mssm-profile:
   tooltip: MSSM
   link: https://scholars.mssm.edu/en/persons/$VALUE
 
+
+mssm-profile:
+  icon: fa-solid fa-brain
+  text: Faculty Profile
+  tooltip: FacultyBrain
+  link: https://profiles.icahn.mssm.edu/$VALUE
+
 # alerts
 
 tip:
