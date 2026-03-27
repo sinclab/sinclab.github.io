@@ -32,7 +32,7 @@ nav:
 
 [Mark K. Ho, Ph.D.](https://codec-lab.github.io/) (New York University)
 
-[Marla Dressel]() (Georgetown University)
+[Marla Dressel](https://scholar.google.com/citations?hl=en&authuser=1&user=yJrMc7QAAAAJ) (Georgetown University)
 
 {% include section.html %}
 
