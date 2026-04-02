@@ -14,9 +14,9 @@ phd:
   icon: fa-solid fa-graduation-cap
   description: PhD Student
 
-grad-research-assistant:
+masters:
   icon: fa-solid fa-graduation-cap
-  description: Graduate Research Assistant
+  description: "Master's Student"
 
 laboratory-manager:
   icon: fa-solid fa-user-graduate

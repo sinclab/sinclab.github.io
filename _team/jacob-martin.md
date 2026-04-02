@@ -1,7 +1,7 @@
 ---
 name: Jacob Martin
 image: empty.jpg
-role: grad-research-assistant
+role: masters
 affiliation: "New York University"
 ---
 
