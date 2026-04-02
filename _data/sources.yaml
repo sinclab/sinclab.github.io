@@ -58,8 +58,8 @@
   date: '2025-10-07'
   link: https://doi.org/10.31234/osf.io/rtda4_v1
   buttons:
-    - type: article
-      text: article
+    - type: preprint
+      text: preprint
       link: https://doi.org/10.31234/osf.io/rtda4_v1
   orcid: 0000-0003-1350-9458
   plugin: orcid.py
@@ -83,6 +83,9 @@
     - type: article
       text: article
       link: https://doi.org/g82sfx
+    - type: website
+      text: altmetric
+      link: https://nature.altmetric.com/details/doi/10.1038/s44220-024-00343-w
   orcid: 0000-0003-1350-9458
   plugin: orcid.py
   file: orcid.yaml
@@ -382,6 +385,12 @@
     - type: article
       text: article
       link: https://doi.org/g8t6b8
+    - type: website
+      text: altmetric
+      link: https://nature.altmetric.com/details/doi/10.1038/s41597-024-03865-1
+    - type: data
+      text: data
+      link: https://osf.io/ytf89
   plugin: orcid.py
   file: orcid.yaml
   tags:
@@ -402,8 +411,8 @@
   date: '2024-06-13'
   link: https://doi.org/g82sf2
   buttons:
-    - type: article
-      text: article
+    - type: preprint
+      text: preprint
       link: https://doi.org/g82sf2
   orcid: 0000-0003-1350-9458
   plugin: sources.py
@@ -722,8 +731,8 @@
   date: '2024-06-05'
   link: https://doi.org/g82sf3
   buttons:
-    - type: article
-      text: article
+    - type: preprint
+      text: preprint
       link: https://doi.org/g82sf3
   orcid: 0000-0003-1350-9458
   plugin: sources.py
@@ -765,8 +774,8 @@
   date: '2024-01-17'
   link: https://doi.org/g82sf5
   buttons:
-    - type: article
-      text: article
+    - type: preprint
+      text: preprint
       link: https://doi.org/g82sf5
   orcid: 0000-0003-1350-9458
   plugin: sources.py
@@ -1158,6 +1167,9 @@
     - type: article
       text: article
       link: https://doi.org/hbt4h9
+    - type: website
+      text: altmetric
+      link: https://nature.altmetric.com/details/doi/10.1038/s44220-026-00593-w
   orcid: 0000-0003-1350-9458
   plugin: sources.py
   file: sources.yaml
@@ -1185,6 +1197,9 @@
     - type: article
       text: article
       link: https://doi.org/gr5pwx
+    - type: github
+      text: data+code
+      link: https://osf.io/7t4qf/
     - type: website
       text: altmetric
       link: https://nature.altmetric.com/details/doi/10.1038/s41467-023-37283-5
@@ -1243,6 +1258,9 @@
     - type: article
       text: article
       link: https://doi.org/10.1038/s41467-025-64424-9
+    - type: github
+      text: data+code
+      link: https://osf.io/2gnv4/
     - type: website
       text: altmetric
       link: https://nature.altmetric.com/details/doi/10.1038/s41467-025-64424-9
@@ -1302,6 +1320,9 @@
     - type: article
       text: article
       link: https://doi.org/g82sgc
+    - type: github
+      text: jupyter book
+      link: https://shawnrhoadsphd.com/gu-psyc-347/
   orcid: 0000-0003-1350-9458
   plugin: orcid.py
   file: orcid.yaml
@@ -1323,6 +1344,9 @@
     - type: article
       text: article
       link: https://doi.org/g82sgd
+    - type: website
+      text: altmetric
+      link: https://nature.altmetric.com/details/doi/10.1093/scan/nsab079
   orcid: 0000-0003-1350-9458
   plugin: orcid.py
   file: orcid.yaml
@@ -1347,6 +1371,9 @@
     - type: article
       text: article
       link: https://doi.org/gk6cd8
+    - type: website
+      text: altmetric
+      link: https://nature.altmetric.com/details/doi/10.1177/0956797621994767
   orcid: 0000-0003-1350-9458
   plugin: orcid.py
   file: orcid.yaml
@@ -1585,6 +1612,12 @@
     - type: article
       text: article
       link: https://doi.org/gjt2b6
+    - type: github
+      text: jupyter book
+      link: http://brainhack.org/brainhack_jupyter_book/
+    - type: website
+      text: altmetric
+      link: https://nature.altmetric.com/details/doi/10.1016/j.neuron.2021.04.001
   orcid: 0000-0003-1350-9458
   plugin: orcid.py
   file: orcid.yaml
