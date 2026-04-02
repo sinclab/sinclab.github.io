@@ -5,22 +5,32 @@
   remove: true
 
 - id: doi:10.31234/osf.io/5jpf7_v2
+  remove: true
+
+- id: doi:10.1101/2023.04.24.538109
+  remove: true
+  
+- id: doi:10.1093/scan/nsag015
   title: Lonelier people feel less empathic despite intact neural empathy responses after meditation training
   authors:
   - Marla Dressel
   - Naomi Michel Nero
   - Paige Freeburg
   - Melinda Somers
+  - Joseph S. Venticinque
   - Ashley S. VanMeter
   - Shawn A. Rhoads
   - Abigail A. Marsh
-  publisher: PsyArXiv
-  date: '2025-11-13'
-  link: https://doi.org/10.31234/osf.io/5jpf7_v1
+  publisher: Social Cognitive and Affective Neuroscience
+  date: '2026-03-18'
+  link: https://doi.org/10.1093/scan/nsag015
   buttons:
     - type: article
       text: article
-      link: https://doi.org/10.31234/osf.io/5jpf7_v1
+      link: https://doi.org/10.1093/scan/nsag015
+    - type: preprint
+      text: preprint
+      link: https://doi.org/10.31234/osf.io/5jpf7_v2
   orcid: 0000-0003-1350-9458
   plugin: orcid.py
   file: orcid.yaml
@@ -1131,9 +1141,9 @@
     - intervention science
     - neuroimaging
 
-- id: doi:10.1101/2023.04.24.538109
-  title: A generalizable computational mechanism underlying the interaction between
-    momentary craving and decision-making
+- id: doi:10.1038/s44220-026-00593-w
+  title: A computational mechanism linking momentary craving and decision-making in
+    alcohol drinkers and cannabis users
   authors:
   - Kaustubh R. Kulkarni
   - Laura A. Berner
@@ -1142,12 +1152,12 @@
   - Daniela Schiller
   - Xiaosi Gu
   publisher: Nature Mental Health
-  date: '2023-04-24'
-  link: https://doi.org/g82sf8
+  date: '2026-03-26'
+  link: https://doi.org/hbt4h9
   buttons:
     - type: article
       text: article
-      link: https://doi.org/g82sf8
+      link: https://doi.org/hbt4h9
   orcid: 0000-0003-1350-9458
   plugin: sources.py
   file: sources.yaml
