@@ -1,4 +1,12 @@
-- title: "Want a happier 2025? It comes down to two words, a neuroscientist says"
+- title: "Shawn Rhoads recognized as a Rising Star by the Association for Psychological Science"
+  link: "https://www.psychologicalscience.org/members/awards-and-honors/aps-rising-stars"
+  publisher: Association for Psychological Science
+  date: '2026-03-23'
+  id: ""
+  tags:
+    - award
+  
+  - title: "Want a happier 2025? It comes down to two words, a neuroscientist says"
   link: "https://www.georgetown.edu/news/neuroscientist-tips-for-a-happier-2025/?utm_source=advancement&utm_medium=email&utm_campaign=georgetown-today-january-2025"
   publisher: Georgetown University
   date: '2025-01-10'
@@ -25,6 +33,7 @@
     - loneliness
     - computational psychiatry
     - social neuroscience
+    - award
 
 - title: "NIH to award over $207 million to support highly innovative biomedical and behavioral research projects"
   link: "https://commonfund.nih.gov/highrisk/highlights/nih-award-over-207-million-support-highly-innovative-biomedical-and-behavioral"
@@ -35,6 +44,7 @@
     - loneliness
     - computational psychiatry
     - social neuroscience
+    - award
 
 - title: "Three Alumni Receive Glassman Distinguished Dissertation Award"
   link: "https://grad.georgetown.edu/2024/05/21/neuroscientist-historian-social-cognitive-scientist-receive-2024-harold-glassman-distinguished-dissertation-award/"
@@ -45,6 +55,7 @@
     - interpersonal perception
     - social learning
     - altruism
+    - award
 
 - title: "Do Moral Gains Necessarily Entail Moral Losses?"
   link: "https://www.psychologytoday.com/us/blog/moral-boundaries/202405/do-moral-gains-necessarily-entail-moral-losses"
@@ -126,7 +137,8 @@
   publisher: "Georgetown University"
   date: "2022-04-21"
   id: ""
-  tags: []
+  tags: 
+    - award
 
 - title: "Shawn Rhoads Successfully Defends Doctoral Dissertation"
   link: "https://psychology.georgetown.edu/news-story/shawn-rhoads-successfully-defends-doctoral-dissertation"
@@ -140,7 +152,8 @@
   publisher: "American Psychological Association"
   date: "2022-03-10"
   id: ""
-  tags: []
+  tags: 
+    - award
 
 - title: "Individualism Makes Us Altruistic and Happy"
   link: "https://www.bloomberg.com/opinion/articles/2021-06-27/cultures-that-are-more-individualistic-can-be-more-altruistic-and-happier-too"
@@ -165,15 +178,21 @@
   publisher: "Georgetown University"
   date: "03-Dec-2020"
   id: ""
+  tags: 
+    - award
 
 - title: "Ph.D. Student to Participate in the Lindau Nobel Laureate Meeting"
   link: "https://college.georgetown.edu/news-story/psychology-ph-d-student-to-participate-in-the-2020-lindau-nobel-laureate-meeting/"
   publisher: "Georgetown University"
   date: "23-March-2020"
   id: ""
+  tags: 
+    - award
 
 - title: "Four Graduate Students Win NSF Fellowships"
   link: "https://college.georgetown.edu/news-story/psychology-graduate-students-win-nsf-fellowships/"
   publisher: "Georgetown University"
   date: "04-May-2018"
   id: ""
+  tags: 
+    - award
