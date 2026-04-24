@@ -1,5 +1,18 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.31234/osf.io/yjdre_v2
+  title: Social expectations and homeostatic dynamics shape momentary social craving
+  authors:
+  - Shawn A Rhoads
+  - Kannon Bhattacharyya
+  - Kaustubh R Kulkarni
+  - Xiaosi Gu
+  publisher: Center for Open Science
+  date: '2026-04-21'
+  link: https://doi.org/hbx9zw
+  orcid: 0000-0003-1350-9458
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1038/s44220-026-00593-w
   title: A computational mechanism linking momentary craving and decision-making in
     alcohol drinkers and cannabis users
@@ -1359,31 +1372,19 @@
   - altruism
   - cooperation
   - neuroimaging
-- id: doi:10.1177/0956797621994767
+- id: doi:10.31234/osf.io/k3y7u
   title: Global variation in subjective well-being predicts seven forms of altruism
   authors:
-  - Shawn A. Rhoads
+  - Shawn A Rhoads
   - Devon Gunter
-  - Rebecca M. Ryan
-  - Abigail A. Marsh
-  publisher: Psychological Science
-  date: '2021-07-08'
-  link: https://doi.org/gk6cd8
+  - Rebecca Ryan
+  - Abigail Marsh
+  publisher: Center for Open Science
+  date: '2021-04-27'
+  link: https://doi.org/hbx9zx
   orcid: 0000-0003-1350-9458
-  plugin: sources.py
-  file: sources.yaml
-  buttons:
-  - type: article
-    text: article
-    link: https://doi.org/gk6cd8
-  - type: website
-    text: altmetric
-    link: https://nature.altmetric.com/details/doi/10.1177/0956797621994767
-  tags:
-  - prosociality
-  - altruism
-  - social decision-making
-  - subjective well-being
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1371/journal.pone.0244974
   title: Reduced social distancing early in the COVID-19 pandemic is associated with
     antisocial behaviors in an online United States sample
@@ -1672,34 +1673,6 @@
   - neuroimaging
   - individual differences
   - mental health
-- id: doi:10.1521/pedi.2020.34.5.628
-  title: Reduced multivoxel pattern similarity of vicarious neural pain responses
-  authors:
-  - Kathryn Berluti
-  - Katherine M. O'Connell
-  - Shawn A. Rhoads
-  - Kristin M. Brethel-Haurwitz
-  - Elise M. Cardinale
-  - Kruti M. Vekaria
-  - Emily L. Robertson
-  - Brian Walitt
-  - John W. VanMeter
-  - Abigail A. Marsh
-  publisher: Journal of Personality Disorders
-  date: '2020-10-01'
-  link: https://doi.org/g82sgg
-  orcid: 0000-0003-1350-9458
-  plugin: sources.py
-  file: sources.yaml
-  buttons:
-  - type: article
-    text: article
-    link: https://doi.org/g82sgg
-  tags:
-  - empathy
-  - antisociality
-  - neuroimaging
-  - individual differences
 - id: doi:10.1016/j.cortex.2020.02.001
   title: Activation in bed nucleus of the stria terminalis (BNST) corresponds to everyday
     helping
@@ -1784,6 +1757,34 @@
   - interpersonal perception
   - individual differences
   - neuroimaging
+- id: doi:10.1521/pedi.2020.34.5.628
+  title: Reduced multivoxel pattern similarity of vicarious neural pain responses
+  authors:
+  - Kathryn Berluti
+  - Katherine M. O'Connell
+  - Shawn A. Rhoads
+  - Kristin M. Brethel-Haurwitz
+  - Elise M. Cardinale
+  - Kruti M. Vekaria
+  - Emily L. Robertson
+  - Brian Walitt
+  - John W. VanMeter
+  - Abigail A. Marsh
+  publisher: Journal of Personality Disorders
+  date: '2020-10-01'
+  link: https://doi.org/g82sgg
+  orcid: 0000-0003-1350-9458
+  plugin: sources.py
+  file: sources.yaml
+  buttons:
+  - type: article
+    text: article
+    link: https://doi.org/g82sgg
+  tags:
+  - empathy
+  - antisociality
+  - neuroimaging
+  - individual differences
 - id: doi:10.1038/s41598-019-47196-3
   title: Increased similarity of neural responses to experienced and empathic distress
     in costly altruism
@@ -1854,3 +1855,28 @@
   - subjective well-being
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1177/0956797621994767
+  title: Global variation in subjective well-being predicts seven forms of altruism
+  authors:
+  - Shawn A. Rhoads
+  - Devon Gunter
+  - Rebecca M. Ryan
+  - Abigail A. Marsh
+  publisher: Psychological Science
+  date: '2021-07-08'
+  link: https://doi.org/gk6cd8
+  buttons:
+  - type: article
+    text: article
+    link: https://doi.org/gk6cd8
+  - type: website
+    text: altmetric
+    link: https://nature.altmetric.com/details/doi/10.1177/0956797621994767
+  orcid: 0000-0003-1350-9458
+  plugin: sources.py
+  file: sources.yaml
+  tags:
+  - prosociality
+  - altruism
+  - social decision-making
+  - subjective well-being
