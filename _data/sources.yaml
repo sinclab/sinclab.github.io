@@ -9,6 +9,31 @@
 
 - id: doi:10.1101/2023.04.24.538109
   remove: true
+
+- id: doi:10.31234/osf.io/yjdre_v2
+  title: Social expectations and homeostatic dynamics shape momentary social craving
+  authors:
+  - Shawn A. Rhoads
+  - Kannon Bhattacharyya
+  - Kaustubh R. Kulkarni
+  - Xiaosi Gu
+  publisher: Center for Open Science
+  date: '2026-04-21'
+  link: https://doi.org/hbx9zw
+  orcid: 0000-0003-1350-9458
+  plugin: orcid.py
+  file: orcid.yaml
+  buttons:
+    - type: preprint
+      text: preprint
+      link: https://doi.org/10.31234/osf.io/yjdre_v2
+  tags:
+    - loneliness
+    - "social decision-making"
+    - individual differences
+    - computational psychiatry
+    - computational modeling
+    - mental health
   
 - id: doi:10.1093/scan/nsag015
   title: Lonelier people feel less empathic despite intact neural empathy responses after meditation training
