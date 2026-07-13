@@ -7,7 +7,7 @@ principal-investigator:
   description: Principal Investigator
 
 postdoc:
-  icon: fa-solid fa-glasses
+  icon: fa-solid fa-brain
   description: Postdoctoral Fellow
 
 phd:
