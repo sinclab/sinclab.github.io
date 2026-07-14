@@ -5,16 +5,16 @@ seo_description: "Apply to work in the Social Interaction & Neural Computation L
 
 # {% include icon.html icon="fa-solid fa-sailboat" %}POST-DOCTORAL OPPORTUNITIES
 
-Applications for the joint postdoctoral position on joint planning and computational psychiatry are now closed.
-
-Please reach out if you are interested in other postdoctoral opportunities with the lab to work on projects related to **computational models of social interaction (e.g., Bayesian theory of mind, multi-agent reinforcement learning)** and how they can be applied to topics in **computational psychiatry (e.g., social anxiety, paranoid/delusional ideation, loneliness)**.
+We are currently recuiting postdocs. Please reach out if you are interested in postdoctoral opportunities with the lab to work on projects related to **computational models of social interaction (e.g., Bayesian theory of mind, multi-agent reinforcement learning)** and how they can be applied to topics in **computational psychiatry (e.g., social anxiety, paranoid/delusional ideation, loneliness)**.
 
 Interested applicants should have the following qualifications:
 - Ph.D. in Cognitive Science, Computer Science, Psychology, Neuroscience, or a related field.
 - Background/interest in computational cognitive modeling and statistics.
 - Strong programming skills in JavaScript and Python for developing multi-participant, web-based experiments.
 - Familiarity with experimental design for behavioral tasks and data collection from human participants.
-- Demonstrated ability to successfuly lead research projects to completion and work collaboratively.
+- Demonstrated ability to successfully lead research projects to completion and work collaboratively.
+
+<strong>We will begin reviewing applications on a rolling basis until the role is filled</strong>. To apply, please upload a cover letter and CV [this form](https://forms.gle/Y5h4JYSKfPRM71Lo8).
 
 {% include section.html %}
 
@@ -34,20 +34,20 @@ We also invite applications for volunteer <strong>Master's students</strong> pos
 
 # {% include icon.html icon="fa-solid fa-sailboat" %}POST-BACCALAUREATE OPPORTUNITIES
 
-Applications for the full-time laboratory manager position are now closed. Please stay tuned for future opportunities!
+<!-- Applications for the full-time laboratory manager position are now closed. Please stay tuned for future opportunities! -->
 
-<!-- The Social Interaction & Neural Computation Lab (PI: Shawn Rhoads) at Mount Sinai School of Medicine (New York, NY) is recruiting a <strong>research coordinator / lab manager</strong> to start in late spring 2025 (start date flexible). The Research Coordinator will be a critical member of the research team and will be responsible for carrying out day-to-day research operations under the supervision of the Principal Investigator. This opportunity is ideal for individuals who would like to pursue a PhD in computational social neuroscience and/or computational psychiatry. -->
+The Social Interaction & Neural Computation Lab (PI: Shawn Rhoads) at Mount Sinai School of Medicine (New York, NY) is recruiting a <strong>full-time research coordinator</strong> to start in early 2026 (start date flexible). The Research Coordinator will be a critical member of the research team and will be responsible for carrying out day-to-day research operations under the supervision of the Principal Investigator. This opportunity is ideal for individuals who would like to pursue a PhD in computational social neuroscience and/or computational psychiatry.
 
-<!-- <strong>We will begin reviewing applications on February 21, 2025</strong> and will continue accepting applications on a rolling basis until the role is filled. To apply, please send a cover letter and CV to shawn(dot)rhoads(at)mssm(dot)edu with subject line “[CRC App 2025] First Name Last Name” (e.g., “[CRC App 2025] Shawn Rhoads”), and complete the application here: [https://careers.mountsinai.org/jobs/3022950](https://careers.mountsinai.org/jobs/3022950) -->
+<strong>We will begin reviewing applications on a rolling basis until the role is filled</strong>. To apply, please upload a cover letter and CV [this form](https://forms.gle/yYaJ8tqyRUv1oz2MA).
 
-<!-- The Research Coordinator will participate in various projects, including but not limited to the following topics:
+The Research Coordinator will participate in various projects, including but not limited to the following topics:
 * the neural and computational basis of loneliness
 * dyadic and multi-agent interactions
 * social learning and decision-making
 * social belief inference
-* affective experiences -->
+* affective experiences
 
-<!-- **Primary responsibilities include:**
+**Primary responsibilities include:**
 * Assisting in clinical research activities for behavioral and neuroimaging studies, including human participant recruitment, obtaining informed consent, screening for eligibility, registering participants with sponsoring agencies, administering questionnaires, collecting data, and answering phone calls
 * Managing IRB protocols
 * Organizing and schedules lab meetings
@@ -56,20 +56,20 @@ Applications for the full-time laboratory manager position are now closed. Pleas
 * Training and supervising research assistants
 * Programming and testing experimental paradigms (PsychoPy/Pavlovia, jsPsych)
 * Analyzing data and contributing to conference presentations and peer-reviewed publications
-* Supporting lab IT infrastructure and data management protocol (archiving, sharing) -->
+* Supporting lab IT infrastructure and data management protocol (archiving, sharing)
 
-<!-- **Qualifications:**
+**Qualifications:**
 * Bachelor’s degree in Psychology, Neuroscience, Cognitive Science, Computer Science, Electrical or Biomedical Engineering, or related fields
 * Prior research experience in any of the areas above
 * Organizational, interpersonal, and communication skills
 * Interests in social computational neuroscience, behavioral economics, and/or computational psychiatry
-* Interests in ecological momentary assessment, computational modeling, neuroimaging, intracranial electrophysiology, hyperscanning -->
+* Interests in ecological momentary assessment, computational modeling, neuroimaging, intracranial electrophysiology, hyperscanning
 
-<!-- **Preferred qualifications:**
+**Preferred qualifications:**
 * Experience with neural data collection and/or analysis (e.g., fMRI, stereo EEG)
 * Experience with large-online and/or in-person behavioral data collection
 * Computational skills (e.g., prior coursework in mathematics, programming in Python)
-* Computer science/IT skills -->
+* Computer science/IT skills
 
 {% include section.html %}
 
