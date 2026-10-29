@@ -1,8 +1,8 @@
 ---
 name: Jacob Martin
-image: empty.jpg
+image: jacob-martin.jpg
 role: masters
 affiliation: "New York University"
 ---
 
-Jacob Martin is a M.A. student of Psychology at New York University working on projects to understand the neural and computational basis of social comparison. He received his B.S. in Neuroscience at the University of Michigan - Ann Arbor in 2021.
+Jacob is a Master’s student in Psychology at New York University. His research focuses on the mechanisms of social cognition, specifically investigating what information individuals prioritize during social interactions and how they strategically learn it. Outside of the lab, Jacob is an avid reader and enjoys exploring New York City’s diverse neighborhoods.
