@@ -1,6 +1,6 @@
 ---
 name: Jacob Martin
-image: jacob-martin.jpg
+image: images/jacob-martin.jpg
 role: masters
 affiliation: "New York University"
 ---
